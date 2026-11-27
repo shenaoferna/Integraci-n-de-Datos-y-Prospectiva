@@ -1,0 +1,1501 @@
+ID,Fecha,Tipo_Vehiculo,Ruta,Causa_Principal,Frecuencia_Ruptura,Severidad_COP,LDA,Envios
+1,2022-01-01,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,5,1176892,5884460,413
+2,2022-01-02,Camión refrigerado,Bogotá-Cali,Falla eléctrica,5,2717712,13588560,249
+3,2022-01-03,Van refrigerada,Medellín-Bucaramanga,Falla del sensor,46,875536,40274656,767
+4,2022-01-04,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,31,1673472,51877632,710
+5,2022-01-05,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,21,1368840,28745640,647
+6,2022-01-06,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,17,2365237,40209029,653
+7,2022-01-07,Furgón refrigerado,Medellín-Cali,Error operativo,33,1433503,47305599,698
+8,2022-01-08,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,22,3329475,73248450,489
+9,2022-01-09,Furgón refrigerado,Cali-Pereira,Retraso en ruta,6,1851770,11110620,265
+10,2022-01-10,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,50,1423862,71193100,486
+11,2022-01-11,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,7,2280437,15963059,564
+12,2022-01-12,Camión refrigerado,Medellín-Bogotá,Falla del sensor,31,2121722,65773382,620
+13,2022-01-13,Furgón refrigerado,Cali-Pereira,Retraso en ruta,26,2284928,59408128,637
+14,2022-01-14,Furgón refrigerado,Bogotá-Cali,Falla eléctrica,26,2985011,77610286,646
+15,2022-01-15,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,21,2102842,44159682,440
+16,2022-01-16,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,13,1081096,14054248,287
+17,2022-01-17,Furgón refrigerado,Cali-Pereira,Falla eléctrica,22,1908271,41981962,754
+18,2022-01-18,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,37,1208880,44728560,635
+19,2022-01-19,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,30,4555077,136652310,603
+20,2022-01-20,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,33,4343668,143341044,627
+21,2022-01-21,Van refrigerada,Medellín-Bogotá,Retraso en ruta,53,1184080,62756240,805
+22,2022-01-22,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,28,1290201,36125628,457
+23,2022-01-23,Camión refrigerado,Bogotá-Cali,Retraso en ruta,12,3091330,37095960,285
+24,2022-01-24,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,80,1825617,146049360,660
+25,2022-01-25,Camión refrigerado,Cali-Pereira,Falla eléctrica,20,2800434,56008680,651
+26,2022-01-26,Camión refrigerado,Cali-Pereira,Falla de refrigeración,20,4250349,85006980,655
+27,2022-01-27,Furgón refrigerado,Cali-Pereira,Retraso en ruta,36,1841922,66309192,600
+28,2022-01-28,Van refrigerada,Medellín-Bucaramanga,Falla del sensor,37,752798,27853526,577
+29,2022-01-29,Van refrigerada,Bogotá-Barranquilla,Falla eléctrica,47,1923309,90395523,381
+30,2022-01-30,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,14,5769830,80777620,242
+31,2022-01-31,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,49,2050379,100468571,693
+32,2022-02-01,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,36,2217946,79846056,730
+33,2022-02-02,Van refrigerada,Medellín-Bucaramanga,Retraso en ruta,51,1605562,81883662,688
+34,2022-02-03,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,23,2469112,56789576,709
+35,2022-02-04,Furgón refrigerado,Medellín-Cali,Falla de refrigeración,25,3254957,81373925,785
+36,2022-02-05,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,26,843600,21933600,424
+37,2022-02-06,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,16,749984,11999744,320
+38,2022-02-07,Van refrigerada,Bogotá-Barranquilla,Error operativo,45,1147244,51625980,518
+39,2022-02-08,Camión refrigerado,Medellín-Bogotá,Error operativo,15,2274525,34117875,683
+40,2022-02-09,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,22,1478161,32519542,631
+41,2022-02-10,Camión refrigerado,Cali-Pereira,Retraso en ruta,17,1782340,30299780,629
+42,2022-02-11,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,51,1381670,70465170,661
+43,2022-02-12,Van refrigerada,Cali-Pereira,Error operativo,8,833901,6671208,390
+44,2022-02-13,Camión refrigerado,Cali-Pereira,Retraso en ruta,2,1689047,3378094,256
+45,2022-02-14,Camión refrigerado,Bogotá-Barranquilla,Falla eléctrica,34,3866097,131447298,796
+46,2022-02-15,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,34,973102,33085468,639
+47,2022-02-16,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,23,2951758,67890434,620
+48,2022-02-17,Camión refrigerado,Bogotá-Cali,Error operativo,14,2587864,36230096,559
+49,2022-02-18,Van refrigerada,Medellín-Bogotá,Falla de refrigeración,26,1966396,51126296,631
+50,2022-02-19,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,16,4596620,73545920,451
+51,2022-02-20,Camión refrigerado,Medellín-Bucaramanga,Error operativo,7,3895568,27268976,205
+52,2022-02-21,Camión refrigerado,Medellín-Bogotá,Error operativo,12,1911491,22937892,510
+53,2022-02-22,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,20,3416716,68334320,646
+54,2022-02-23,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,21,643562,13514802,750
+55,2022-02-24,Furgón refrigerado,Cali-Pereira,Falla del sensor,21,1049392,22037232,636
+56,2022-02-25,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,16,868778,13900448,615
+57,2022-02-26,Camión refrigerado,Cali-Pereira,Retraso en ruta,10,1514689,15146890,540
+58,2022-02-27,Camión refrigerado,Cali-Pereira,Error operativo,7,1275925,8931475,220
+59,2022-02-28,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,24,1443214,34637136,733
+60,2022-03-01,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,22,800863,17618986,669
+61,2022-03-02,Camión refrigerado,Medellín-Bogotá,Falla del sensor,24,1209707,29032968,665
+62,2022-03-03,Van refrigerada,Bogotá-Barranquilla,Apertura prolongada de puertas,17,721889,12272113,562
+63,2022-03-04,Van refrigerada,Bogotá-Barranquilla,Apertura prolongada de puertas,23,759195,17461485,573
+64,2022-03-05,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,20,4074301,81486020,478
+65,2022-03-06,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,6,753615,4521690,302
+66,2022-03-07,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,23,1144915,26333045,607
+67,2022-03-08,Van refrigerada,Medellín-Bogotá,Error operativo,36,1054196,37951056,568
+68,2022-03-09,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,29,1385322,40174338,570
+69,2022-03-10,Camión refrigerado,Medellín-Bucaramanga,Error operativo,40,2424897,96995880,725
+70,2022-03-11,Furgón refrigerado,Cali-Pereira,Error operativo,11,1703420,18737620,692
+71,2022-03-12,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,10,2111988,21119880,488
+72,2022-03-13,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,15,1050713,15760695,306
+73,2022-03-14,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,12,1612112,19345344,598
+74,2022-03-15,Furgón refrigerado,Medellín-Bogotá,Error operativo,25,1433617,35840425,642
+75,2022-03-16,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,26,1695830,44091580,757
+76,2022-03-17,Furgón refrigerado,Cali-Pereira,Falla eléctrica,17,1799743,30595631,602
+77,2022-03-18,Camión refrigerado,Medellín-Bogotá,Falla del sensor,56,1271998,71231888,784
+78,2022-03-19,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,16,2613928,41822848,557
+79,2022-03-20,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,11,796536,8761896,236
+80,2022-03-21,Furgón refrigerado,Bogotá-Cali,Error operativo,33,2042567,67404711,660
+81,2022-03-22,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,16,1546003,24736048,642
+82,2022-03-23,Camión refrigerado,Cali-Pereira,Retraso en ruta,11,1963271,21595981,619
+83,2022-03-24,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,32,1432311,45833952,593
+84,2022-03-25,Furgón refrigerado,Medellín-Bogotá,Error operativo,24,1505858,36140592,680
+85,2022-03-26,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,20,3588922,71778440,467
+86,2022-03-27,Camión refrigerado,Medellín-Cali,Error operativo,4,1253174,5012696,253
+87,2022-03-28,Furgón refrigerado,Cali-Pereira,Error operativo,27,1103261,29788047,643
+88,2022-03-29,Furgón refrigerado,Medellín-Cali,Retraso en ruta,22,1518637,33410014,634
+89,2022-03-30,Furgón refrigerado,Cali-Pereira,Retraso en ruta,11,1553352,17086872,620
+90,2022-03-31,Camión refrigerado,Bogotá-Cali,Retraso en ruta,25,2794177,69854425,673
+91,2022-04-01,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,20,1388856,27777120,783
+92,2022-04-02,Camión refrigerado,Medellín-Bucaramanga,Falla eléctrica,13,6993613,90916969,468
+93,2022-04-03,Van refrigerada,Bogotá-Barranquilla,Error operativo,8,1216202,9729616,288
+94,2022-04-04,Van refrigerada,Bogotá-Cali,Falla eléctrica,33,1768575,58362975,689
+95,2022-04-05,Van refrigerada,Cali-Pereira,Error operativo,19,1469230,27915370,748
+96,2022-04-06,Camión refrigerado,Medellín-Cali,Falla del sensor,48,1690639,81150672,722
+97,2022-04-07,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,28,2049031,57372868,690
+98,2022-04-08,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,36,1962909,70664724,591
+99,2022-04-09,Van refrigerada,Bogotá-Barranquilla,Error operativo,37,1438691,53231567,490
+100,2022-04-10,Camión refrigerado,Medellín-Bucaramanga,Error operativo,12,2295325,27543900,307
+101,2022-04-11,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,17,977983,16625711,794
+102,2022-04-12,Camión refrigerado,Bogotá-Cali,Error operativo,35,2633169,92160915,667
+103,2022-04-13,Furgón refrigerado,Medellín-Bogotá,Error operativo,28,1704725,47732300,680
+104,2022-04-14,Furgón refrigerado,Medellín-Cali,Falla eléctrica,14,1748028,24472392,620
+105,2022-04-15,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,30,2965387,88961610,755
+106,2022-04-16,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,10,796850,7968500,385
+107,2022-04-17,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,5,1779596,8897980,290
+108,2022-04-18,Van refrigerada,Medellín-Bogotá,Error operativo,25,849968,21249200,666
+109,2022-04-19,Camión refrigerado,Bogotá-Cali,Error operativo,22,2543151,55949322,714
+110,2022-04-20,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,10,871084,8710840,631
+111,2022-04-21,Van refrigerada,Bogotá-Cali,Retraso en ruta,43,1250832,53785776,671
+112,2022-04-22,Van refrigerada,Bogotá-Cali,Error operativo,41,1133403,46469523,601
+113,2022-04-23,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,12,1451678,17420136,403
+114,2022-04-24,Camión refrigerado,Bogotá-Cali,Falla del sensor,6,2023199,12139194,295
+115,2022-04-25,Van refrigerada,Bogotá-Cali,Apertura prolongada de puertas,38,976528,37108064,665
+116,2022-04-26,Camión refrigerado,Medellín-Bogotá,Error operativo,12,3206735,38480820,646
+117,2022-04-27,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,25,1654522,41363050,675
+118,2022-04-28,Van refrigerada,Bogotá-Barranquilla,Error operativo,45,1239211,55764495,740
+119,2022-04-29,Camión refrigerado,Medellín-Cali,Retraso en ruta,18,2358162,42446916,792
+120,2022-04-30,Van refrigerada,Bogotá-Cali,Falla del sensor,26,861331,22394606,419
+121,2022-05-01,Camión refrigerado,Bogotá-Cali,Retraso en ruta,7,2184562,15291934,288
+122,2022-05-02,Furgón refrigerado,Cali-Pereira,Retraso en ruta,3,914733,2744199,507
+123,2022-05-03,Camión refrigerado,Medellín-Bogotá,Error operativo,22,2434150,53551300,636
+124,2022-05-04,Van refrigerada,Medellín-Cali,Error operativo,26,1045517,27183442,711
+125,2022-05-05,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,25,1915685,47892125,705
+126,2022-05-06,Van refrigerada,Bogotá-Barranquilla,Falla del sensor,38,873287,33184906,687
+127,2022-05-07,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,11,1757169,19328859,509
+128,2022-05-08,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,12,2859710,34316520,281
+129,2022-05-09,Furgón refrigerado,Medellín-Cali,Error operativo,32,1614275,51656800,693
+130,2022-05-10,Camión refrigerado,Medellín-Bogotá,Error operativo,16,1958541,31336656,686
+131,2022-05-11,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,20,1785454,35709080,711
+132,2022-05-12,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,7,1430827,10015789,729
+133,2022-05-13,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,18,1955005,35190090,689
+134,2022-05-14,Furgón refrigerado,Medellín-Cali,Retraso en ruta,22,1423676,31320872,481
+135,2022-05-15,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,11,808434,8892774,242
+136,2022-05-16,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,20,3438331,68766620,649
+137,2022-05-17,Camión refrigerado,Medellín-Cali,Falla eléctrica,21,3980056,83581176,636
+138,2022-05-18,Camión refrigerado,Bogotá-Barranquilla,Falla eléctrica,23,4197163,96534749,634
+139,2022-05-19,Camión refrigerado,Medellín-Bucaramanga,Error operativo,55,2262409,124432495,641
+140,2022-05-20,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,23,3816376,87776648,667
+141,2022-05-21,Van refrigerada,Medellín-Bucaramanga,Error operativo,16,1239368,19829888,500
+142,2022-05-22,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,14,875102,12251428,292
+143,2022-05-23,Van refrigerada,Bogotá-Cali,Error operativo,25,1157556,28938900,681
+144,2022-05-24,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,21,2086896,43824816,635
+145,2022-05-25,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,19,1244769,23650611,607
+146,2022-05-26,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,24,1216994,29207856,669
+147,2022-05-27,Van refrigerada,Medellín-Bucaramanga,Error operativo,19,1082671,20570749,684
+148,2022-05-28,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,9,737677,6639093,390
+149,2022-05-29,Camión refrigerado,Bogotá-Cali,Error operativo,7,2475356,17327492,242
+150,2022-05-30,Furgón refrigerado,Bogotá-Cali,Falla del sensor,22,1064978,23429516,750
+151,2022-05-31,Camión refrigerado,Cali-Pereira,Falla de refrigeración,17,4524969,76924473,675
+152,2022-06-01,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,39,829079,32334081,651
+153,2022-06-02,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,20,6073111,121462220,624
+154,2022-06-03,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,8,2895394,23163152,637
+155,2022-06-04,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,14,1971601,27602414,477
+156,2022-06-05,Van refrigerada,Medellín-Bogotá,Falla eléctrica,16,2133500,34136000,251
+157,2022-06-06,Van refrigerada,Medellín-Bucaramanga,Error operativo,27,1183488,31954176,533
+158,2022-06-07,Furgón refrigerado,Medellín-Cali,Retraso en ruta,34,2147203,73004902,699
+159,2022-06-08,Van refrigerada,Bogotá-Cali,Falla del sensor,23,858760,19751480,705
+160,2022-06-09,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,15,894425,13416375,748
+161,2022-06-10,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,11,1283642,14120062,627
+162,2022-06-11,Camión refrigerado,Bogotá-Cali,Error operativo,5,2200231,11001155,488
+163,2022-06-12,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,8,821458,6571664,278
+164,2022-06-13,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,26,767318,19950268,729
+165,2022-06-14,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,11,2234493,24579423,688
+166,2022-06-15,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,15,1522673,22840095,676
+167,2022-06-16,Van refrigerada,Bogotá-Barranquilla,Retraso en ruta,59,1740421,102684839,801
+168,2022-06-17,Camión refrigerado,Bogotá-Barranquilla,Error operativo,19,1455614,27656666,561
+169,2022-06-18,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,13,1153964,15001532,511
+170,2022-06-19,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,6,4083118,24498708,244
+171,2022-06-20,Camión refrigerado,Medellín-Bucaramanga,Error operativo,24,2205848,52940352,671
+172,2022-06-21,Furgón refrigerado,Medellín-Bogotá,Error operativo,34,1766209,60051106,654
+173,2022-06-22,Camión refrigerado,Medellín-Bucaramanga,Falla eléctrica,17,4193753,71293801,707
+174,2022-06-23,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,37,955230,35343510,774
+175,2022-06-24,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,41,872780,35783980,577
+176,2022-06-25,Camión refrigerado,Medellín-Bucaramanga,Error operativo,13,1449909,18848817,446
+177,2022-06-26,Van refrigerada,Bogotá-Barranquilla,Falla eléctrica,7,2339156,16374092,260
+178,2022-06-27,Camión refrigerado,Medellín-Cali,Error operativo,8,3396222,27169776,772
+179,2022-06-28,Van refrigerada,Medellín-Bogotá,Error operativo,73,1200978,87671394,676
+180,2022-06-29,Van refrigerada,Bogotá-Barranquilla,Error operativo,26,1174886,30547036,705
+181,2022-06-30,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,39,3457100,134826900,626
+182,2022-07-01,Furgón refrigerado,Medellín-Cali,Falla del sensor,20,1127008,22540160,725
+183,2022-07-02,Camión refrigerado,Cali-Pereira,Retraso en ruta,20,1648310,32966200,412
+184,2022-07-03,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,6,943709,5662254,223
+185,2022-07-04,Camión refrigerado,Bogotá-Cali,Error operativo,35,2302392,80583720,695
+186,2022-07-05,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,28,1195916,33485648,643
+187,2022-07-06,Camión refrigerado,Bogotá-Barranquilla,Error operativo,47,2582143,121360721,738
+188,2022-07-07,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,46,1881997,86571862,624
+189,2022-07-08,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,14,3928868,55004152,669
+190,2022-07-09,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,9,2402205,21619845,434
+191,2022-07-10,Camión refrigerado,Medellín-Bogotá,Error operativo,12,2179168,26150016,293
+192,2022-07-11,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,31,1704816,52849296,706
+193,2022-07-12,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,24,1204954,28918896,648
+194,2022-07-13,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,38,2070510,78679380,708
+195,2022-07-14,Furgón refrigerado,Medellín-Bogotá,Error operativo,26,1739362,45223412,787
+196,2022-07-15,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,34,1121795,38141030,499
+197,2022-07-16,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,7,1289388,9025716,442
+198,2022-07-17,Van refrigerada,Medellín-Cali,Apertura prolongada de puertas,13,1078422,14019486,281
+199,2022-07-18,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,17,1175404,19981868,730
+200,2022-07-19,Van refrigerada,Bogotá-Cali,Retraso en ruta,70,1706250,119437500,645
+201,2022-07-20,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,18,3065407,55177326,667
+202,2022-07-21,Furgón refrigerado,Cali-Pereira,Error operativo,13,1182831,15376803,629
+203,2022-07-22,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,7,1578477,11049339,643
+204,2022-07-23,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,22,1797860,39552920,512
+205,2022-07-24,Van refrigerada,Bogotá-Cali,Error operativo,33,1252574,41334942,338
+206,2022-07-25,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,41,1342095,55025895,664
+207,2022-07-26,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,22,1891705,41617510,547
+208,2022-07-27,Furgón refrigerado,Medellín-Cali,Error operativo,21,1508705,31682805,613
+209,2022-07-28,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,47,606309,28496523,719
+210,2022-07-29,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,33,3262791,107672103,681
+211,2022-07-30,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,11,2860827,31469097,505
+212,2022-07-31,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,14,1608864,22524096,280
+213,2022-08-01,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,42,2122129,89129418,719
+214,2022-08-02,Furgón refrigerado,Medellín-Bogotá,Error operativo,30,1466196,43985880,747
+215,2022-08-03,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,26,2621963,68171038,704
+216,2022-08-04,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,35,3011524,105403340,689
+217,2022-08-05,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,23,985248,22660704,638
+218,2022-08-06,Camión refrigerado,Medellín-Bogotá,Error operativo,21,2245527,47156067,388
+219,2022-08-07,Van refrigerada,Bogotá-Barranquilla,Error operativo,41,1207581,49510821,255
+220,2022-08-08,Camión refrigerado,Bogotá-Barranquilla,Error operativo,43,2197138,94476934,730
+221,2022-08-09,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,31,1141574,35388794,601
+222,2022-08-10,Van refrigerada,Medellín-Bogotá,Falla del sensor,31,850961,26379791,590
+223,2022-08-11,Furgón refrigerado,Cali-Pereira,Error operativo,21,1497968,31457328,779
+224,2022-08-12,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,25,2307439,57685975,654
+225,2022-08-13,Van refrigerada,Bogotá-Barranquilla,Retraso en ruta,58,1442553,83668074,486
+226,2022-08-14,Camión refrigerado,Cali-Pereira,Error operativo,8,1821682,14573456,274
+227,2022-08-15,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,23,3456337,79495751,568
+228,2022-08-16,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,6,1398108,8388648,671
+229,2022-08-17,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,41,1130191,46337831,792
+230,2022-08-18,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,24,1111773,26682552,579
+231,2022-08-19,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,22,1312129,28866838,676
+232,2022-08-20,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,19,2596751,49338269,448
+233,2022-08-21,Furgón refrigerado,Cali-Pereira,Error operativo,13,1240235,16123055,306
+234,2022-08-22,Van refrigerada,Medellín-Bogotá,Retraso en ruta,34,1236065,42026210,647
+235,2022-08-23,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,22,1696760,37328720,652
+236,2022-08-24,Furgón refrigerado,Cali-Pereira,Error operativo,17,1083924,18426708,646
+237,2022-08-25,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,39,1193281,46537959,652
+238,2022-08-26,Van refrigerada,Bogotá-Barranquilla,Error operativo,54,1383462,74706948,642
+239,2022-08-27,Camión refrigerado,Cali-Pereira,Retraso en ruta,15,2287095,34306425,433
+240,2022-08-28,Furgón refrigerado,Bogotá-Cali,Error operativo,12,941804,11301648,240
+241,2022-08-29,Furgón refrigerado,Cali-Pereira,Error operativo,18,1461527,26307486,701
+242,2022-08-30,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,17,1365964,23221388,596
+243,2022-08-31,Van refrigerada,Cali-Pereira,Apertura prolongada de puertas,18,688190,12387420,625
+244,2022-09-01,Camión refrigerado,Cali-Pereira,Error operativo,12,2097968,25175616,702
+245,2022-09-02,Van refrigerada,Medellín-Cali,Error operativo,18,1345389,24217002,639
+246,2022-09-03,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,30,2427284,72818520,499
+247,2022-09-04,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,10,2197553,21975530,298
+248,2022-09-05,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,27,1487806,40170762,673
+249,2022-09-06,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,25,5318552,132963800,687
+250,2022-09-07,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,8,1251295,10010360,616
+251,2022-09-08,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,20,2686127,53722540,692
+252,2022-09-09,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,23,2453646,56433858,565
+253,2022-09-10,Van refrigerada,Medellín-Cali,Falla del sensor,21,1009871,21207291,439
+254,2022-09-11,Camión refrigerado,Medellín-Bogotá,Falla del sensor,10,3006888,30068880,302
+255,2022-09-12,Camión refrigerado,Medellín-Bogotá,Error operativo,30,2646097,79382910,670
+256,2022-09-13,Camión refrigerado,Bogotá-Cali,Retraso en ruta,29,3570218,103536322,759
+257,2022-09-14,Camión refrigerado,Medellín-Bucaramanga,Error operativo,16,3041043,48656688,609
+258,2022-09-15,Camión refrigerado,Medellín-Cali,Retraso en ruta,25,2365205,59130125,722
+259,2022-09-16,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,37,6159592,227904904,741
+260,2022-09-17,Camión refrigerado,Medellín-Cali,Error operativo,20,2305466,46109320,571
+261,2022-09-18,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,3,1925181,5775543,244
+262,2022-09-19,Van refrigerada,Medellín-Bucaramanga,Retraso en ruta,48,1169861,56153328,688
+263,2022-09-20,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,32,1747228,55911296,672
+264,2022-09-21,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,25,817057,20426425,610
+265,2022-09-22,Furgón refrigerado,Cali-Pereira,Error operativo,13,2134350,27746550,733
+266,2022-09-23,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,27,6243835,168583545,721
+267,2022-09-24,Van refrigerada,Medellín-Cali,Falla de refrigeración,34,3530634,120041556,465
+268,2022-09-25,Camión refrigerado,Medellín-Bogotá,Error operativo,10,1977491,19774910,241
+269,2022-09-26,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,79,2042591,161364689,840
+270,2022-09-27,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,27,3323516,89734932,544
+271,2022-09-28,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,31,1903530,59009430,788
+272,2022-09-29,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,33,2168311,71554263,904
+273,2022-09-30,Furgón refrigerado,Cali-Pereira,Falla eléctrica,8,2983677,23869416,605
+274,2022-10-01,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,13,1077932,14013116,462
+275,2022-10-02,Van refrigerada,Medellín-Bogotá,Falla eléctrica,11,1632119,17953309,285
+276,2022-10-03,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,36,1008344,36300384,785
+277,2022-10-04,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,15,2556266,38343990,666
+278,2022-10-05,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,8,1981380,15851040,745
+279,2022-10-06,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,35,1943301,68015535,706
+280,2022-10-07,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,36,1972159,70997724,758
+281,2022-10-08,Camión refrigerado,Medellín-Cali,Retraso en ruta,15,2007483,30112245,474
+282,2022-10-09,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,3,2695835,8087505,248
+283,2022-10-10,Furgón refrigerado,Medellín-Cali,Error operativo,12,1482649,17791788,730
+284,2022-10-11,Van refrigerada,Medellín-Cali,Error operativo,33,1240363,40931979,793
+285,2022-10-12,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,61,2850960,173908560,764
+286,2022-10-13,Van refrigerada,Cali-Pereira,Error operativo,41,1072400,43968400,715
+287,2022-10-14,Van refrigerada,Medellín-Cali,Error operativo,25,699325,17483125,776
+288,2022-10-15,Furgón refrigerado,Cali-Pereira,Falla del sensor,7,1320559,9243913,441
+289,2022-10-16,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,16,1615188,25843008,267
+290,2022-10-17,Van refrigerada,Cali-Pereira,Apertura prolongada de puertas,28,493287,13812036,799
+291,2022-10-18,Camión refrigerado,Medellín-Bucaramanga,Error operativo,33,2480339,81851187,677
+292,2022-10-19,Van refrigerada,Bogotá-Barranquilla,Apertura prolongada de puertas,77,817445,62943265,721
+293,2022-10-20,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,22,1077254,23699588,611
+294,2022-10-21,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,24,3691599,88598376,650
+295,2022-10-22,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,34,1415266,48119044,557
+296,2022-10-23,Furgón refrigerado,Bogotá-Cali,Error operativo,6,1190693,7144158,265
+297,2022-10-24,Van refrigerada,Cali-Pereira,Retraso en ruta,22,1185649,26084278,709
+298,2022-10-25,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,16,1822716,29163456,765
+299,2022-10-26,Van refrigerada,Cali-Pereira,Error operativo,27,709024,19143648,715
+300,2022-10-27,Van refrigerada,Medellín-Cali,Apertura prolongada de puertas,52,445963,23190076,731
+301,2022-10-28,Van refrigerada,Bogotá-Cali,Falla del sensor,29,912548,26463892,685
+302,2022-10-29,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,20,5284315,105686300,543
+303,2022-10-30,Van refrigerada,Bogotá-Cali,Falla eléctrica,11,2067794,22745734,253
+304,2022-10-31,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,27,1065580,28770660,615
+305,2022-11-01,Van refrigerada,Bogotá-Cali,Retraso en ruta,33,1513400,49942200,626
+306,2022-11-02,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,26,1957973,50907298,669
+307,2022-11-03,Camión refrigerado,Bogotá-Barranquilla,Error operativo,15,1924488,28867320,596
+308,2022-11-04,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,31,1060979,32890349,618
+309,2022-11-05,Camión refrigerado,Medellín-Bucaramanga,Error operativo,18,1790868,32235624,522
+310,2022-11-06,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,14,919238,12869332,283
+311,2022-11-07,Camión refrigerado,Medellín-Cali,Error operativo,21,2106513,44236773,649
+312,2022-11-08,Camión refrigerado,Medellín-Bogotá,Error operativo,14,2464311,34500354,664
+313,2022-11-09,Camión refrigerado,Medellín-Bogotá,Error operativo,21,2535984,53255664,690
+314,2022-11-10,Camión refrigerado,Bogotá-Barranquilla,Error operativo,32,2471635,79092320,600
+315,2022-11-11,Van refrigerada,Medellín-Bucaramanga,Retraso en ruta,36,1485819,53489484,722
+316,2022-11-12,Camión refrigerado,Bogotá-Barranquilla,Error operativo,17,3920258,66644386,507
+317,2022-11-13,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,18,792285,14261130,314
+318,2022-11-14,Furgón refrigerado,Medellín-Bogotá,Error operativo,27,1509218,40748886,639
+319,2022-11-15,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,22,983448,21635856,667
+320,2022-11-16,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,42,670660,28167720,797
+321,2022-11-17,Camión refrigerado,Medellín-Cali,Retraso en ruta,25,2172097,54302425,778
+322,2022-11-18,Camión refrigerado,Cali-Pereira,Error operativo,28,1836492,51421776,676
+323,2022-11-19,Van refrigerada,Cali-Pereira,Apertura prolongada de puertas,16,387068,6193088,452
+324,2022-11-20,Van refrigerada,Bogotá-Barranquilla,Error operativo,23,1514302,34828946,329
+325,2022-11-21,Camión refrigerado,Medellín-Bogotá,Falla del sensor,4,1134986,4539944,662
+326,2022-11-22,Camión refrigerado,Medellín-Bogotá,Falla del sensor,18,1965400,35377200,831
+327,2022-11-23,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,20,4655484,93109680,643
+328,2022-11-24,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,19,1465486,27844234,635
+329,2022-11-25,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,15,2581546,38723190,614
+330,2022-11-26,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,29,925097,26827813,533
+331,2022-11-27,Camión refrigerado,Bogotá-Cali,Error operativo,4,2371787,9487148,266
+332,2022-11-28,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,11,2928998,32218978,722
+333,2022-11-29,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,44,2940320,129374080,683
+334,2022-11-30,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,63,1942713,122390919,816
+335,2022-12-01,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,40,1271475,50859000,817
+336,2022-12-02,Camión refrigerado,Bogotá-Cali,Error operativo,30,1762616,52878480,593
+337,2022-12-03,Van refrigerada,Bogotá-Cali,Error operativo,49,1118401,54801649,492
+338,2022-12-04,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,7,4332548,30327836,289
+339,2022-12-05,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,23,3514304,80828992,697
+340,2022-12-06,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,31,1359134,42133154,797
+341,2022-12-07,Camión refrigerado,Cali-Pereira,Retraso en ruta,6,2700482,16202892,624
+342,2022-12-08,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,20,1361182,27223640,686
+343,2022-12-09,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,36,3509201,126331236,776
+344,2022-12-10,Van refrigerada,Medellín-Cali,Falla de refrigeración,11,3720666,40927326,441
+345,2022-12-11,Camión refrigerado,Medellín-Bogotá,Error operativo,7,1891558,13240906,218
+346,2022-12-12,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,44,1754088,77179872,736
+347,2022-12-13,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,21,2673635,56146335,740
+348,2022-12-14,Camión refrigerado,Medellín-Bucaramanga,Error operativo,29,2083388,60418252,665
+349,2022-12-15,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,34,545722,18554548,676
+350,2022-12-16,Camión refrigerado,Cali-Pereira,Falla del sensor,17,1245372,21171324,670
+351,2022-12-17,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,14,1993346,27906844,441
+352,2022-12-18,Camión refrigerado,Bogotá-Barranquilla,Error operativo,12,3210588,38527056,303
+353,2022-12-19,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,18,2227835,40101030,711
+354,2022-12-20,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,44,1847711,81299284,677
+355,2022-12-21,Camión refrigerado,Medellín-Bogotá,Error operativo,14,2604860,36468040,691
+356,2022-12-22,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,46,2443474,112399804,761
+357,2022-12-23,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,32,1182468,37838976,759
+358,2022-12-24,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,21,1797727,37752267,449
+359,2022-12-25,Camión refrigerado,Bogotá-Cali,Retraso en ruta,5,2791600,13958000,243
+360,2022-12-26,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,34,1662035,56509190,642
+361,2022-12-27,Camión refrigerado,Medellín-Cali,Falla del sensor,23,1682734,38702882,666
+362,2022-12-28,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,23,1288171,29627933,778
+363,2022-12-29,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,33,3443894,113648502,758
+364,2022-12-30,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,32,1499068,47970176,670
+365,2022-12-31,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,24,831165,19947960,489
+366,2023-01-01,Van refrigerada,Bogotá-Barranquilla,Error operativo,24,1289348,30944352,281
+367,2023-01-02,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,38,2200046,83601748,725
+368,2023-01-03,Furgón refrigerado,Bogotá-Cali,Falla del sensor,25,1076793,26919825,785
+369,2023-01-04,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,4,704763,2819052,702
+370,2023-01-05,Van refrigerada,Bogotá-Cali,Error operativo,26,1138512,29601312,643
+371,2023-01-06,Camión refrigerado,Cali-Pereira,Error operativo,12,1387152,16645824,591
+372,2023-01-07,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,21,627804,13183884,510
+373,2023-01-08,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,11,2058546,22644006,252
+374,2023-01-09,Furgón refrigerado,Bogotá-Cali,Error operativo,46,1546794,71152524,633
+375,2023-01-10,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,17,3050827,51864059,629
+376,2023-01-11,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,71,1388153,98558863,646
+377,2023-01-12,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,30,2830099,84902970,547
+378,2023-01-13,Furgón refrigerado,Medellín-Bogotá,Error operativo,37,1555458,57551946,794
+379,2023-01-14,Furgón refrigerado,Cali-Pereira,Error operativo,10,1863056,18630560,366
+380,2023-01-15,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,3,1374530,4123590,241
+381,2023-01-16,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,9,1329906,11969154,731
+382,2023-01-17,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,44,3326578,146369432,772
+383,2023-01-18,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,23,1514802,34840446,699
+384,2023-01-19,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,10,4242008,42420080,608
+385,2023-01-20,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,25,2063396,51584900,880
+386,2023-01-21,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,13,801904,10424752,476
+387,2023-01-22,Camión refrigerado,Medellín-Cali,Falla del sensor,13,1384303,17995939,328
+388,2023-01-23,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,28,1184597,33168716,705
+389,2023-01-24,Camión refrigerado,Cali-Pereira,Error operativo,23,2265601,52108823,724
+390,2023-01-25,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,47,1669026,78444222,658
+391,2023-01-26,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,26,4932374,128241724,668
+392,2023-01-27,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,41,1293063,53015583,707
+393,2023-01-28,Van refrigerada,Medellín-Bucaramanga,Falla de refrigeración,35,1992826,69748910,417
+394,2023-01-29,Van refrigerada,Medellín-Bogotá,Falla del sensor,5,883036,4415180,245
+395,2023-01-30,Furgón refrigerado,Medellín-Cali,Error operativo,19,1787735,33966965,805
+396,2023-01-31,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,48,1602918,76940064,670
+397,2023-02-01,Camión refrigerado,Bogotá-Cali,Falla eléctrica,43,2977592,128036456,874
+398,2023-02-02,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,37,1282215,47441955,676
+399,2023-02-03,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,19,2426562,46104678,656
+400,2023-02-04,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,31,733160,22727960,487
+401,2023-02-05,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,16,1592067,25473072,313
+402,2023-02-06,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,29,3975346,115285034,800
+403,2023-02-07,Furgón refrigerado,Medellín-Bogotá,Error operativo,31,1464486,45399066,753
+404,2023-02-08,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,10,862318,8623180,499
+405,2023-02-09,Camión refrigerado,Medellín-Cali,Falla eléctrica,19,3074103,58407957,730
+406,2023-02-10,Furgón refrigerado,Bogotá-Cali,Error operativo,44,1620376,71296544,520
+407,2023-02-11,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,31,723122,22416782,492
+408,2023-02-12,Van refrigerada,Medellín-Bogotá,Retraso en ruta,14,1071067,14994938,252
+409,2023-02-13,Camión refrigerado,Bogotá-Barranquilla,Falla eléctrica,33,4221259,139301547,545
+410,2023-02-14,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,14,2821645,39503030,603
+411,2023-02-15,Camión refrigerado,Cali-Pereira,Retraso en ruta,18,2551263,45922734,576
+412,2023-02-16,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,22,2769298,60924556,628
+413,2023-02-17,Van refrigerada,Bogotá-Barranquilla,Error operativo,24,1195254,28686096,635
+414,2023-02-18,Furgón refrigerado,Medellín-Cali,Falla eléctrica,10,3286665,32866650,472
+415,2023-02-19,Van refrigerada,Cali-Pereira,Retraso en ruta,19,1223259,23241921,244
+416,2023-02-20,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,18,2047763,36859734,657
+417,2023-02-21,Furgón refrigerado,Cali-Pereira,Error operativo,18,1213796,21848328,690
+418,2023-02-22,Furgón refrigerado,Medellín-Cali,Falla de refrigeración,18,2329361,41928498,743
+419,2023-02-23,Van refrigerada,Bogotá-Cali,Falla eléctrica,52,1656003,86112156,668
+420,2023-02-24,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,7,2537128,17759896,618
+421,2023-02-25,Van refrigerada,Medellín-Bogotá,Error operativo,43,1160668,49908724,536
+422,2023-02-26,Van refrigerada,Bogotá-Barranquilla,Apertura prolongada de puertas,22,684977,15069494,244
+423,2023-02-27,Van refrigerada,Bogotá-Barranquilla,Retraso en ruta,60,1614047,96842820,765
+424,2023-02-28,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,40,1813906,72556240,617
+425,2023-03-01,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,20,1794423,35888460,673
+426,2023-03-02,Van refrigerada,Medellín-Bucaramanga,Retraso en ruta,53,1478910,78382230,695
+427,2023-03-03,Van refrigerada,Medellín-Cali,Apertura prolongada de puertas,61,575747,35120567,739
+428,2023-03-04,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,22,2447005,53834110,503
+429,2023-03-05,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,6,1424732,8548392,249
+430,2023-03-06,Camión refrigerado,Medellín-Bogotá,Error operativo,19,2683078,50978482,559
+431,2023-03-07,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,17,4957700,84280900,647
+432,2023-03-08,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,18,1124400,20239200,598
+433,2023-03-09,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,48,1670050,80162400,966
+434,2023-03-10,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,23,10663453,245259419,860
+435,2023-03-11,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,15,2831887,42478305,407
+436,2023-03-12,Camión refrigerado,Medellín-Cali,Error operativo,7,1654492,11581444,248
+437,2023-03-13,Camión refrigerado,Medellín-Bogotá,Falla del sensor,24,1229603,29510472,658
+438,2023-03-14,Van refrigerada,Medellín-Bogotá,Retraso en ruta,35,1133640,39677400,798
+439,2023-03-15,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,29,3050174,88455046,701
+440,2023-03-16,Camión refrigerado,Bogotá-Cali,Falla del sensor,8,1285483,10283864,642
+441,2023-03-17,Camión refrigerado,Medellín-Cali,Falla del sensor,33,1608673,53086209,644
+442,2023-03-18,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,10,2336167,23361670,495
+443,2023-03-19,Van refrigerada,Medellín-Bucaramanga,Falla del sensor,12,892561,10710732,297
+444,2023-03-20,Van refrigerada,Medellín-Bucaramanga,Falla eléctrica,15,1404432,21066480,719
+445,2023-03-21,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,34,1460711,49664174,811
+446,2023-03-22,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,22,4056386,89240492,610
+447,2023-03-23,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,26,3554217,92409642,696
+448,2023-03-24,Van refrigerada,Medellín-Cali,Falla del sensor,13,935980,12167740,697
+449,2023-03-25,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,16,3310107,52961712,444
+450,2023-03-26,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,15,2063790,30956850,269
+451,2023-03-27,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,16,1348270,21572320,613
+452,2023-03-28,Van refrigerada,Medellín-Cali,Retraso en ruta,31,1081108,33514348,672
+453,2023-03-29,Camión refrigerado,Medellín-Cali,Retraso en ruta,17,2514784,42751328,757
+454,2023-03-30,Furgón refrigerado,Medellín-Cali,Falla de refrigeración,29,3475491,100789239,780
+455,2023-03-31,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,12,1743285,20919420,641
+456,2023-04-01,Van refrigerada,Cali-Pereira,Retraso en ruta,21,1071130,22493730,443
+457,2023-04-02,Camión refrigerado,Medellín-Cali,Error operativo,6,1612397,9674382,283
+458,2023-04-03,Camión refrigerado,Bogotá-Barranquilla,Error operativo,35,2445075,85577625,737
+459,2023-04-04,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,14,2499642,34994988,724
+460,2023-04-05,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,23,1121221,25788083,834
+461,2023-04-06,Camión refrigerado,Cali-Pereira,Retraso en ruta,7,1235636,8649452,618
+462,2023-04-07,Furgón refrigerado,Medellín-Cali,Error operativo,21,1865297,39171237,717
+463,2023-04-08,Camión refrigerado,Medellín-Bucaramanga,Error operativo,30,2187917,65637510,505
+464,2023-04-09,Furgón refrigerado,Medellín-Cali,Retraso en ruta,19,1284259,24400921,264
+465,2023-04-10,Camión refrigerado,Bogotá-Cali,Error operativo,6,1685628,10113768,624
+466,2023-04-11,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,23,1589247,36552681,720
+467,2023-04-12,Furgón refrigerado,Medellín-Bogotá,Error operativo,26,1954120,50807120,778
+468,2023-04-13,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,20,1337227,26744540,637
+469,2023-04-14,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,20,594778,11895560,740
+470,2023-04-15,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,44,2136842,94021048,617
+471,2023-04-16,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,14,4599065,64386910,255
+472,2023-04-17,Furgón refrigerado,Medellín-Cali,Retraso en ruta,24,2119643,50871432,679
+473,2023-04-18,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,19,1260886,23956834,598
+474,2023-04-19,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,30,4122150,123664500,620
+475,2023-04-20,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,34,1814103,61679502,706
+476,2023-04-21,Furgón refrigerado,Bogotá-Cali,Falla de refrigeración,15,7309200,109638000,609
+477,2023-04-22,Van refrigerada,Cali-Pereira,Error operativo,16,1044319,16709104,535
+478,2023-04-23,Van refrigerada,Medellín-Cali,Falla del sensor,15,814685,12220275,288
+479,2023-04-24,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,31,1605618,49774158,652
+480,2023-04-25,Furgón refrigerado,Cali-Pereira,Error operativo,20,1352036,27040720,677
+481,2023-04-26,Camión refrigerado,Medellín-Cali,Falla eléctrica,19,3651485,69378215,806
+482,2023-04-27,Camión refrigerado,Medellín-Bogotá,Error operativo,17,2257439,38376463,700
+483,2023-04-28,Camión refrigerado,Medellín-Cali,Error operativo,12,2389049,28668588,557
+484,2023-04-29,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,16,6151126,98418016,610
+485,2023-04-30,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,7,2887786,20214502,292
+486,2023-05-01,Camión refrigerado,Cali-Pereira,Falla del sensor,11,1624182,17866002,583
+487,2023-05-02,Camión refrigerado,Bogotá-Cali,Error operativo,30,2441050,73231500,828
+488,2023-05-03,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,24,5294779,127074696,619
+489,2023-05-04,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,16,1510252,24164032,639
+490,2023-05-05,Camión refrigerado,Medellín-Bucaramanga,Error operativo,19,2315649,43997331,799
+491,2023-05-06,Camión refrigerado,Medellín-Bogotá,Error operativo,17,1796696,30543832,551
+492,2023-05-07,Furgón refrigerado,Cali-Pereira,Retraso en ruta,5,2616201,13081005,321
+493,2023-05-08,Camión refrigerado,Medellín-Bogotá,Error operativo,27,2206495,59575365,682
+494,2023-05-09,Furgón refrigerado,Cali-Pereira,Retraso en ruta,17,1300046,22100782,639
+495,2023-05-10,Van refrigerada,Medellín-Cali,Retraso en ruta,39,1341544,52320216,558
+496,2023-05-11,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,25,1607284,40182100,624
+497,2023-05-12,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,20,2115966,42319320,656
+498,2023-05-13,Van refrigerada,Medellín-Bogotá,Retraso en ruta,15,1877051,28155765,486
+499,2023-05-14,Camión refrigerado,Bogotá-Cali,Error operativo,10,2183370,21833700,296
+500,2023-05-15,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,26,1708720,44426720,680
+501,2023-05-16,Van refrigerada,Bogotá-Cali,Falla de refrigeración,25,2205610,55140250,611
+502,2023-05-17,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,56,1145753,64162168,598
+503,2023-05-18,Furgón refrigerado,Bogotá-Cali,Error operativo,47,1464520,68832440,771
+504,2023-05-19,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,31,1980457,61394167,606
+505,2023-05-20,Furgón refrigerado,Medellín-Cali,Falla del sensor,29,1433253,41564337,531
+506,2023-05-21,Furgón refrigerado,Bogotá-Cali,Falla eléctrica,13,2358682,30662866,314
+507,2023-05-22,Furgón refrigerado,Bogotá-Cali,Falla eléctrica,31,2637625,81766375,796
+508,2023-05-23,Camión refrigerado,Medellín-Bucaramanga,Error operativo,35,2155059,75427065,706
+509,2023-05-24,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,27,2543740,68680980,698
+510,2023-05-25,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,35,1416611,49581385,742
+511,2023-05-26,Camión refrigerado,Cali-Pereira,Error operativo,10,1567946,15679460,747
+512,2023-05-27,Furgón refrigerado,Bogotá-Cali,Error operativo,13,1495196,19437548,557
+513,2023-05-28,Van refrigerada,Medellín-Cali,Retraso en ruta,5,1382242,6911210,287
+514,2023-05-29,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,16,2763102,44209632,668
+515,2023-05-30,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,22,1325952,29170944,736
+516,2023-05-31,Camión refrigerado,Bogotá-Cali,Error operativo,36,2400219,86407884,699
+517,2023-06-01,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,38,851072,32340736,709
+518,2023-06-02,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,27,1176590,31767930,735
+519,2023-06-03,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,16,1385079,22161264,544
+520,2023-06-04,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,12,691502,8298024,253
+521,2023-06-05,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,34,670052,22781768,795
+522,2023-06-06,Van refrigerada,Medellín-Bogotá,Retraso en ruta,37,1316528,48711536,705
+523,2023-06-07,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,21,4142914,87001194,764
+524,2023-06-08,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,35,1285540,44993900,740
+525,2023-06-09,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,41,1765284,72376644,631
+526,2023-06-10,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,11,1494524,16439764,509
+527,2023-06-11,Camión refrigerado,Medellín-Cali,Error operativo,18,2155450,38798100,294
+528,2023-06-12,Camión refrigerado,Medellín-Cali,Error operativo,53,2278322,120751066,687
+529,2023-06-13,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,21,2139239,44924019,672
+530,2023-06-14,Furgón refrigerado,Bogotá-Cali,Error operativo,39,1746840,68126760,712
+531,2023-06-15,Camión refrigerado,Medellín-Bucaramanga,Error operativo,31,2342787,72626397,806
+532,2023-06-16,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,24,4379254,105102096,651
+533,2023-06-17,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,27,2080893,56184111,410
+534,2023-06-18,Camión refrigerado,Medellín-Bucaramanga,Error operativo,11,3373313,37106443,329
+535,2023-06-19,Furgón refrigerado,Medellín-Cali,Error operativo,24,1452317,34855608,664
+536,2023-06-20,Furgón refrigerado,Medellín-Cali,Error operativo,51,1559365,79527615,719
+537,2023-06-21,Camión refrigerado,Cali-Pereira,Error operativo,23,1547184,35585232,610
+538,2023-06-22,Furgón refrigerado,Medellín-Bucaramanga,Falla eléctrica,30,8064253,241927590,811
+539,2023-06-23,Camión refrigerado,Bogotá-Barranquilla,Error operativo,29,3430798,99493142,718
+540,2023-06-24,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,23,1491839,34312297,474
+541,2023-06-25,Van refrigerada,Medellín-Cali,Falla de refrigeración,13,2096162,27250106,340
+542,2023-06-26,Camión refrigerado,Medellín-Bogotá,Error operativo,18,2105984,37907712,735
+543,2023-06-27,Camión refrigerado,Medellín-Cali,Error operativo,42,1957058,82196436,744
+544,2023-06-28,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,11,1891475,20806225,691
+545,2023-06-29,Camión refrigerado,Medellín-Bogotá,Error operativo,12,3291588,39499056,676
+546,2023-06-30,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,27,4767059,128710593,765
+547,2023-07-01,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,15,784292,11764380,447
+548,2023-07-02,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,7,1615950,11311650,259
+549,2023-07-03,Furgón refrigerado,Medellín-Bogotá,Error operativo,53,1535978,81406834,730
+550,2023-07-04,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,22,1694256,37273632,681
+551,2023-07-05,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,58,1000241,58013978,715
+552,2023-07-06,Camión refrigerado,Cali-Pereira,Error operativo,41,1834122,75199002,803
+553,2023-07-07,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,22,4345022,95590484,724
+554,2023-07-08,Camión refrigerado,Bogotá-Barranquilla,Error operativo,51,2245333,114511983,473
+555,2023-07-09,Van refrigerada,Cali-Pereira,Retraso en ruta,19,1288079,24473501,292
+556,2023-07-10,Van refrigerada,Bogotá-Cali,Error operativo,53,1357723,71959319,665
+557,2023-07-11,Van refrigerada,Medellín-Bucaramanga,Falla eléctrica,46,1810445,83280470,583
+558,2023-07-12,Camión refrigerado,Medellín-Bogotá,Error operativo,23,1792489,41227247,691
+559,2023-07-13,Van refrigerada,Medellín-Cali,Falla del sensor,78,829746,64720188,746
+560,2023-07-14,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,21,647970,13607370,664
+561,2023-07-15,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,22,3401596,74835112,484
+562,2023-07-16,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,17,1815627,30865659,290
+563,2023-07-17,Van refrigerada,Cali-Pereira,Apertura prolongada de puertas,32,728732,23319424,640
+564,2023-07-18,Camión refrigerado,Cali-Pereira,Error operativo,21,1900220,39904620,690
+565,2023-07-19,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,28,3526082,98730296,597
+566,2023-07-20,Van refrigerada,Medellín-Bogotá,Falla del sensor,59,843754,49781486,678
+567,2023-07-21,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,15,1728672,25930080,590
+568,2023-07-22,Camión refrigerado,Medellín-Bogotá,Error operativo,15,1955965,29339475,472
+569,2023-07-23,Van refrigerada,Medellín-Cali,Error operativo,25,996530,24913250,302
+570,2023-07-24,Camión refrigerado,Cali-Pereira,Retraso en ruta,43,1921968,82644624,813
+571,2023-07-25,Camión refrigerado,Medellín-Cali,Falla de refrigeración,41,5064974,207663934,840
+572,2023-07-26,Camión refrigerado,Medellín-Cali,Falla de refrigeración,28,4880483,136653524,560
+573,2023-07-27,Van refrigerada,Cali-Pereira,Apertura prolongada de puertas,39,591485,23067915,797
+574,2023-07-28,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,39,1789550,69792450,624
+575,2023-07-29,Van refrigerada,Bogotá-Cali,Error operativo,18,1357149,24428682,463
+576,2023-07-30,Furgón refrigerado,Medellín-Cali,Falla eléctrica,16,2433669,38938704,279
+577,2023-07-31,Camión refrigerado,Medellín-Cali,Error operativo,4,1055693,4222772,729
+578,2023-08-01,Camión refrigerado,Medellín-Cali,Error operativo,46,1876771,86331466,851
+579,2023-08-02,Camión refrigerado,Medellín-Bogotá,Error operativo,13,2470580,32117540,655
+580,2023-08-03,Furgón refrigerado,Medellín-Cali,Error operativo,36,1587306,57143016,818
+581,2023-08-04,Furgón refrigerado,Cali-Pereira,Falla del sensor,57,951912,54258984,697
+582,2023-08-05,Van refrigerada,Medellín-Cali,Retraso en ruta,26,1211441,31497466,509
+583,2023-08-06,Furgón refrigerado,Bogotá-Cali,Error operativo,41,1391651,57057691,291
+584,2023-08-07,Furgón refrigerado,Medellín-Cali,Error operativo,35,1525009,53375315,572
+585,2023-08-08,Van refrigerada,Bogotá-Cali,Falla del sensor,85,884654,75195590,731
+586,2023-08-09,Furgón refrigerado,Medellín-Bogotá,Error operativo,66,1321236,87201576,781
+587,2023-08-10,Camión refrigerado,Bogotá-Cali,Error operativo,21,2019207,42403347,592
+588,2023-08-11,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,44,2114144,93022336,773
+589,2023-08-12,Furgón refrigerado,Medellín-Cali,Error operativo,44,1544363,67951972,587
+590,2023-08-13,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,7,1726278,12083946,291
+591,2023-08-14,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,45,1354946,60972570,721
+592,2023-08-15,Furgón refrigerado,Bogotá-Cali,Error operativo,39,1676850,65397150,722
+593,2023-08-16,Van refrigerada,Cali-Pereira,Error operativo,37,836666,30956642,778
+594,2023-08-17,Van refrigerada,Medellín-Bucaramanga,Retraso en ruta,78,1216951,94922178,674
+595,2023-08-18,Furgón refrigerado,Medellín-Bogotá,Error operativo,32,2087359,66795488,771
+596,2023-08-19,Van refrigerada,Medellín-Bogotá,Retraso en ruta,49,1046509,51278941,462
+597,2023-08-20,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,28,1815684,50839152,289
+598,2023-08-21,Van refrigerada,Bogotá-Cali,Apertura prolongada de puertas,44,697668,30697392,758
+599,2023-08-22,Van refrigerada,Cali-Pereira,Falla eléctrica,39,1190953,46447167,675
+600,2023-08-23,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,37,2771695,102552715,730
+601,2023-08-24,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,35,1526165,53415775,795
+602,2023-08-25,Camión refrigerado,Bogotá-Barranquilla,Error operativo,32,2756659,88213088,819
+603,2023-08-26,Camión refrigerado,Medellín-Cali,Error operativo,27,2938578,79341606,498
+604,2023-08-27,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,18,3587424,64573632,248
+605,2023-08-28,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,22,6593141,145049102,654
+606,2023-08-29,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,17,783744,13323648,783
+607,2023-08-30,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,32,1879847,60155104,629
+608,2023-08-31,Van refrigerada,Medellín-Bogotá,Error operativo,57,1037997,59165829,606
+609,2023-09-01,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,6,1575430,9452580,559
+610,2023-09-02,Furgón refrigerado,Cali-Pereira,Falla eléctrica,37,2695848,99746376,552
+611,2023-09-03,Camión refrigerado,Cali-Pereira,Retraso en ruta,4,2189066,8756264,275
+612,2023-09-04,Furgón refrigerado,Medellín-Cali,Falla del sensor,28,1127950,31582600,666
+613,2023-09-05,Camión refrigerado,Medellín-Cali,Falla del sensor,7,2148772,15041404,635
+614,2023-09-06,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,35,1174993,41124755,710
+615,2023-09-07,Camión refrigerado,Bogotá-Barranquilla,Error operativo,47,2576490,121095030,741
+616,2023-09-08,Camión refrigerado,Medellín-Bogotá,Falla del sensor,26,1324486,34436636,671
+617,2023-09-09,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,12,1975992,23711904,506
+618,2023-09-10,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,33,2119077,69929541,296
+619,2023-09-11,Van refrigerada,Medellín-Cali,Error operativo,32,1020158,32645056,788
+620,2023-09-12,Furgón refrigerado,Cali-Pereira,Falla eléctrica,32,2621628,83892096,713
+621,2023-09-13,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,22,1107874,24373228,706
+622,2023-09-14,Camión refrigerado,Cali-Pereira,Retraso en ruta,29,2423159,70271611,676
+623,2023-09-15,Furgón refrigerado,Medellín-Cali,Falla eléctrica,26,5299786,137794436,612
+624,2023-09-16,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,25,2287094,57177350,458
+625,2023-09-17,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,33,2289010,75537330,315
+626,2023-09-18,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,43,1920969,82601667,791
+627,2023-09-19,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,37,1225758,45353046,656
+628,2023-09-20,Camión refrigerado,Medellín-Cali,Retraso en ruta,54,2011775,108635850,697
+629,2023-09-21,Camión refrigerado,Cali-Pereira,Error operativo,12,3023610,36283320,831
+630,2023-09-22,Van refrigerada,Medellín-Cali,Apertura prolongada de puertas,26,645975,16795350,740
+631,2023-09-23,Van refrigerada,Medellín-Bogotá,Error operativo,27,1021705,27586035,573
+632,2023-09-24,Van refrigerada,Medellín-Cali,Error operativo,41,1157127,47442207,271
+633,2023-09-25,Van refrigerada,Medellín-Bogotá,Error operativo,40,1176768,47070720,724
+634,2023-09-26,Furgón refrigerado,Cali-Pereira,Error operativo,16,918913,14702608,755
+635,2023-09-27,Camión refrigerado,Bogotá-Cali,Retraso en ruta,22,2784067,61249474,725
+636,2023-09-28,Van refrigerada,Bogotá-Barranquilla,Apertura prolongada de puertas,50,975504,48775200,645
+637,2023-09-29,Furgón refrigerado,Medellín-Bogotá,Error operativo,31,1779823,55174513,670
+638,2023-09-30,Van refrigerada,Medellín-Cali,Falla eléctrica,33,1498178,49439874,536
+639,2023-10-01,Van refrigerada,Bogotá-Barranquilla,Falla de refrigeración,11,3679449,40473939,258
+640,2023-10-02,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,27,3995171,107869617,750
+641,2023-10-03,Camión refrigerado,Cali-Pereira,Retraso en ruta,18,2491281,44843058,686
+642,2023-10-04,Camión refrigerado,Medellín-Cali,Falla de refrigeración,40,4556317,182252680,751
+643,2023-10-05,Camión refrigerado,Medellín-Bogotá,Error operativo,13,2072847,26947011,725
+644,2023-10-06,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,53,1969027,104358431,743
+645,2023-10-07,Camión refrigerado,Medellín-Bucaramanga,Error operativo,16,2382628,38122048,523
+646,2023-10-08,Camión refrigerado,Medellín-Cali,Falla de refrigeración,14,3908003,54712042,315
+647,2023-10-09,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,34,1829043,62187462,649
+648,2023-10-10,Camión refrigerado,Bogotá-Barranquilla,Error operativo,41,3370822,138203702,740
+649,2023-10-11,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,28,1254993,35139804,713
+650,2023-10-12,Furgón refrigerado,Medellín-Cali,Error operativo,30,1861663,55849890,652
+651,2023-10-13,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,34,1541219,52401446,809
+652,2023-10-14,Camión refrigerado,Cali-Pereira,Falla del sensor,12,1449808,17397696,515
+653,2023-10-15,Furgón refrigerado,Bogotá-Cali,Error operativo,9,1602832,14425488,302
+654,2023-10-16,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,29,2059949,59738521,678
+655,2023-10-17,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,28,1076357,30137996,729
+656,2023-10-18,Furgón refrigerado,Medellín-Cali,Falla de refrigeración,27,2654776,71678952,731
+657,2023-10-19,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,23,5872068,135057564,829
+658,2023-10-20,Camión refrigerado,Bogotá-Cali,Retraso en ruta,31,1887013,58497403,719
+659,2023-10-21,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,25,3514296,87857400,650
+660,2023-10-22,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,12,545060,6540720,286
+661,2023-10-23,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,18,2184380,39318840,657
+662,2023-10-24,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,26,5383286,139965436,773
+663,2023-10-25,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,15,1415708,21235620,660
+664,2023-10-26,Furgón refrigerado,Medellín-Cali,Error operativo,45,1781339,80160255,812
+665,2023-10-27,Camión refrigerado,Cali-Pereira,Retraso en ruta,19,3066353,58260707,880
+666,2023-10-28,Van refrigerada,Cali-Pereira,Error operativo,31,920823,28545513,490
+667,2023-10-29,Van refrigerada,Medellín-Bogotá,Falla de refrigeración,34,9052598,307788332,270
+668,2023-10-30,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,47,2016337,94767839,716
+669,2023-10-31,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,26,1203241,31284266,626
+670,2023-11-01,Furgón refrigerado,Medellín-Bogotá,Error operativo,38,1691014,64258532,734
+671,2023-11-02,Van refrigerada,Medellín-Bucaramanga,Falla eléctrica,40,1932770,77310800,644
+672,2023-11-03,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,14,1551659,21723226,820
+673,2023-11-04,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,18,1630144,29342592,521
+674,2023-11-05,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,8,744680,5957440,262
+675,2023-11-06,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,14,1031692,14443688,724
+676,2023-11-07,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,37,1257297,46519989,794
+677,2023-11-08,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,39,1517122,59167758,810
+678,2023-11-09,Furgón refrigerado,Bogotá-Cali,Error operativo,50,1545596,77279800,708
+679,2023-11-10,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,48,1633472,78406656,745
+680,2023-11-11,Van refrigerada,Medellín-Bucaramanga,Falla eléctrica,37,2502460,92591020,491
+681,2023-11-12,Furgón refrigerado,Medellín-Cali,Falla de refrigeración,25,5683243,142081075,303
+682,2023-11-13,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,49,1694123,83012027,737
+683,2023-11-14,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,29,5213421,151189209,626
+684,2023-11-15,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,8,823200,6585600,664
+685,2023-11-16,Furgón refrigerado,Bogotá-Cali,Falla del sensor,27,1257036,33939972,748
+686,2023-11-17,Camión refrigerado,Medellín-Bogotá,Error operativo,29,1951063,56580827,809
+687,2023-11-18,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,13,1004980,13064740,623
+688,2023-11-19,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,7,1381076,9667532,288
+689,2023-11-20,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,28,2399593,67188604,642
+690,2023-11-21,Van refrigerada,Cali-Pereira,Retraso en ruta,28,1020898,28585144,597
+691,2023-11-22,Van refrigerada,Cali-Pereira,Apertura prolongada de puertas,17,724120,12310040,803
+692,2023-11-23,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,27,2003456,54093312,685
+693,2023-11-24,Furgón refrigerado,Bogotá-Cali,Error operativo,71,1464917,104009107,908
+694,2023-11-25,Camión refrigerado,Cali-Pereira,Falla del sensor,11,1515476,16670236,497
+695,2023-11-26,Camión refrigerado,Bogotá-Cali,Error operativo,15,2391286,35869290,304
+696,2023-11-27,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,41,2423807,99376087,867
+697,2023-11-28,Camión refrigerado,Medellín-Bucaramanga,Falla eléctrica,24,3851883,92445192,658
+698,2023-11-29,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,57,1438249,81980193,708
+699,2023-11-30,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,46,1276774,58731604,886
+700,2023-12-01,Camión refrigerado,Medellín-Cali,Falla del sensor,29,1343796,38970084,717
+701,2023-12-02,Van refrigerada,Bogotá-Barranquilla,Error operativo,40,1413872,56554880,433
+702,2023-12-03,Camión refrigerado,Medellín-Bogotá,Error operativo,6,2227818,13366908,296
+703,2023-12-04,Camión refrigerado,Cali-Pereira,Falla eléctrica,13,2009674,26125762,739
+704,2023-12-05,Camión refrigerado,Cali-Pereira,Error operativo,16,1501462,24023392,594
+705,2023-12-06,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,51,1693133,86349783,722
+706,2023-12-07,Camión refrigerado,Medellín-Cali,Error operativo,23,2263921,52070183,715
+707,2023-12-08,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,36,4331232,155924352,703
+708,2023-12-09,Camión refrigerado,Medellín-Cali,Error operativo,14,1744150,24418100,595
+709,2023-12-10,Van refrigerada,Medellín-Bucaramanga,Falla eléctrica,30,1890099,56702970,354
+710,2023-12-11,Camión refrigerado,Medellín-Cali,Retraso en ruta,22,2231381,49090382,720
+711,2023-12-12,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,44,3195328,140594432,818
+712,2023-12-13,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,56,5013904,280778624,816
+713,2023-12-14,Camión refrigerado,Medellín-Cali,Falla del sensor,24,1391074,33385776,793
+714,2023-12-15,Van refrigerada,Cali-Pereira,Retraso en ruta,19,1193556,22677564,810
+715,2023-12-16,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,30,2298904,68967120,509
+716,2023-12-17,Van refrigerada,Medellín-Bogotá,Retraso en ruta,45,1199244,53965980,286
+717,2023-12-18,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,52,1195019,62140988,841
+718,2023-12-19,Camión refrigerado,Medellín-Bucaramanga,Error operativo,35,2397412,83909420,628
+719,2023-12-20,Furgón refrigerado,Bogotá-Cali,Falla eléctrica,28,3116126,87251528,649
+720,2023-12-21,Van refrigerada,Cali-Pereira,Apertura prolongada de puertas,59,562788,33204492,852
+721,2023-12-22,Camión refrigerado,Bogotá-Barranquilla,Falla eléctrica,47,4373064,205534008,710
+722,2023-12-23,Van refrigerada,Medellín-Bogotá,Error operativo,26,969452,25205752,545
+723,2023-12-24,Van refrigerada,Bogotá-Cali,Falla eléctrica,15,1489171,22337565,287
+724,2023-12-25,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,32,828881,26524192,782
+725,2023-12-26,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,24,945658,22695792,809
+726,2023-12-27,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,61,2262779,138029519,659
+727,2023-12-28,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,5,2256979,11284895,755
+728,2023-12-29,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,89,2180359,194051951,875
+729,2023-12-30,Camión refrigerado,Medellín-Cali,Error operativo,24,1900666,45615984,520
+730,2023-12-31,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,18,1499009,26982162,287
+731,2024-01-01,Camión refrigerado,Medellín-Cali,Error operativo,24,2029232,48701568,695
+732,2024-01-02,Camión refrigerado,Bogotá-Cali,Error operativo,30,1572624,47178720,674
+733,2024-01-03,Camión refrigerado,Bogotá-Barranquilla,Error operativo,69,2530379,174596151,835
+734,2024-01-04,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,20,4028675,80573500,716
+735,2024-01-05,Furgón refrigerado,Medellín-Bogotá,Error operativo,38,1523746,57902348,681
+736,2024-01-06,Camión refrigerado,Cali-Pereira,Error operativo,30,1792518,53775540,470
+737,2024-01-07,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,19,3606690,68527110,310
+738,2024-01-08,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,45,1398354,62925930,734
+739,2024-01-09,Van refrigerada,Medellín-Bucaramanga,Falla de refrigeración,21,3265098,68567058,698
+740,2024-01-10,Van refrigerada,Bogotá-Cali,Falla eléctrica,133,1809244,240629452,874
+741,2024-01-11,Furgón refrigerado,Medellín-Cali,Retraso en ruta,14,1513284,21185976,716
+742,2024-01-12,Van refrigerada,Medellín-Bogotá,Falla de refrigeración,75,2272890,170466750,637
+743,2024-01-13,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,34,4613827,156870118,637
+744,2024-01-14,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,19,4834647,91858293,289
+745,2024-01-15,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,18,976515,17577270,728
+746,2024-01-16,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,19,944639,17948141,747
+747,2024-01-17,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,11,879223,9671453,765
+748,2024-01-18,Van refrigerada,Medellín-Bogotá,Error operativo,89,1037680,92353520,811
+749,2024-01-19,Camión refrigerado,Medellín-Cali,Error operativo,22,2336107,51394354,662
+750,2024-01-20,Camión refrigerado,Cali-Pereira,Falla eléctrica,15,3552014,53280210,463
+751,2024-01-21,Camión refrigerado,Medellín-Bogotá,Error operativo,6,1579383,9476298,222
+752,2024-01-22,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,20,1724494,34489880,738
+753,2024-01-23,Van refrigerada,Medellín-Bucaramanga,Retraso en ruta,62,1354439,83975218,782
+754,2024-01-24,Van refrigerada,Medellín-Bogotá,Error operativo,57,1183541,67461837,710
+755,2024-01-25,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,47,2728506,128239782,846
+756,2024-01-26,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,32,5145511,164656352,780
+757,2024-01-27,Camión refrigerado,Cali-Pereira,Falla de refrigeración,31,5517301,171036331,603
+758,2024-01-28,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,8,1654755,13238040,287
+759,2024-01-29,Camión refrigerado,Cali-Pereira,Falla de refrigeración,17,3993381,67887477,806
+760,2024-01-30,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,29,2032235,58934815,632
+761,2024-01-31,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,19,1295956,24623164,724
+762,2024-02-01,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,28,1076619,30145332,788
+763,2024-02-02,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,38,4860525,184699950,693
+764,2024-02-03,Camión refrigerado,Bogotá-Cali,Falla eléctrica,40,3356490,134259600,505
+765,2024-02-04,Furgón refrigerado,Medellín-Cali,Error operativo,21,1612153,33855213,279
+766,2024-02-05,Furgón refrigerado,Medellín-Cali,Retraso en ruta,21,2254130,47336730,723
+767,2024-02-06,Camión refrigerado,Cali-Pereira,Error operativo,34,1721305,58524370,856
+768,2024-02-07,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,34,776983,26417422,759
+769,2024-02-08,Furgón refrigerado,Bogotá-Cali,Falla del sensor,50,1583236,79161800,674
+770,2024-02-09,Camión refrigerado,Medellín-Bogotá,Error operativo,32,2170681,69461792,767
+771,2024-02-10,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,17,3925684,66736628,453
+772,2024-02-11,Camión refrigerado,Medellín-Cali,Falla de refrigeración,16,3875966,62015456,298
+773,2024-02-12,Van refrigerada,Medellín-Bogotá,Retraso en ruta,50,1595656,79782800,743
+774,2024-02-13,Van refrigerada,Medellín-Bucaramanga,Error operativo,37,1266970,46877890,509
+775,2024-02-14,Furgón refrigerado,Bogotá-Cali,Falla del sensor,44,1201399,52861556,683
+776,2024-02-15,Furgón refrigerado,Bogotá-Cali,Error operativo,28,1308472,36637216,778
+777,2024-02-16,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,70,743470,52042900,677
+778,2024-02-17,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,24,1824267,43782408,458
+779,2024-02-18,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,13,4865823,63255699,289
+780,2024-02-19,Van refrigerada,Bogotá-Cali,Falla de refrigeración,37,4409951,163168187,838
+781,2024-02-20,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,29,1266095,36716755,745
+782,2024-02-21,Furgón refrigerado,Medellín-Cali,Retraso en ruta,34,1873399,63695566,631
+783,2024-02-22,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,36,1384105,49827780,911
+784,2024-02-23,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,27,2543926,68686002,586
+785,2024-02-24,Camión refrigerado,Medellín-Bogotá,Error operativo,32,2386473,76367136,517
+786,2024-02-25,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,20,4631977,92639540,315
+787,2024-02-26,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,26,1409989,36659714,719
+788,2024-02-27,Van refrigerada,Medellín-Bogotá,Error operativo,28,1045999,29287972,720
+789,2024-02-28,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,36,1147840,41322240,693
+790,2024-02-29,Camión refrigerado,Medellín-Cali,Falla del sensor,50,1297170,64858500,742
+791,2024-03-01,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,38,1239271,47092298,729
+792,2024-03-02,Furgón refrigerado,Medellín-Cali,Falla del sensor,14,1125537,15757518,506
+793,2024-03-03,Furgón refrigerado,Bogotá-Cali,Error operativo,4,1597316,6389264,238
+794,2024-03-04,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,16,2250496,36007936,932
+795,2024-03-05,Van refrigerada,Medellín-Cali,Retraso en ruta,27,1571191,42422157,780
+796,2024-03-06,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,24,1676335,40232040,648
+797,2024-03-07,Van refrigerada,Cali-Pereira,Error operativo,33,1003394,33112002,797
+798,2024-03-08,Furgón refrigerado,Medellín-Cali,Falla eléctrica,33,3033268,100097844,770
+799,2024-03-09,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,35,1308480,45796800,528
+800,2024-03-10,Camión refrigerado,Medellín-Bucaramanga,Falla eléctrica,14,2540161,35562254,233
+801,2024-03-11,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,29,4697861,136237969,773
+802,2024-03-12,Van refrigerada,Medellín-Cali,Error operativo,44,821393,36141292,689
+803,2024-03-13,Van refrigerada,Medellín-Bogotá,Retraso en ruta,49,1146578,56182322,723
+804,2024-03-14,Camión refrigerado,Medellín-Cali,Error operativo,34,1647234,56005956,713
+805,2024-03-15,Furgón refrigerado,Medellín-Cali,Retraso en ruta,22,2063388,45394536,714
+806,2024-03-16,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,27,715952,19330704,403
+807,2024-03-17,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,28,2607098,72998744,306
+808,2024-03-18,Furgón refrigerado,Medellín-Bogotá,Error operativo,47,1489121,69988687,627
+809,2024-03-19,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,30,1245442,37363260,716
+810,2024-03-20,Furgón refrigerado,Medellín-Bogotá,Error operativo,33,1403561,46317513,667
+811,2024-03-21,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,47,1266280,59515160,772
+812,2024-03-22,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,89,3576913,318345257,825
+813,2024-03-23,Camión refrigerado,Bogotá-Barranquilla,Falla eléctrica,26,8790970,228565220,731
+814,2024-03-24,Camión refrigerado,Medellín-Bucaramanga,Falla eléctrica,13,4519969,58759597,330
+815,2024-03-25,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,62,5645849,350042638,790
+816,2024-03-26,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,43,2084172,89619396,831
+817,2024-03-27,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,17,5337607,90739319,552
+818,2024-03-28,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,39,2126035,82915365,784
+819,2024-03-29,Camión refrigerado,Medellín-Cali,Retraso en ruta,37,3301304,122148248,718
+820,2024-03-30,Furgón refrigerado,Bogotá-Cali,Error operativo,26,1981094,51508444,547
+821,2024-03-31,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,9,4080066,36720594,263
+822,2024-04-01,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,10,2238536,22385360,683
+823,2024-04-02,Furgón refrigerado,Bogotá-Cali,Error operativo,38,1296467,49265746,740
+824,2024-04-03,Camión refrigerado,Medellín-Cali,Error operativo,31,1677733,52009723,702
+825,2024-04-04,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,62,4182382,259307684,847
+826,2024-04-05,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,43,1563728,67240304,947
+827,2024-04-06,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,49,750376,36768424,567
+828,2024-04-07,Camión refrigerado,Medellín-Cali,Falla eléctrica,5,2341414,11707070,323
+829,2024-04-08,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,71,1069802,75955942,768
+830,2024-04-09,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,46,4393210,202087660,816
+831,2024-04-10,Camión refrigerado,Cali-Pereira,Retraso en ruta,23,12510955,287751965,716
+832,2024-04-11,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,22,2854823,62806106,797
+833,2024-04-12,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,24,1731958,41566992,688
+834,2024-04-13,Van refrigerada,Medellín-Bogotá,Falla eléctrica,36,1687518,60750648,576
+835,2024-04-14,Furgón refrigerado,Medellín-Cali,Falla de refrigeración,7,3194374,22360618,279
+836,2024-04-15,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,17,2546845,43296365,709
+837,2024-04-16,Camión refrigerado,Medellín-Bogotá,Error operativo,22,2288323,50343106,766
+838,2024-04-17,Camión refrigerado,Medellín-Cali,Retraso en ruta,34,2217378,75390852,800
+839,2024-04-18,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,37,3119630,115426310,937
+840,2024-04-19,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,46,2250671,103530866,614
+841,2024-04-20,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,7,1330412,9312884,542
+842,2024-04-21,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,9,4438344,39945096,275
+843,2024-04-22,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,28,904401,25323228,754
+844,2024-04-23,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,34,1184163,40261542,718
+845,2024-04-24,Van refrigerada,Bogotá-Cali,Falla de refrigeración,41,2259493,92639213,657
+846,2024-04-25,Van refrigerada,Bogotá-Barranquilla,Error operativo,56,1336952,74869312,736
+847,2024-04-26,Camión refrigerado,Medellín-Bogotá,Falla del sensor,36,2242016,80712576,783
+848,2024-04-27,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,19,4565167,86738173,479
+849,2024-04-28,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,10,818188,8181880,304
+850,2024-04-29,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,47,1602287,75307489,723
+851,2024-04-30,Camión refrigerado,Medellín-Bogotá,Falla del sensor,14,1207046,16898644,586
+852,2024-05-01,Van refrigerada,Cali-Pereira,Falla eléctrica,9,1142999,10286991,666
+853,2024-05-02,Van refrigerada,Bogotá-Cali,Retraso en ruta,14,1158779,16222906,691
+854,2024-05-03,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,67,1354683,90763761,803
+855,2024-05-04,Van refrigerada,Bogotá-Cali,Apertura prolongada de puertas,5,1074825,5374125,532
+856,2024-05-05,Camión refrigerado,Medellín-Cali,Falla de refrigeración,9,4932848,44395632,305
+857,2024-05-06,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,25,833262,20831550,870
+858,2024-05-07,Camión refrigerado,Medellín-Cali,Retraso en ruta,23,1915683,44060709,796
+859,2024-05-08,Camión refrigerado,Medellín-Cali,Error operativo,8,1510952,12087616,800
+860,2024-05-09,Camión refrigerado,Cali-Pereira,Error operativo,20,2363155,47263100,750
+861,2024-05-10,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,25,961842,24046050,952
+862,2024-05-11,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,18,874626,15743268,549
+863,2024-05-12,Camión refrigerado,Medellín-Bucaramanga,Error operativo,10,3393487,33934870,230
+864,2024-05-13,Camión refrigerado,Medellín-Cali,Falla eléctrica,37,3405454,126001798,669
+865,2024-05-14,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,27,1599479,43185933,621
+866,2024-05-15,Camión refrigerado,Cali-Pereira,Error operativo,21,2053949,43132929,754
+867,2024-05-16,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,21,1139869,23937249,812
+868,2024-05-17,Van refrigerada,Medellín-Cali,Falla de refrigeración,18,2303915,41470470,672
+869,2024-05-18,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,31,967968,30007008,486
+870,2024-05-19,Camión refrigerado,Medellín-Bogotá,Error operativo,7,1647743,11534201,309
+871,2024-05-20,Van refrigerada,Medellín-Cali,Falla del sensor,43,951706,40923358,696
+872,2024-05-21,Furgón refrigerado,Cali-Pereira,Error operativo,7,788478,5519346,642
+873,2024-05-22,Van refrigerada,Bogotá-Cali,Falla del sensor,32,830876,26588032,755
+874,2024-05-23,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,27,3256268,87919236,759
+875,2024-05-24,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,8,1074012,8592096,669
+876,2024-05-25,Camión refrigerado,Medellín-Bucaramanga,Error operativo,22,2225252,48955544,522
+877,2024-05-26,Camión refrigerado,Medellín-Bucaramanga,Error operativo,8,2649792,21198336,323
+878,2024-05-27,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,27,1712052,46225404,673
+879,2024-05-28,Van refrigerada,Cali-Pereira,Apertura prolongada de puertas,12,662649,7951788,782
+880,2024-05-29,Furgón refrigerado,Bogotá-Cali,Falla del sensor,16,1113835,17821360,798
+881,2024-05-30,Van refrigerada,Medellín-Cali,Falla del sensor,41,803648,32949568,882
+882,2024-05-31,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,31,2334600,72372600,680
+883,2024-06-01,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,16,1049896,16798336,573
+884,2024-06-02,Van refrigerada,Medellín-Bogotá,Retraso en ruta,9,2036697,18330273,289
+885,2024-06-03,Van refrigerada,Bogotá-Cali,Apertura prolongada de puertas,22,493229,10851038,780
+886,2024-06-04,Furgón refrigerado,Medellín-Bucaramanga,Falla eléctrica,37,2866360,106055320,770
+887,2024-06-05,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,23,1031849,23732527,888
+888,2024-06-06,Camión refrigerado,Medellín-Cali,Falla de refrigeración,23,4461741,102620043,678
+889,2024-06-07,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,25,5156135,128903375,648
+890,2024-06-08,Van refrigerada,Medellín-Bucaramanga,Falla de refrigeración,18,3018536,54333648,460
+891,2024-06-09,Camión refrigerado,Medellín-Bucaramanga,Error operativo,5,2783537,13917685,284
+892,2024-06-10,Furgón refrigerado,Medellín-Cali,Error operativo,24,1276540,30636960,638
+893,2024-06-11,Furgón refrigerado,Cali-Pereira,Error operativo,19,1231139,23391641,895
+894,2024-06-12,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,28,1016217,28454076,734
+895,2024-06-13,Van refrigerada,Cali-Pereira,Error operativo,19,1492068,28349292,694
+896,2024-06-14,Camión refrigerado,Bogotá-Cali,Retraso en ruta,32,2695724,86263168,707
+897,2024-06-15,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,9,3214107,28926963,595
+898,2024-06-16,Camión refrigerado,Medellín-Cali,Falla del sensor,15,1164029,17460435,319
+899,2024-06-17,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,26,1636025,42536650,798
+900,2024-06-18,Furgón refrigerado,Bogotá-Cali,Error operativo,31,1455269,45113339,771
+901,2024-06-19,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,58,2441479,141605782,705
+902,2024-06-20,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,30,1483732,44511960,756
+903,2024-06-21,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,39,946748,36923172,727
+904,2024-06-22,Camión refrigerado,Bogotá-Cali,Error operativo,17,1801979,30633643,506
+905,2024-06-23,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,28,1768594,49520632,328
+906,2024-06-24,Camión refrigerado,Medellín-Cali,Falla del sensor,15,2314639,34719585,666
+907,2024-06-25,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,28,4236116,118611248,700
+908,2024-06-26,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,28,1569994,43959832,663
+909,2024-06-27,Furgón refrigerado,Bogotá-Cali,Falla del sensor,5,661607,3308035,590
+910,2024-06-28,Camión refrigerado,Medellín-Cali,Retraso en ruta,7,3193919,22357433,636
+911,2024-06-29,Camión refrigerado,Medellín-Cali,Falla eléctrica,8,3621548,28972384,486
+912,2024-06-30,Camión refrigerado,Cali-Pereira,Falla del sensor,1,1058328,1058328,315
+913,2024-07-01,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,27,1697699,45837873,729
+914,2024-07-02,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,39,1576839,61496721,765
+915,2024-07-03,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,29,1328018,38512522,721
+916,2024-07-04,Van refrigerada,Medellín-Cali,Falla del sensor,53,719425,38129525,828
+917,2024-07-05,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,38,2120282,80570716,835
+918,2024-07-06,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,14,2053532,28749448,541
+919,2024-07-07,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,21,5565329,116871909,279
+920,2024-07-08,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,39,2723150,106202850,764
+921,2024-07-09,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,46,629640,28963440,725
+922,2024-07-10,Camión refrigerado,Bogotá-Cali,Falla eléctrica,37,3108072,114998664,827
+923,2024-07-11,Camión refrigerado,Medellín-Bucaramanga,Error operativo,24,1893890,45453360,865
+924,2024-07-12,Van refrigerada,Bogotá-Cali,Error operativo,39,1555818,60676902,735
+925,2024-07-13,Camión refrigerado,Medellín-Bucaramanga,Error operativo,19,2052093,38989767,526
+926,2024-07-14,Furgón refrigerado,Medellín-Bogotá,Error operativo,13,1643812,21369556,350
+927,2024-07-15,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,41,1628291,66759931,601
+928,2024-07-16,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,56,1414338,79202928,831
+929,2024-07-17,Camión refrigerado,Medellín-Bogotá,Error operativo,20,2004899,40097980,851
+930,2024-07-18,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,33,1382219,45613227,810
+931,2024-07-19,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,52,5928353,308274356,982
+932,2024-07-20,Camión refrigerado,Cali-Pereira,Error operativo,11,2269703,24966733,437
+933,2024-07-21,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,9,4145051,37305459,270
+934,2024-07-22,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,30,1217988,36539640,848
+935,2024-07-23,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,46,2331349,107242054,724
+936,2024-07-24,Furgón refrigerado,Medellín-Bogotá,Error operativo,62,1592713,98748206,767
+937,2024-07-25,Van refrigerada,Medellín-Bogotá,Error operativo,44,880974,38762856,979
+938,2024-07-26,Van refrigerada,Bogotá-Barranquilla,Apertura prolongada de puertas,77,849385,65402645,769
+939,2024-07-27,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,17,1929877,32807909,452
+940,2024-07-28,Furgón refrigerado,Cali-Pereira,Falla del sensor,12,775035,9300420,272
+941,2024-07-29,Camión refrigerado,Cali-Pereira,Retraso en ruta,28,2477553,69371484,835
+942,2024-07-30,Furgón refrigerado,Medellín-Bucaramanga,Falla de refrigeración,40,3716403,148656120,782
+943,2024-07-31,Furgón refrigerado,Bogotá-Cali,Falla de refrigeración,30,4224133,126723990,663
+944,2024-08-01,Camión refrigerado,Bogotá-Cali,Error operativo,30,2470441,74113230,619
+945,2024-08-02,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,33,1374841,45369753,699
+946,2024-08-03,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,44,867052,38150288,551
+947,2024-08-04,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,22,3853217,84770774,303
+948,2024-08-05,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,44,1991892,87643248,803
+949,2024-08-06,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,31,1726608,53524848,901
+950,2024-08-07,Furgón refrigerado,Cali-Pereira,Falla eléctrica,28,2284232,63958496,753
+951,2024-08-08,Camión refrigerado,Bogotá-Cali,Falla eléctrica,23,3421616,78697168,785
+952,2024-08-09,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,45,1098820,49446900,834
+953,2024-08-10,Van refrigerada,Medellín-Cali,Retraso en ruta,34,1138312,38702608,596
+954,2024-08-11,Van refrigerada,Cali-Pereira,Falla eléctrica,12,1121755,13461060,336
+955,2024-08-12,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,24,1316942,31606608,745
+956,2024-08-13,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,91,541804,49304164,871
+957,2024-08-14,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,52,1788581,93006212,722
+958,2024-08-15,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,41,684116,28048756,641
+959,2024-08-16,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,41,805846,33039686,668
+960,2024-08-17,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,18,971967,17495406,472
+961,2024-08-18,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,9,869378,7824402,301
+962,2024-08-19,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,28,1221358,34198024,700
+963,2024-08-20,Van refrigerada,Bogotá-Cali,Retraso en ruta,48,1195555,57386640,674
+964,2024-08-21,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,18,2144346,38598228,724
+965,2024-08-22,Furgón refrigerado,Medellín-Cali,Error operativo,43,1548582,66589026,668
+966,2024-08-23,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,28,1109085,31054380,772
+967,2024-08-24,Furgón refrigerado,Medellín-Cali,Falla eléctrica,17,2866433,48729361,504
+968,2024-08-25,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,4,724365,2897460,349
+969,2024-08-26,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,28,1199097,33574716,773
+970,2024-08-27,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,27,1306387,35272449,682
+971,2024-08-28,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,15,3298673,49480095,702
+972,2024-08-29,Furgón refrigerado,Medellín-Cali,Falla del sensor,45,1238702,55741590,814
+973,2024-08-30,Camión refrigerado,Medellín-Cali,Falla del sensor,27,1542817,41656059,830
+974,2024-08-31,Furgón refrigerado,Cali-Pereira,Error operativo,16,1238901,19822416,576
+975,2024-09-01,Camión refrigerado,Medellín-Cali,Error operativo,2,3740583,7481166,279
+976,2024-09-02,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,40,3318533,132741320,734
+977,2024-09-03,Furgón refrigerado,Medellín-Cali,Retraso en ruta,63,3192251,201111813,819
+978,2024-09-04,Van refrigerada,Cali-Pereira,Retraso en ruta,81,2129832,172516392,713
+979,2024-09-05,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,40,5286511,211460440,733
+980,2024-09-06,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,64,3409017,218177088,776
+981,2024-09-07,Furgón refrigerado,Cali-Pereira,Error operativo,18,1723491,31022838,573
+982,2024-09-08,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,7,1589348,11125436,312
+983,2024-09-09,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,23,1111542,25565466,765
+984,2024-09-10,Furgón refrigerado,Cali-Pereira,Error operativo,21,1410154,29613234,642
+985,2024-09-11,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,7,3172569,22207983,720
+986,2024-09-12,Van refrigerada,Medellín-Bogotá,Error operativo,45,921219,41454855,782
+987,2024-09-13,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,71,699313,49651223,859
+988,2024-09-14,Camión refrigerado,Medellín-Bucaramanga,Error operativo,42,2654987,111509454,618
+989,2024-09-15,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,8,665817,5326536,243
+990,2024-09-16,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,27,1788964,48302028,852
+991,2024-09-17,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,32,1069919,34237408,817
+992,2024-09-18,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,24,1045620,25094880,787
+993,2024-09-19,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,26,6157080,160084080,692
+994,2024-09-20,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,22,3209260,70603720,758
+995,2024-09-21,Camión refrigerado,Medellín-Cali,Falla del sensor,23,1549465,35637695,578
+996,2024-09-22,Camión refrigerado,Medellín-Bogotá,Error operativo,7,2210867,15476069,375
+997,2024-09-23,Van refrigerada,Medellín-Bucaramanga,Falla de refrigeración,15,7622161,114332415,930
+998,2024-09-24,Furgón refrigerado,Cali-Pereira,Falla del sensor,14,1312851,18379914,755
+999,2024-09-25,Van refrigerada,Bogotá-Barranquilla,Falla eléctrica,65,2027053,131758445,797
+1000,2024-09-26,Van refrigerada,Bogotá-Cali,Falla de refrigeración,70,2580486,180634020,921
+1001,2024-09-27,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,39,666238,25983282,819
+1002,2024-09-28,Camión refrigerado,Medellín-Bucaramanga,Error operativo,10,2395851,23958510,597
+1003,2024-09-29,Camión refrigerado,Cali-Pereira,Error operativo,3,1320329,3960987,315
+1004,2024-09-30,Van refrigerada,Medellín-Bogotá,Falla del sensor,52,823266,42809832,918
+1005,2024-10-01,Camión refrigerado,Medellín-Cali,Falla eléctrica,14,2810524,39347336,833
+1006,2024-10-02,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,9,1631753,14685777,645
+1007,2024-10-03,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,30,1944007,58320210,734
+1008,2024-10-04,Van refrigerada,Medellín-Cali,Apertura prolongada de puertas,58,600629,34836482,737
+1009,2024-10-05,Furgón refrigerado,Medellín-Bogotá,Error operativo,11,1650685,18157535,514
+1010,2024-10-06,Van refrigerada,Medellín-Bogotá,Falla eléctrica,30,2181014,65430420,349
+1011,2024-10-07,Camión refrigerado,Bogotá-Barranquilla,Falla eléctrica,17,4674304,79463168,710
+1012,2024-10-08,Camión refrigerado,Medellín-Cali,Error operativo,33,2027073,66893409,790
+1013,2024-10-09,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,32,613586,19634752,761
+1014,2024-10-10,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,29,3216050,93265450,760
+1015,2024-10-11,Van refrigerada,Medellín-Bogotá,Error operativo,25,1067631,26690775,657
+1016,2024-10-12,Camión refrigerado,Medellín-Cali,Error operativo,11,2364525,26009775,552
+1017,2024-10-13,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,21,2329937,48928677,321
+1018,2024-10-14,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,36,1640756,59067216,835
+1019,2024-10-15,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,30,1091271,32738130,808
+1020,2024-10-16,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,34,1660567,56459278,860
+1021,2024-10-17,Furgón refrigerado,Cali-Pereira,Error operativo,9,1646887,14821983,717
+1022,2024-10-18,Van refrigerada,Medellín-Bucaramanga,Error operativo,86,1235135,106221610,746
+1023,2024-10-19,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,19,1279410,24308790,524
+1024,2024-10-20,Van refrigerada,Medellín-Bogotá,Falla eléctrica,27,1696814,45813978,347
+1025,2024-10-21,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,25,1649278,41231950,737
+1026,2024-10-22,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,45,794198,35738910,876
+1027,2024-10-23,Furgón refrigerado,Medellín-Cali,Retraso en ruta,23,1881650,43277950,1019
+1028,2024-10-24,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,23,3689679,84862617,591
+1029,2024-10-25,Furgón refrigerado,Cali-Pereira,Retraso en ruta,27,1235450,33357150,746
+1030,2024-10-26,Van refrigerada,Bogotá-Barranquilla,Falla eléctrica,30,1951908,58557240,566
+1031,2024-10-27,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,11,4193011,46123121,307
+1032,2024-10-28,Van refrigerada,Medellín-Cali,Error operativo,37,1202762,44502194,850
+1033,2024-10-29,Camión refrigerado,Medellín-Bogotá,Falla del sensor,26,1671265,43452890,683
+1034,2024-10-30,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,17,1187078,20180326,715
+1035,2024-10-31,Furgón refrigerado,Medellín-Bogotá,Error operativo,60,1497380,89842800,930
+1036,2024-11-01,Furgón refrigerado,Medellín-Cali,Error operativo,42,1362081,57207402,768
+1037,2024-11-02,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,23,1026666,23613318,579
+1038,2024-11-03,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,11,1253414,13787554,355
+1039,2024-11-04,Camión refrigerado,Medellín-Cali,Retraso en ruta,20,2364440,47288800,688
+1040,2024-11-05,Camión refrigerado,Medellín-Bogotá,Falla del sensor,25,1240035,31000875,651
+1041,2024-11-06,Van refrigerada,Cali-Pereira,Falla del sensor,13,806691,10486983,621
+1042,2024-11-07,Furgón refrigerado,Bogotá-Cali,Falla de refrigeración,17,14369483,244281211,774
+1043,2024-11-08,Furgón refrigerado,Cali-Pereira,Error operativo,17,1736966,29528422,648
+1044,2024-11-09,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,9,1240119,11161071,576
+1045,2024-11-10,Camión refrigerado,Cali-Pereira,Falla de refrigeración,6,3739040,22434240,332
+1046,2024-11-11,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,20,2331024,46620480,758
+1047,2024-11-12,Camión refrigerado,Medellín-Bucaramanga,Falla eléctrica,17,2634880,44792960,659
+1048,2024-11-13,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,17,4027917,68474589,659
+1049,2024-11-14,Van refrigerada,Bogotá-Cali,Falla de refrigeración,17,2653617,45111489,668
+1050,2024-11-15,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,20,2276750,45535000,856
+1051,2024-11-16,Furgón refrigerado,Medellín-Bucaramanga,Falla eléctrica,19,2654436,50434284,588
+1052,2024-11-17,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,18,1171757,21091626,353
+1053,2024-11-18,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,8,7280513,58244104,696
+1054,2024-11-19,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,40,1620140,64805600,866
+1055,2024-11-20,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,25,984426,24610650,858
+1056,2024-11-21,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,43,957309,41164287,804
+1057,2024-11-22,Van refrigerada,Medellín-Bucaramanga,Falla de refrigeración,29,3891768,112861272,811
+1058,2024-11-23,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,23,933438,21469074,613
+1059,2024-11-24,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,4,1614523,6458092,308
+1060,2024-11-25,Furgón refrigerado,Medellín-Cali,Error operativo,25,1711415,42785375,739
+1061,2024-11-26,Camión refrigerado,Medellín-Bogotá,Falla del sensor,19,1396191,26527629,815
+1062,2024-11-27,Van refrigerada,Medellín-Bogotá,Falla de refrigeración,19,1921362,36505878,750
+1063,2024-11-28,Van refrigerada,Medellín-Cali,Falla de refrigeración,58,2569802,149048516,815
+1064,2024-11-29,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,29,1300471,37713659,826
+1065,2024-11-30,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,6,948327,5689962,538
+1066,2024-12-01,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,24,1587210,38093040,312
+1067,2024-12-02,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,35,2474832,86619120,855
+1068,2024-12-03,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,45,2324121,104585445,797
+1069,2024-12-04,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,23,3408503,78395569,717
+1070,2024-12-05,Van refrigerada,Medellín-Bucaramanga,Error operativo,61,1114117,67961137,699
+1071,2024-12-06,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,58,1072944,62230752,886
+1072,2024-12-07,Van refrigerada,Bogotá-Barranquilla,Retraso en ruta,22,1140060,25081320,524
+1073,2024-12-08,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,3,1744603,5233809,287
+1074,2024-12-09,Van refrigerada,Medellín-Bucaramanga,Falla eléctrica,85,2017764,171509940,860
+1075,2024-12-10,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,30,1136942,34108260,875
+1076,2024-12-11,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,59,595992,35163528,1006
+1077,2024-12-12,Furgón refrigerado,Medellín-Cali,Error operativo,51,1616599,82446549,934
+1078,2024-12-13,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,64,945800,60531200,722
+1079,2024-12-14,Van refrigerada,Medellín-Bogotá,Retraso en ruta,22,1494889,32887558,638
+1080,2024-12-15,Camión refrigerado,Medellín-Bucaramanga,Error operativo,7,3585973,25101811,291
+1081,2024-12-16,Camión refrigerado,Medellín-Bogotá,Falla del sensor,31,1646383,51037873,687
+1082,2024-12-17,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,35,3529070,123517450,840
+1083,2024-12-18,Camión refrigerado,Medellín-Cali,Error operativo,19,2116694,40217186,689
+1084,2024-12-19,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,43,2432106,104580558,799
+1085,2024-12-20,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,28,1043329,29213212,735
+1086,2024-12-21,Furgón refrigerado,Bogotá-Cali,Error operativo,21,1192735,25047435,511
+1087,2024-12-22,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,10,2228149,22281490,293
+1088,2024-12-23,Camión refrigerado,Medellín-Bogotá,Error operativo,17,2386557,40571469,612
+1089,2024-12-24,Van refrigerada,Medellín-Bucaramanga,Retraso en ruta,90,1268075,114126750,892
+1090,2024-12-25,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,24,2241618,53798832,726
+1091,2024-12-26,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,23,4982853,114605619,661
+1092,2024-12-27,Furgón refrigerado,Bogotá-Cali,Falla de refrigeración,54,3139940,169556760,804
+1093,2024-12-28,Camión refrigerado,Bogotá-Cali,Falla del sensor,15,1690489,25357335,542
+1094,2024-12-29,Furgón refrigerado,Cali-Pereira,Error operativo,7,2924886,20474202,292
+1095,2024-12-30,Camión refrigerado,Bogotá-Cali,Error operativo,43,2188238,94094234,823
+1096,2024-12-31,Camión refrigerado,Cali-Pereira,Falla de refrigeración,33,13227501,436507533,837
+1097,2025-01-01,Furgón refrigerado,Bogotá-Cali,Error operativo,31,1549112,48022472,778
+1098,2025-01-02,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,23,1764106,40574438,755
+1099,2025-01-03,Camión refrigerado,Cali-Pereira,Retraso en ruta,10,1450835,14508350,688
+1100,2025-01-04,Furgón refrigerado,Bogotá-Cali,Falla de refrigeración,50,3563187,178159350,755
+1101,2025-01-05,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,11,747079,8217869,289
+1102,2025-01-06,Camión refrigerado,Bogotá-Barranquilla,Error operativo,22,3277241,72099302,726
+1103,2025-01-07,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,54,1272537,68716998,792
+1104,2025-01-08,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,27,3028144,81759888,652
+1105,2025-01-09,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,49,939144,46018056,976
+1106,2025-01-10,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,29,1825360,52935440,822
+1107,2025-01-11,Van refrigerada,Medellín-Bogotá,Error operativo,38,1330582,50562116,612
+1108,2025-01-12,Van refrigerada,Bogotá-Barranquilla,Falla eléctrica,15,1665393,24980895,341
+1109,2025-01-13,Van refrigerada,Medellín-Bucaramanga,Error operativo,20,1440469,28809380,795
+1110,2025-01-14,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,71,672068,47716828,783
+1111,2025-01-15,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,37,1161342,42969654,894
+1112,2025-01-16,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,52,1165311,60596172,719
+1113,2025-01-17,Furgón refrigerado,Cali-Pereira,Falla del sensor,22,805780,17727160,793
+1114,2025-01-18,Van refrigerada,Medellín-Bucaramanga,Error operativo,38,1264828,48063464,641
+1115,2025-01-19,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,22,6529623,143651706,341
+1116,2025-01-20,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,23,911823,20971929,711
+1117,2025-01-21,Furgón refrigerado,Bogotá-Cali,Falla eléctrica,18,2646711,47640798,811
+1118,2025-01-22,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,27,1407078,37991106,738
+1119,2025-01-23,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,46,1211251,55717546,862
+1120,2025-01-24,Furgón refrigerado,Cali-Pereira,Retraso en ruta,13,1408872,18315336,794
+1121,2025-01-25,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,14,3944975,55229650,638
+1122,2025-01-26,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,20,1181170,23623400,393
+1123,2025-01-27,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,18,1690066,30421188,771
+1124,2025-01-28,Furgón refrigerado,Medellín-Cali,Error operativo,29,1658497,48096413,848
+1125,2025-01-29,Camión refrigerado,Medellín-Cali,Error operativo,33,2305711,76088463,718
+1126,2025-01-30,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,20,2684598,53691960,753
+1127,2025-01-31,Van refrigerada,Medellín-Bucaramanga,Error operativo,33,937718,30944694,769
+1128,2025-02-01,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,25,654601,16365025,442
+1129,2025-02-02,Camión refrigerado,Medellín-Bogotá,Error operativo,13,1804200,23454600,318
+1130,2025-02-03,Van refrigerada,Medellín-Bogotá,Falla del sensor,82,855319,70136158,879
+1131,2025-02-04,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,29,3006373,87184817,844
+1132,2025-02-05,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,14,1416844,19835816,590
+1133,2025-02-06,Camión refrigerado,Medellín-Cali,Error operativo,9,2316922,20852298,832
+1134,2025-02-07,Camión refrigerado,Medellín-Bucaramanga,Error operativo,17,2599744,44195648,706
+1135,2025-02-08,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,24,1509196,36220704,569
+1136,2025-02-09,Van refrigerada,Medellín-Bucaramanga,Retraso en ruta,19,1616510,30713690,273
+1137,2025-02-10,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,28,4758188,133229264,827
+1138,2025-02-11,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,7,1098111,7686777,558
+1139,2025-02-12,Camión refrigerado,Medellín-Bucaramanga,Error operativo,26,1850254,48106604,765
+1140,2025-02-13,Van refrigerada,Medellín-Bogotá,Retraso en ruta,23,1486880,34198240,771
+1141,2025-02-14,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,21,2114745,44409645,688
+1142,2025-02-15,Van refrigerada,Bogotá-Barranquilla,Error operativo,41,1497133,61382453,634
+1143,2025-02-16,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,15,1548892,23233380,302
+1144,2025-02-17,Camión refrigerado,Medellín-Cali,Retraso en ruta,32,2684416,85901312,728
+1145,2025-02-18,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,37,2233364,82634468,961
+1146,2025-02-19,Camión refrigerado,Medellín-Cali,Error operativo,32,2063830,66042560,966
+1147,2025-02-20,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,45,2784749,125313705,859
+1148,2025-02-21,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,30,2284166,68524980,768
+1149,2025-02-22,Van refrigerada,Bogotá-Barranquilla,Error operativo,65,1185297,77044305,581
+1150,2025-02-23,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,14,1230342,17224788,350
+1151,2025-02-24,Furgón refrigerado,Bogotá-Cali,Falla de refrigeración,20,3672206,73444120,946
+1152,2025-02-25,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,27,935390,25255530,777
+1153,2025-02-26,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,8,1178169,9425352,780
+1154,2025-02-27,Camión refrigerado,Medellín-Bucaramanga,Error operativo,21,1972240,41417040,808
+1155,2025-02-28,Camión refrigerado,Cali-Pereira,Falla de refrigeración,19,7315020,138985380,819
+1156,2025-03-01,Camión refrigerado,Bogotá-Barranquilla,Error operativo,28,1981309,55476652,623
+1157,2025-03-02,Van refrigerada,Bogotá-Barranquilla,Retraso en ruta,10,1185594,11855940,309
+1158,2025-03-03,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,41,1616248,66266168,699
+1159,2025-03-04,Camión refrigerado,Cali-Pereira,Retraso en ruta,12,3257971,39095652,706
+1160,2025-03-05,Camión refrigerado,Cali-Pereira,Falla de refrigeración,19,3008009,57152171,724
+1161,2025-03-06,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,20,816440,16328800,680
+1162,2025-03-07,Van refrigerada,Bogotá-Barranquilla,Falla del sensor,39,1091883,42583437,714
+1163,2025-03-08,Camión refrigerado,Medellín-Cali,Retraso en ruta,23,1997563,45943949,656
+1164,2025-03-09,Camión refrigerado,Medellín-Bogotá,Error operativo,7,3826236,26783652,307
+1165,2025-03-10,Camión refrigerado,Medellín-Cali,Error operativo,18,3296737,59341266,748
+1166,2025-03-11,Van refrigerada,Medellín-Cali,Apertura prolongada de puertas,14,775174,10852436,823
+1167,2025-03-12,Camión refrigerado,Medellín-Cali,Retraso en ruta,26,2556007,66456182,841
+1168,2025-03-13,Camión refrigerado,Medellín-Bogotá,Error operativo,14,2252229,31531206,851
+1169,2025-03-14,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,39,1542315,60150285,735
+1170,2025-03-15,Van refrigerada,Bogotá-Barranquilla,Falla de refrigeración,18,3632874,65391732,449
+1171,2025-03-16,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,27,1744693,47106711,287
+1172,2025-03-17,Camión refrigerado,Medellín-Bucaramanga,Error operativo,23,2037072,46852656,803
+1173,2025-03-18,Furgón refrigerado,Bogotá-Cali,Falla del sensor,37,1480849,54791413,978
+1174,2025-03-19,Van refrigerada,Medellín-Bogotá,Retraso en ruta,41,1255105,51459305,697
+1175,2025-03-20,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,27,1420550,38354850,714
+1176,2025-03-21,Furgón refrigerado,Medellín-Bogotá,Error operativo,28,1552528,43470784,768
+1177,2025-03-22,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,19,1716450,32612550,512
+1178,2025-03-23,Camión refrigerado,Bogotá-Cali,Retraso en ruta,8,3290287,26322296,262
+1179,2025-03-24,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,33,742300,24495900,729
+1180,2025-03-25,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,39,2945925,114891075,949
+1181,2025-03-26,Camión refrigerado,Medellín-Bucaramanga,Error operativo,17,1634025,27778425,650
+1182,2025-03-27,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,21,4192612,88044852,760
+1183,2025-03-28,Camión refrigerado,Medellín-Bogotá,Falla del sensor,5,604092,3020460,794
+1184,2025-03-29,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,56,1413196,79138976,679
+1185,2025-03-30,Furgón refrigerado,Medellín-Cali,Error operativo,8,980920,7847360,341
+1186,2025-03-31,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,14,2005293,28074102,830
+1187,2025-04-01,Camión refrigerado,Bogotá-Barranquilla,Error operativo,26,3151703,81944278,746
+1188,2025-04-02,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,61,1054460,64322060,859
+1189,2025-04-03,Furgón refrigerado,Medellín-Cali,Falla de refrigeración,20,3419122,68382440,909
+1190,2025-04-04,Van refrigerada,Medellín-Bucaramanga,Falla del sensor,38,935146,35535548,851
+1191,2025-04-05,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,4,1523800,6095200,380
+1192,2025-04-06,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,12,1039617,12475404,327
+1193,2025-04-07,Van refrigerada,Medellín-Bucaramanga,Falla de refrigeración,27,2919464,78825528,783
+1194,2025-04-08,Camión refrigerado,Medellín-Bogotá,Error operativo,7,1887748,13214236,808
+1195,2025-04-09,Van refrigerada,Medellín-Cali,Error operativo,30,985321,29559630,696
+1196,2025-04-10,Van refrigerada,Medellín-Bucaramanga,Error operativo,28,1174864,32896192,817
+1197,2025-04-11,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,44,6610080,290843520,761
+1198,2025-04-12,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,23,1182712,27202376,586
+1199,2025-04-13,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,4,3425129,13700516,314
+1200,2025-04-14,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,21,5724500,120214500,770
+1201,2025-04-15,Camión refrigerado,Medellín-Bucaramanga,Falla eléctrica,8,2515242,20121936,770
+1202,2025-04-16,Van refrigerada,Medellín-Bogotá,Retraso en ruta,48,1296019,62208912,911
+1203,2025-04-17,Van refrigerada,Bogotá-Cali,Apertura prolongada de puertas,17,557085,9470445,666
+1204,2025-04-18,Furgón refrigerado,Medellín-Cali,Retraso en ruta,31,1970770,61093870,1007
+1205,2025-04-19,Furgón refrigerado,Cali-Pereira,Error operativo,8,1013437,8107496,533
+1206,2025-04-20,Camión refrigerado,Medellín-Bucaramanga,Error operativo,8,2781937,22255496,333
+1207,2025-04-21,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,23,1779043,40917989,765
+1208,2025-04-22,Van refrigerada,Medellín-Cali,Retraso en ruta,54,1316214,71075556,843
+1209,2025-04-23,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,15,2842419,42636285,717
+1210,2025-04-24,Van refrigerada,Medellín-Cali,Retraso en ruta,14,1163622,16290708,870
+1211,2025-04-25,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,22,1014493,22318846,789
+1212,2025-04-26,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,15,1531608,22974120,569
+1213,2025-04-27,Camión refrigerado,Cali-Pereira,Retraso en ruta,5,1395192,6975960,316
+1214,2025-04-28,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,22,5574988,122649736,716
+1215,2025-04-29,Camión refrigerado,Medellín-Bogotá,Error operativo,15,1615647,24234705,777
+1216,2025-04-30,Van refrigerada,Medellín-Cali,Error operativo,46,1340684,61671464,768
+1217,2025-05-01,Van refrigerada,Medellín-Bucaramanga,Falla de refrigeración,28,2539927,71117956,859
+1218,2025-05-02,Furgón refrigerado,Cali-Pereira,Error operativo,20,1921995,38439900,734
+1219,2025-05-03,Van refrigerada,Medellín-Bucaramanga,Error operativo,40,1075729,43029160,551
+1220,2025-05-04,Van refrigerada,Bogotá-Barranquilla,Error operativo,36,1223325,44039700,325
+1221,2025-05-05,Camión refrigerado,Medellín-Bogotá,Error operativo,27,1853934,50056218,861
+1222,2025-05-06,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,20,584904,11698080,846
+1223,2025-05-07,Furgón refrigerado,Medellín-Cali,Error operativo,28,1605746,44960888,851
+1224,2025-05-08,Furgón refrigerado,Medellín-Bogotá,Falla eléctrica,41,2471369,101326129,859
+1225,2025-05-09,Furgón refrigerado,Bogotá-Cali,Error operativo,24,1276988,30647712,830
+1226,2025-05-10,Camión refrigerado,Cali-Pereira,Error operativo,10,2585409,25854090,433
+1227,2025-05-11,Camión refrigerado,Bogotá-Barranquilla,Error operativo,9,2199104,19791936,309
+1228,2025-05-12,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,29,1961931,56895999,870
+1229,2025-05-13,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,15,1782022,26730330,797
+1230,2025-05-14,Furgón refrigerado,Medellín-Cali,Falla de refrigeración,20,3473219,69464380,903
+1231,2025-05-15,Furgón refrigerado,Medellín-Bogotá,Error operativo,12,1023082,12276984,830
+1232,2025-05-16,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,31,1125509,34890779,813
+1233,2025-05-17,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,20,2727121,54542420,523
+1234,2025-05-18,Furgón refrigerado,Medellín-Cali,Falla del sensor,6,1089512,6537072,284
+1235,2025-05-19,Van refrigerada,Medellín-Cali,Falla del sensor,33,1031944,34054152,750
+1236,2025-05-20,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,18,1928122,34706196,816
+1237,2025-05-21,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,30,5091616,152748480,884
+1238,2025-05-22,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,23,3980355,91548165,739
+1239,2025-05-23,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,29,2106411,61085919,740
+1240,2025-05-24,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,28,1163432,32576096,527
+1241,2025-05-25,Camión refrigerado,Medellín-Cali,Falla del sensor,7,1773690,12415830,320
+1242,2025-05-26,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,30,1623050,48691500,767
+1243,2025-05-27,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,39,1314153,51251967,622
+1244,2025-05-28,Camión refrigerado,Cali-Pereira,Apertura prolongada de puertas,9,905935,8153415,771
+1245,2025-05-29,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,58,2440278,141536124,893
+1246,2025-05-30,Van refrigerada,Medellín-Bucaramanga,Error operativo,62,1366150,84701300,891
+1247,2025-05-31,Camión refrigerado,Bogotá-Barranquilla,Falla de refrigeración,19,4366978,82972582,516
+1248,2025-06-01,Furgón refrigerado,Medellín-Bucaramanga,Falla de refrigeración,10,3182326,31823260,354
+1249,2025-06-02,Camión refrigerado,Cali-Pereira,Falla eléctrica,9,2601155,23410395,608
+1250,2025-06-03,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,10,2083028,20830280,864
+1251,2025-06-04,Camión refrigerado,Bogotá-Cali,Falla eléctrica,14,2825818,39561452,710
+1252,2025-06-05,Camión refrigerado,Medellín-Bogotá,Error operativo,17,2041705,34708985,871
+1253,2025-06-06,Furgón refrigerado,Medellín-Bogotá,Error operativo,24,1545303,37087272,912
+1254,2025-06-07,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,15,1259727,18895905,531
+1255,2025-06-08,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,5,2045483,10227415,312
+1256,2025-06-09,Van refrigerada,Medellín-Bogotá,Falla eléctrica,53,5166941,273847873,831
+1257,2025-06-10,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,10,1523271,15232710,735
+1258,2025-06-11,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,31,901393,27943183,769
+1259,2025-06-12,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,16,1021745,16347920,792
+1260,2025-06-13,Van refrigerada,Bogotá-Barranquilla,Falla de refrigeración,69,2815384,194261496,791
+1261,2025-06-14,Furgón refrigerado,Cali-Pereira,Error operativo,2,1205709,2411418,508
+1262,2025-06-15,Van refrigerada,Medellín-Bucaramanga,Error operativo,17,912933,15519861,285
+1263,2025-06-16,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,30,4710204,141306120,896
+1264,2025-06-17,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,26,1684486,43796636,743
+1265,2025-06-18,Camión refrigerado,Medellín-Cali,Error operativo,41,2398885,98354285,932
+1266,2025-06-19,Furgón refrigerado,Medellín-Bucaramanga,Falla de refrigeración,75,4223651,316773825,940
+1267,2025-06-20,Furgón refrigerado,Bogotá-Cali,Falla eléctrica,40,3135108,125404320,1003
+1268,2025-06-21,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,32,723922,23165504,657
+1269,2025-06-22,Camión refrigerado,Medellín-Cali,Falla del sensor,9,1720735,15486615,274
+1270,2025-06-23,Camión refrigerado,Cali-Pereira,Retraso en ruta,23,2476078,56949794,858
+1271,2025-06-24,Furgón refrigerado,Cali-Pereira,Error operativo,9,2081021,18729189,730
+1272,2025-06-25,Camión refrigerado,Medellín-Cali,Falla del sensor,26,1580755,41099630,786
+1273,2025-06-26,Camión refrigerado,Cali-Pereira,Error operativo,23,1967532,45253236,832
+1274,2025-06-27,Van refrigerada,Medellín-Bogotá,Error operativo,38,1018442,38700796,830
+1275,2025-06-28,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,26,2691242,69972292,586
+1276,2025-06-29,Camión refrigerado,Medellín-Cali,Falla de refrigeración,11,6542562,71968182,305
+1277,2025-06-30,Van refrigerada,Medellín-Bogotá,Error operativo,40,1182170,47286800,861
+1278,2025-07-01,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,37,1266177,46848549,777
+1279,2025-07-02,Furgón refrigerado,Medellín-Bogotá,Error operativo,46,1641956,75529976,804
+1280,2025-07-03,Van refrigerada,Medellín-Cali,Retraso en ruta,41,1379107,56543387,732
+1281,2025-07-04,Furgón refrigerado,Bogotá-Cali,Falla del sensor,31,1294076,40116356,880
+1282,2025-07-05,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,13,1148398,14929174,520
+1283,2025-07-06,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,10,1578479,15784790,299
+1284,2025-07-07,Van refrigerada,Bogotá-Cali,Retraso en ruta,63,1495384,94209192,898
+1285,2025-07-08,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,41,853405,34989605,767
+1286,2025-07-09,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,25,5876378,146909450,746
+1287,2025-07-10,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,25,2663323,66583075,692
+1288,2025-07-11,Furgón refrigerado,Medellín-Bogotá,Falla de refrigeración,32,3511481,112367392,794
+1289,2025-07-12,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,31,2981952,92440512,553
+1290,2025-07-13,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,10,1474350,14743500,278
+1291,2025-07-14,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,31,1980191,61385921,1024
+1292,2025-07-15,Van refrigerada,Medellín-Bogotá,Falla del sensor,11,648766,7136426,783
+1293,2025-07-16,Van refrigerada,Bogotá-Cali,Error operativo,59,940365,55481535,758
+1294,2025-07-17,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,29,1786942,51821318,625
+1295,2025-07-18,Camión refrigerado,Medellín-Cali,Error operativo,50,2063248,103162400,849
+1296,2025-07-19,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,34,2911358,98986172,560
+1297,2025-07-20,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,14,793752,11112528,317
+1298,2025-07-21,Camión refrigerado,Medellín-Cali,Error operativo,12,1896395,22756740,897
+1299,2025-07-22,Camión refrigerado,Cali-Pereira,Error operativo,17,2000896,34015232,785
+1300,2025-07-23,Camión refrigerado,Cali-Pereira,Falla de refrigeración,36,5131670,184740120,798
+1301,2025-07-24,Camión refrigerado,Medellín-Cali,Retraso en ruta,24,2420878,58101072,679
+1302,2025-07-25,Van refrigerada,Medellín-Bucaramanga,Falla del sensor,73,955951,69784423,718
+1303,2025-07-26,Furgón refrigerado,Medellín-Cali,Falla eléctrica,33,2558545,84431985,481
+1304,2025-07-27,Van refrigerada,Medellín-Bucaramanga,Retraso en ruta,15,1771963,26579445,376
+1305,2025-07-28,Camión refrigerado,Medellín-Cali,Retraso en ruta,34,2377197,80824698,767
+1306,2025-07-29,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,15,2464246,36963690,710
+1307,2025-07-30,Camión refrigerado,Medellín-Cali,Retraso en ruta,23,1529061,35168403,812
+1308,2025-07-31,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,32,857775,27448800,751
+1309,2025-08-01,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,45,3488726,156992670,860
+1310,2025-08-02,Camión refrigerado,Medellín-Bogotá,Error operativo,27,2704462,73020474,542
+1311,2025-08-03,Furgón refrigerado,Bogotá-Cali,Falla del sensor,17,1163628,19781676,330
+1312,2025-08-04,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,32,1045844,33467008,753
+1313,2025-08-05,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,42,1338597,56221074,758
+1314,2025-08-06,Van refrigerada,Medellín-Cali,Error operativo,76,992423,75424148,815
+1315,2025-08-07,Camión refrigerado,Medellín-Bucaramanga,Error operativo,25,2174448,54361200,733
+1316,2025-08-08,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,54,2216526,119692404,959
+1317,2025-08-09,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,19,5359799,101836181,548
+1318,2025-08-10,Furgón refrigerado,Medellín-Bogotá,Error operativo,13,1641224,21335912,383
+1319,2025-08-11,Camión refrigerado,Medellín-Bucaramanga,Falla eléctrica,25,3493352,87333800,787
+1320,2025-08-12,Furgón refrigerado,Medellín-Cali,Error operativo,63,1762056,111009528,809
+1321,2025-08-13,Furgón refrigerado,Medellín-Cali,Retraso en ruta,26,1747340,45430840,718
+1322,2025-08-14,Van refrigerada,Bogotá-Cali,Error operativo,44,942040,41449760,648
+1323,2025-08-15,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,54,1128607,60944778,793
+1324,2025-08-16,Camión refrigerado,Cali-Pereira,Error operativo,19,1579941,30018879,531
+1325,2025-08-17,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,12,981676,11780112,334
+1326,2025-08-18,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,19,2337544,44413336,791
+1327,2025-08-19,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,21,1102146,23145066,710
+1328,2025-08-20,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,66,1675588,110588808,881
+1329,2025-08-21,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,14,807009,11298126,887
+1330,2025-08-22,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,13,1714437,22287681,861
+1331,2025-08-23,Van refrigerada,Medellín-Cali,Error operativo,26,1089205,28319330,537
+1332,2025-08-24,Camión refrigerado,Cali-Pereira,Falla del sensor,11,1495013,16445143,316
+1333,2025-08-25,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,28,1125776,31521728,780
+1334,2025-08-26,Furgón refrigerado,Bogotá-Cali,Retraso en ruta,42,2344938,98487396,765
+1335,2025-08-27,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,17,1088033,18496561,748
+1336,2025-08-28,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,52,4101071,213255692,812
+1337,2025-08-29,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,27,2026595,54718065,979
+1338,2025-08-30,Furgón refrigerado,Cali-Pereira,Retraso en ruta,16,1417611,22681776,551
+1339,2025-08-31,Camión refrigerado,Medellín-Bogotá,Falla eléctrica,21,2513510,52783710,324
+1340,2025-09-01,Camión refrigerado,Medellín-Bogotá,Error operativo,28,2315838,64843464,932
+1341,2025-09-02,Van refrigerada,Medellín-Bogotá,Retraso en ruta,39,1316412,51340068,846
+1342,2025-09-03,Camión refrigerado,Bogotá-Cali,Error operativo,50,2365234,118261700,924
+1343,2025-09-04,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,15,2320219,34803285,888
+1344,2025-09-05,Furgón refrigerado,Medellín-Cali,Retraso en ruta,30,1996530,59895900,809
+1345,2025-09-06,Camión refrigerado,Medellín-Bucaramanga,Error operativo,16,2308798,36940768,636
+1346,2025-09-07,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,10,1322426,13224260,315
+1347,2025-09-08,Camión refrigerado,Medellín-Cali,Error operativo,20,2150351,43007020,854
+1348,2025-09-09,Camión refrigerado,Bogotá-Cali,Retraso en ruta,15,2502956,37544340,678
+1349,2025-09-10,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,38,1482974,56353012,706
+1350,2025-09-11,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,22,1354284,29794248,731
+1351,2025-09-12,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,18,1381778,24872004,749
+1352,2025-09-13,Camión refrigerado,Bogotá-Cali,Retraso en ruta,24,2494578,59869872,506
+1353,2025-09-14,Furgón refrigerado,Medellín-Cali,Falla eléctrica,3,1741838,5225514,305
+1354,2025-09-15,Camión refrigerado,Bogotá-Barranquilla,Error operativo,14,3216899,45036586,705
+1355,2025-09-16,Camión refrigerado,Medellín-Cali,Falla del sensor,32,1499995,47999840,1027
+1356,2025-09-17,Furgón refrigerado,Bogotá-Barranquilla,Falla de refrigeración,32,5119779,163832928,721
+1357,2025-09-18,Camión refrigerado,Bogotá-Cali,Error operativo,20,3110261,62205220,796
+1358,2025-09-19,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,23,955443,21975189,945
+1359,2025-09-20,Camión refrigerado,Medellín-Bogotá,Error operativo,14,2157962,30211468,539
+1360,2025-09-21,Furgón refrigerado,Medellín-Bucaramanga,Falla de refrigeración,17,5077134,86311278,370
+1361,2025-09-22,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,29,4961182,143874278,915
+1362,2025-09-23,Van refrigerada,Bogotá-Cali,Error operativo,65,885165,57535725,770
+1363,2025-09-24,Van refrigerada,Medellín-Cali,Error operativo,32,1029757,32952224,798
+1364,2025-09-25,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,38,2113356,80307528,804
+1365,2025-09-26,Camión refrigerado,Medellín-Cali,Retraso en ruta,35,2220316,77711060,688
+1366,2025-09-27,Van refrigerada,Bogotá-Barranquilla,Falla de refrigeración,54,2669219,144137826,587
+1367,2025-09-28,Van refrigerada,Medellín-Cali,Error operativo,12,955269,11463228,341
+1368,2025-09-29,Camión refrigerado,Medellín-Bucaramanga,Error operativo,31,2376708,73677948,822
+1369,2025-09-30,Van refrigerada,Medellín-Cali,Apertura prolongada de puertas,79,755662,59697298,735
+1370,2025-10-01,Camión refrigerado,Medellín-Cali,Error operativo,15,2721970,40829550,840
+1371,2025-10-02,Camión refrigerado,Bogotá-Cali,Retraso en ruta,16,2666247,42659952,957
+1372,2025-10-03,Furgón refrigerado,Medellín-Bucaramanga,Falla eléctrica,42,2531346,106316532,769
+1373,2025-10-04,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,12,982642,11791704,548
+1374,2025-10-05,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,4,40231748,160926992,309
+1375,2025-10-06,Van refrigerada,Cali-Pereira,Retraso en ruta,44,1359869,59834236,880
+1376,2025-10-07,Furgón refrigerado,Medellín-Bucaramanga,Falla del sensor,45,1443700,64966500,827
+1377,2025-10-08,Camión refrigerado,Medellín-Cali,Falla de refrigeración,21,10103270,212168670,780
+1378,2025-10-09,Camión refrigerado,Bogotá-Barranquilla,Error operativo,30,2781667,83450010,765
+1379,2025-10-10,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,37,1832627,67807199,804
+1380,2025-10-11,Van refrigerada,Medellín-Bogotá,Apertura prolongada de puertas,15,819118,12286770,578
+1381,2025-10-12,Camión refrigerado,Bogotá-Barranquilla,Error operativo,5,999096,4995480,345
+1382,2025-10-13,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,45,1600916,72041220,887
+1383,2025-10-14,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,28,1403800,39306400,965
+1384,2025-10-15,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,22,4850615,106713530,816
+1385,2025-10-16,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,29,1904980,55244420,697
+1386,2025-10-17,Camión refrigerado,Medellín-Cali,Apertura prolongada de puertas,20,2242237,44844740,621
+1387,2025-10-18,Furgón refrigerado,Medellín-Bogotá,Retraso en ruta,23,1635455,37615465,617
+1388,2025-10-19,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,16,1745721,27931536,358
+1389,2025-10-20,Furgón refrigerado,Bogotá-Cali,Falla de refrigeración,29,4171825,120982925,823
+1390,2025-10-21,Van refrigerada,Bogotá-Cali,Apertura prolongada de puertas,42,718425,30173850,797
+1391,2025-10-22,Van refrigerada,Bogotá-Cali,Falla eléctrica,50,1864380,93219000,904
+1392,2025-10-23,Van refrigerada,Bogotá-Cali,Falla de refrigeración,78,2234612,174299736,801
+1393,2025-10-24,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,39,1607549,62694411,789
+1394,2025-10-25,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,18,1312825,23630850,608
+1395,2025-10-26,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,7,1249163,8744141,367
+1396,2025-10-27,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,25,3628365,90709125,901
+1397,2025-10-28,Van refrigerada,Bogotá-Cali,Error operativo,35,1082390,37883650,902
+1398,2025-10-29,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,54,1837789,99240606,909
+1399,2025-10-30,Camión refrigerado,Medellín-Bogotá,Falla de refrigeración,35,3679379,128778265,813
+1400,2025-10-31,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,28,1618094,45306632,829
+1401,2025-11-01,Furgón refrigerado,Bogotá-Cali,Error operativo,19,1910606,36301514,616
+1402,2025-11-02,Furgón refrigerado,Cali-Pereira,Falla de refrigeración,12,3858946,46307352,373
+1403,2025-11-03,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,31,907646,28137026,754
+1404,2025-11-04,Van refrigerada,Medellín-Bogotá,Retraso en ruta,63,1422363,89608869,896
+1405,2025-11-05,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,32,739390,23660480,743
+1406,2025-11-06,Van refrigerada,Medellín-Bucaramanga,Apertura prolongada de puertas,40,930337,37213480,673
+1407,2025-11-07,Van refrigerada,Bogotá-Barranquilla,Error operativo,82,1391640,114114480,780
+1408,2025-11-08,Camión refrigerado,Medellín-Cali,Error operativo,12,1620145,19441740,521
+1409,2025-11-09,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,12,1039385,12472620,344
+1410,2025-11-10,Van refrigerada,Medellín-Bucaramanga,Falla eléctrica,57,1766956,100716492,766
+1411,2025-11-11,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,15,1269390,19040850,825
+1412,2025-11-12,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,34,1212378,41220852,720
+1413,2025-11-13,Camión refrigerado,Medellín-Bucaramanga,Error operativo,31,2280606,70698786,942
+1414,2025-11-14,Camión refrigerado,Medellín-Bogotá,Falla del sensor,29,2002406,58069774,811
+1415,2025-11-15,Van refrigerada,Medellín-Bucaramanga,Error operativo,54,1031441,55697814,625
+1416,2025-11-16,Furgón refrigerado,Medellín-Cali,Error operativo,15,1756818,26352270,353
+1417,2025-11-17,Camión refrigerado,Bogotá-Cali,Falla del sensor,42,1974495,82928790,787
+1418,2025-11-18,Van refrigerada,Cali-Pereira,Falla eléctrica,51,1494774,76233474,722
+1419,2025-11-19,Furgón refrigerado,Bogotá-Barranquilla,Falla eléctrica,34,3308925,112503450,902
+1420,2025-11-20,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,7,1380121,9660847,689
+1421,2025-11-21,Van refrigerada,Medellín-Bucaramanga,Falla de refrigeración,55,3131274,172220070,828
+1422,2025-11-22,Van refrigerada,Bogotá-Barranquilla,Error operativo,30,1180266,35407980,501
+1423,2025-11-23,Camión refrigerado,Bogotá-Cali,Falla de refrigeración,12,4812709,57752508,287
+1424,2025-11-24,Furgón refrigerado,Bogotá-Barranquilla,Error operativo,30,1887229,56616870,937
+1425,2025-11-25,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,20,737355,14747100,681
+1426,2025-11-26,Van refrigerada,Medellín-Cali,Falla de refrigeración,22,3966960,87273120,726
+1427,2025-11-27,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,28,1535221,42986188,888
+1428,2025-11-28,Camión refrigerado,Medellín-Cali,Falla eléctrica,13,2501961,32525493,768
+1429,2025-11-29,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,37,2897488,107207056,587
+1430,2025-11-30,Van refrigerada,Cali-Pereira,Falla del sensor,8,982636,7861088,351
+1431,2025-12-01,Van refrigerada,Medellín-Cali,Falla del sensor,50,930799,46539950,918
+1432,2025-12-02,Camión refrigerado,Medellín-Bucaramanga,Retraso en ruta,30,2434572,73037160,808
+1433,2025-12-03,Furgón refrigerado,Medellín-Bogotá,Falla del sensor,43,1090149,46876407,863
+1434,2025-12-04,Furgón refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,39,989052,38573028,928
+1435,2025-12-05,Camión refrigerado,Medellín-Bogotá,Error operativo,15,1583857,23757855,898
+1436,2025-12-06,Van refrigerada,Bogotá-Barranquilla,Retraso en ruta,50,1705133,85256650,593
+1437,2025-12-07,Van refrigerada,Bogotá-Cali,Apertura prolongada de puertas,26,633165,16462290,282
+1438,2025-12-08,Camión refrigerado,Bogotá-Barranquilla,Error operativo,37,2320109,85844033,875
+1439,2025-12-09,Camión refrigerado,Medellín-Bogotá,Error operativo,13,1251970,16275610,715
+1440,2025-12-10,Camión refrigerado,Bogotá-Cali,Error operativo,35,2428942,85012970,866
+1441,2025-12-11,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,34,790857,26889138,723
+1442,2025-12-12,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,30,984871,29546130,891
+1443,2025-12-13,Van refrigerada,Medellín-Bucaramanga,Error operativo,44,1188854,52309576,615
+1444,2025-12-14,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,12,3359806,40317672,333
+1445,2025-12-15,Furgón refrigerado,Bogotá-Cali,Error operativo,17,1623827,27605059,805
+1446,2025-12-16,Van refrigerada,Medellín-Bucaramanga,Error operativo,52,939211,48838972,807
+1447,2025-12-17,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,59,2871445,169415255,825
+1448,2025-12-18,Van refrigerada,Medellín-Bogotá,Falla de refrigeración,55,2072815,114004825,886
+1449,2025-12-19,Furgón refrigerado,Medellín-Bucaramanga,Retraso en ruta,39,1850395,72165405,903
+1450,2025-12-20,Van refrigerada,Bogotá-Barranquilla,Error operativo,28,1446808,40510624,533
+1451,2025-12-21,Furgón refrigerado,Cali-Pereira,Falla del sensor,11,994101,10935111,309
+1452,2025-12-22,Furgón refrigerado,Bogotá-Cali,Apertura prolongada de puertas,31,919103,28492193,686
+1453,2025-12-23,Camión refrigerado,Bogotá-Cali,Apertura prolongada de puertas,14,1071036,14994504,788
+1454,2025-12-24,Furgón refrigerado,Cali-Pereira,Error operativo,38,1389271,52792298,702
+1455,2025-12-25,Furgón refrigerado,Medellín-Cali,Falla del sensor,57,1185727,67586439,789
+1456,2025-12-26,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,40,1790316,71612640,717
+1457,2025-12-27,Furgón refrigerado,Medellín-Cali,Apertura prolongada de puertas,23,936944,21549712,588
+1458,2025-12-28,Camión refrigerado,Bogotá-Cali,Retraso en ruta,7,2458411,17208877,306
+1459,2025-12-29,Camión refrigerado,Bogotá-Barranquilla,Retraso en ruta,37,2680886,99192782,676
+1460,2025-12-30,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,9,5809761,52287849,723
+1461,2025-12-31,Furgón refrigerado,Medellín-Cali,Error operativo,20,1406047,28120940,749
+1462,2026-01-01,Camión refrigerado,Medellín-Bucaramanga,Error operativo,22,2342979,51545538,717
+1463,2026-01-02,Van refrigerada,Cali-Pereira,Error operativo,45,923160,41542200,914
+1464,2026-01-03,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,23,2068386,47572878,525
+1465,2026-01-04,Camión refrigerado,Medellín-Bogotá,Error operativo,17,1379710,23455070,358
+1466,2026-01-05,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,28,1061986,29735608,767
+1467,2026-01-06,Van refrigerada,Bogotá-Cali,Error operativo,52,1158773,60256196,890
+1468,2026-01-07,Furgón refrigerado,Bogotá-Barranquilla,Falla del sensor,63,1444056,90975528,745
+1469,2026-01-08,Furgón refrigerado,Medellín-Bucaramanga,Error operativo,22,1566254,34457588,896
+1470,2026-01-09,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,40,5028983,201159320,1088
+1471,2026-01-10,Furgón refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,17,693986,11797762,597
+1472,2026-01-11,Camión refrigerado,Medellín-Bogotá,Falla del sensor,17,1453195,24704315,306
+1473,2026-01-12,Furgón refrigerado,Bogotá-Cali,Falla eléctrica,29,2320945,67307405,714
+1474,2026-01-13,Van refrigerada,Medellín-Bogotá,Falla eléctrica,57,1850869,105499533,766
+1475,2026-01-14,Camión refrigerado,Cali-Pereira,Error operativo,14,2738018,38332252,800
+1476,2026-01-15,Furgón refrigerado,Medellín-Bogotá,Error operativo,30,1342239,40267170,862
+1477,2026-01-16,Camión refrigerado,Medellín-Cali,Falla del sensor,36,1416280,50986080,872
+1478,2026-01-17,Camión refrigerado,Bogotá-Barranquilla,Falla del sensor,28,2164791,60614148,650
+1479,2026-01-18,Van refrigerada,Bogotá-Cali,Retraso en ruta,40,1426956,57078240,390
+1480,2026-01-19,Furgón refrigerado,Cali-Pereira,Apertura prolongada de puertas,23,793697,18255031,741
+1481,2026-01-20,Furgón refrigerado,Medellín-Bogotá,Error operativo,24,1603815,38491560,754
+1482,2026-01-21,Van refrigerada,Medellín-Bogotá,Falla eléctrica,56,1948666,109125296,755
+1483,2026-01-22,Camión refrigerado,Cali-Pereira,Retraso en ruta,32,2185228,69927296,824
+1484,2026-01-23,Camión refrigerado,Medellín-Bogotá,Retraso en ruta,59,2362722,139400598,853
+1485,2026-01-24,Camión refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,15,1649580,24743700,536
+1486,2026-01-25,Furgón refrigerado,Medellín-Cali,Falla eléctrica,20,1380207,27604140,311
+1487,2026-01-26,Van refrigerada,Medellín-Bogotá,Error operativo,40,1320720,52828800,771
+1488,2026-01-27,Furgón refrigerado,Bogotá-Barranquilla,Retraso en ruta,49,1948469,95474981,733
+1489,2026-01-28,Camión refrigerado,Medellín-Bucaramanga,Falla de refrigeración,19,4590604,87221476,876
+1490,2026-01-29,Van refrigerada,Bogotá-Cali,Error operativo,9,1710876,15397884,841
+1491,2026-01-30,Van refrigerada,Bogotá-Cali,Error operativo,43,1272270,54707610,853
+1492,2026-01-31,Camión refrigerado,Medellín-Bogotá,Error operativo,19,1811804,34424276,519
+1493,2026-02-01,Camión refrigerado,Medellín-Bogotá,Apertura prolongada de puertas,14,1514710,21205940,326
+1494,2026-02-02,Camión refrigerado,Medellín-Bucaramanga,Apertura prolongada de puertas,65,1465407,95251455,810
+1495,2026-02-03,Van refrigerada,Medellín-Cali,Error operativo,52,1323427,68818204,781
+1496,2026-02-04,Camión refrigerado,Medellín-Cali,Error operativo,13,2400098,31201274,740
+1497,2026-02-05,Camión refrigerado,Bogotá-Cali,Error operativo,18,1645994,29627892,744
+1498,2026-02-06,Furgón refrigerado,Bogotá-Barranquilla,Apertura prolongada de puertas,36,815234,29348424,680
+1499,2026-02-07,Camión refrigerado,Medellín-Cali,Falla de refrigeración,43,5263671,226337853,605
+1500,2026-02-08,Camión refrigerado,Medellín-Bucaramanga,Falla del sensor,17,1768667,30067339,372

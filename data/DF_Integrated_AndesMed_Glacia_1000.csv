@@ -1,0 +1,1001 @@
+ID,Date,Vehicle_Type,Route,Main_Cause,Break_Frequency,Severity_COP,LDA,Shipments,Source
+1113,2025-01-17,Refrigerated truck,Medellín-Bucaramanga,Route delay,1,15288333,15288333,1544,Glacia
+42,2022-02-11,Refrigerated truck,Medellín-Bogotá,Refrigeration failure,15,14523831,217857465,1481,Glacia
+74,2022-03-15,Refrigerated van,Medellín-Bogotá,Operational error,25,1433617,35840425,642,AndesMed
+906,2024-06-24,Refrigerated truck,Medellín-Cali,Sensor failure,15,2314639,34719585,666,AndesMed
+800,2024-03-10,Refrigerated truck,Medellín-Bucaramanga,Electrical failure,14,2540161,35562254,233,AndesMed
+710,2023-12-11,Refrigerated truck,Medellín-Cali,Route delay,22,2231381,49090382,720,AndesMed
+415,2023-02-19,Small refrigerated van,Cali-Pereira,Route delay,19,1223259,23241921,244,AndesMed
+299,2022-10-26,Small refrigerated van,Cali-Pereira,Operational error,27,709024,19143648,715,AndesMed
+1343,2025-09-04,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,11,2802656,30829216,1620,Glacia
+249,2022-09-06,Refrigerated truck,Medellín-Bogotá,Refrigeration failure,25,5318552,132963800,687,AndesMed
+1420,2025-11-20,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,7,1380121,9660847,689,AndesMed
+91,2022-04-01,Refrigerated truck,Medellín-Bogotá,Doors left open too long,20,1388856,27777120,783,AndesMed
+87,2022-03-28,Refrigerated van,Cali-Pereira,Operational error,27,1103261,29788047,643,AndesMed
+270,2022-09-27,Refrigerated truck,Medellín-Bogotá,Route delay,27,3323516,89734932,544,AndesMed
+692,2023-11-23,Refrigerated truck,Medellín-Bucaramanga,Sensor failure,27,2003456,54093312,685,AndesMed
+749,2024-01-19,Refrigerated truck,Medellín-Cali,Operational error,22,2336107,51394354,662,AndesMed
+785,2024-02-24,Refrigerated van,Medellín-Bogotá,Operational error,13,3681945,47865285,1130,Glacia
+78,2022-03-19,Refrigerated van,Bogotá-Barranquilla,Electrical failure,16,2613928,41822848,557,AndesMed
+617,2023-09-09,Refrigerated van,Bogotá-Cali,Route delay,12,1975992,23711904,506,AndesMed
+1453,2025-12-23,Refrigerated van,Medellín-Cali,Sensor failure,21,3160822,66377262,1786,Glacia
+1402,2025-11-02,Refrigerated van,Cali-Pereira,Refrigeration failure,12,3858946,46307352,373,AndesMed
+700,2023-12-01,Refrigerated truck,Medellín-Cali,Sensor failure,29,1343796,38970084,717,AndesMed
+146,2022-05-26,Refrigerated van,Bogotá-Barranquilla,Sensor failure,15,2123315,31849725,1357,Glacia
+913,2024-07-01,Refrigerated truck,Bogotá-Barranquilla,Sensor failure,27,1697699,45837873,729,AndesMed
+23,2022-01-23,Refrigerated truck,Bogotá-Cali,Route delay,12,3091330,37095960,285,AndesMed
+472,2023-04-17,Refrigerated van,Medellín-Cali,Route delay,24,2119643,50871432,679,AndesMed
+1423,2025-11-23,Refrigerated truck,Bogotá-Cali,Refrigeration failure,12,4812709,57752508,287,AndesMed
+1135,2025-02-08,Refrigerated van,Medellín-Bogotá,Sensor failure,24,1509196,36220704,569,AndesMed
+1390,2025-10-21,Refrigerated truck,Medellín-Bogotá,Doors left open too long,11,1641647,18058117,1719,Glacia
+462,2023-04-07,Refrigerated van,Medellín-Cali,Operational error,21,1865297,39171237,717,AndesMed
+684,2023-11-15,Refrigerated truck,Cali-Pereira,Doors left open too long,8,823200,6585600,664,AndesMed
+1124,2025-01-28,Refrigerated van,Medellín-Cali,Operational error,29,1658497,48096413,848,AndesMed
+1454,2025-12-24,Refrigerated truck,Bogotá-Barranquilla,Sensor failure,16,3773821,60381136,1853,Glacia
+265,2022-09-22,Refrigerated van,Cali-Pereira,Operational error,13,2134350,27746550,733,AndesMed
+1253,2025-06-06,Refrigerated van,Medellín-Bogotá,Operational error,24,1545303,37087272,912,AndesMed
+282,2022-10-09,Refrigerated truck,Medellín-Bogotá,Refrigeration failure,3,2695835,8087505,248,AndesMed
+1192,2025-04-06,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,12,1039617,12475404,327,AndesMed
+1151,2025-02-24,Refrigerated van,Bogotá-Cali,Refrigeration failure,20,3672206,73444120,946,AndesMed
+876,2024-05-25,Refrigerated truck,Medellín-Bucaramanga,Operational error,22,2225252,48955544,522,AndesMed
+124,2022-05-04,Small refrigerated van,Medellín-Cali,Operational error,26,1045517,27183442,711,AndesMed
+282,2022-10-09,Small refrigerated van,Bogotá-Cali,Sensor failure,10,2087986,20879860,566,Glacia
+1212,2025-04-26,Small refrigerated van,Medellín-Bogotá,Sensor failure,20,1872257,37445140,1074,Glacia
+368,2023-01-03,Refrigerated van,Bogotá-Cali,Sensor failure,25,1076793,26919825,785,AndesMed
+1250,2025-06-03,Refrigerated truck,Medellín-Bucaramanga,Route delay,10,2083028,20830280,864,AndesMed
+227,2022-08-15,Refrigerated van,Cali-Pereira,Refrigeration failure,23,3456337,79495751,568,AndesMed
+981,2024-09-07,Refrigerated van,Cali-Pereira,Operational error,18,1723491,31022838,573,AndesMed
+1199,2025-04-13,Refrigerated truck,Medellín-Bogotá,Route delay,4,3425129,13700516,314,AndesMed
+579,2023-08-02,Refrigerated truck,Medellín-Bogotá,Operational error,13,2470580,32117540,655,AndesMed
+193,2022-07-12,Refrigerated van,Bogotá-Barranquilla,Sensor failure,24,1204954,28918896,648,AndesMed
+131,2022-05-11,Refrigerated truck,Bogotá-Barranquilla,Sensor failure,20,1785454,35709080,711,AndesMed
+730,2023-12-31,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,18,1499009,26982162,287,AndesMed
+967,2024-08-24,Refrigerated van,Medellín-Cali,Electrical failure,17,2866433,48729361,504,AndesMed
+230,2022-08-18,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,24,1111773,26682552,579,AndesMed
+1418,2025-11-18,Small refrigerated van,Medellín-Bucaramanga,Route delay,16,3500889,56014224,1451,Glacia
+296,2022-10-23,Refrigerated van,Bogotá-Cali,Operational error,6,1190693,7144158,265,AndesMed
+1400,2025-10-31,Refrigerated truck,Medellín-Bogotá,Route delay,12,3244574,38934888,1696,Glacia
+1368,2025-09-29,Refrigerated truck,Medellín-Cali,Sensor failure,21,3017899,63375879,1701,Glacia
+185,2022-07-04,Small refrigerated van,Medellín-Bogotá,Operational error,20,3229638,64592760,1409,Glacia
+1209,2025-04-23,Refrigerated van,Bogotá-Barranquilla,Electrical failure,15,2842419,42636285,717,AndesMed
+482,2023-04-27,Refrigerated truck,Medellín-Bogotá,Operational error,17,2257439,38376463,700,AndesMed
+1223,2025-05-07,Refrigerated van,Medellín-Cali,Operational error,28,1605746,44960888,851,AndesMed
+1181,2025-03-26,Refrigerated truck,Medellín-Bucaramanga,Operational error,17,1634025,27778425,650,AndesMed
+660,2023-10-22,Refrigerated van,Medellín-Cali,Doors left open too long,12,545060,6540720,286,AndesMed
+883,2024-06-01,Refrigerated truck,Cali-Pereira,Doors left open too long,16,1049896,16798336,573,AndesMed
+199,2022-07-18,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,17,1175404,19981868,730,AndesMed
+501,2023-05-16,Small refrigerated van,Bogotá-Cali,Refrigeration failure,25,2205610,55140250,611,AndesMed
+1480,2026-01-19,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,16,1860032,29760512,1494,Glacia
+483,2023-04-28,Refrigerated truck,Medellín-Cali,Operational error,12,2389049,28668588,557,AndesMed
+320,2022-11-16,Refrigerated truck,Bogotá-Cali,Operational error,13,3194436,41527668,1523,Glacia
+1252,2025-06-05,Refrigerated truck,Medellín-Bogotá,Operational error,17,2041705,34708985,871,AndesMed
+890,2024-06-08,Small refrigerated van,Medellín-Bucaramanga,Refrigeration failure,18,3018536,54333648,460,AndesMed
+695,2023-11-26,Refrigerated truck,Bogotá-Cali,Operational error,15,2391286,35869290,304,AndesMed
+1085,2024-12-20,Refrigerated truck,Medellín-Cali,Doors left open too long,28,1043329,29213212,735,AndesMed
+154,2022-06-03,Refrigerated truck,Medellín-Bogotá,Route delay,8,2895394,23163152,637,AndesMed
+737,2024-01-07,Refrigerated van,Bogotá-Barranquilla,Refrigeration failure,19,3606690,68527110,310,AndesMed
+1436,2025-12-06,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,10,2457412,24574120,1200,Glacia
+1051,2024-11-16,Refrigerated van,Medellín-Bucaramanga,Electrical failure,19,2654436,50434284,588,AndesMed
+1332,2025-08-24,Refrigerated truck,Cali-Pereira,Sensor failure,11,1495013,16445143,316,AndesMed
+885,2024-06-03,Small refrigerated van,Bogotá-Cali,Doors left open too long,22,493229,10851038,780,AndesMed
+182,2022-07-01,Refrigerated van,Medellín-Cali,Sensor failure,20,1127008,22540160,725,AndesMed
+663,2023-10-25,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,15,1415708,21235620,660,AndesMed
+1049,2024-11-14,Small refrigerated van,Bogotá-Cali,Refrigeration failure,17,2653617,45111489,668,AndesMed
+672,2023-11-03,Refrigerated van,Bogotá-Barranquilla,Operational error,14,1551659,21723226,820,AndesMed
+682,2023-11-13,Small refrigerated van,Bogotá-Cali,Sensor failure,19,1775791,33740029,1638,Glacia
+1317,2025-08-09,Refrigerated truck,Medellín-Bucaramanga,Refrigeration failure,19,5359799,101836181,548,AndesMed
+281,2022-10-08,Small refrigerated van,Bogotá-Barranquilla,Route delay,17,3262992,55470864,1243,Glacia
+428,2023-03-04,Refrigerated van,Medellín-Bucaramanga,Route delay,22,2447005,53834110,503,AndesMed
+877,2024-05-26,Refrigerated truck,Medellín-Bucaramanga,Operational error,8,2649792,21198336,323,AndesMed
+1462,2026-01-01,Small refrigerated van,Bogotá-Barranquilla,Route delay,16,3372829,53965264,1626,Glacia
+814,2024-03-24,Refrigerated truck,Medellín-Bucaramanga,Electrical failure,13,4519969,58759597,330,AndesMed
+872,2024-05-21,Refrigerated van,Cali-Pereira,Operational error,7,788478,5519346,642,AndesMed
+1451,2025-12-21,Refrigerated van,Cali-Pereira,Sensor failure,11,994101,10935111,309,AndesMed
+1327,2025-08-19,Refrigerated van,Medellín-Bogotá,Sensor failure,21,1102146,23145066,710,AndesMed
+1200,2025-04-14,Refrigerated truck,Bogotá-Cali,Refrigeration failure,21,5724500,120214500,770,AndesMed
+1106,2025-01-10,Small refrigerated van,Bogotá-Barranquilla,Route delay,15,3408139,51122085,1474,Glacia
+413,2023-02-17,Small refrigerated van,Bogotá-Barranquilla,Operational error,24,1195254,28686096,635,AndesMed
+856,2024-05-05,Small refrigerated van,Bogotá-Barranquilla,Doors left open too long,10,1377201,13772010,660,Glacia
+616,2023-09-08,Refrigerated van,Medellín-Bucaramanga,Sensor failure,10,2111777,21117770,1389,Glacia
+260,2022-09-17,Refrigerated truck,Medellín-Cali,Operational error,20,2305466,46109320,571,AndesMed
+134,2022-05-14,Refrigerated van,Medellín-Cali,Route delay,22,1423676,31320872,481,AndesMed
+319,2022-11-15,Refrigerated van,Medellín-Cali,Doors left open too long,22,983448,21635856,667,AndesMed
+456,2023-04-01,Small refrigerated van,Cali-Pereira,Route delay,21,1071130,22493730,443,AndesMed
+473,2023-04-18,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,19,1260886,23956834,598,AndesMed
+1440,2025-12-10,Small refrigerated van,Bogotá-Cali,Route delay,21,2307746,48462666,1722,Glacia
+173,2022-06-22,Refrigerated truck,Medellín-Bucaramanga,Electrical failure,17,4193753,71293801,707,AndesMed
+1271,2025-06-24,Refrigerated van,Cali-Pereira,Operational error,9,2081021,18729189,730,AndesMed
+1257,2025-06-10,Refrigerated van,Medellín-Bucaramanga,Sensor failure,10,1523271,15232710,735,AndesMed
+378,2023-01-13,Refrigerated van,Cali-Pereira,Doors left open too long,16,1257482,20119712,1247,Glacia
+836,2024-04-15,Refrigerated truck,Medellín-Bucaramanga,Route delay,17,2546845,43296365,709,AndesMed
+41,2022-02-10,Refrigerated truck,Cali-Pereira,Route delay,17,1782340,30299780,629,AndesMed
+330,2022-11-26,Refrigerated van,Medellín-Bogotá,Sensor failure,29,925097,26827813,533,AndesMed
+1136,2025-02-09,Small refrigerated van,Bogotá-Barranquilla,Route delay,11,1358686,14945546,690,Glacia
+1372,2025-10-03,Refrigerated van,Medellín-Bucaramanga,Operational error,15,2343080,35146200,1681,Glacia
+324,2022-11-20,Small refrigerated van,Bogotá-Barranquilla,Operational error,23,1514302,34828946,329,AndesMed
+982,2024-09-08,Refrigerated van,Medellín-Bucaramanga,Operational error,7,1589348,11125436,312,AndesMed
+1475,2026-01-14,Refrigerated truck,Cali-Pereira,Operational error,14,2738018,38332252,800,AndesMed
+468,2023-04-13,Refrigerated van,Medellín-Bogotá,Sensor failure,20,1337227,26744540,637,AndesMed
+186,2022-07-05,Refrigerated van,Bogotá-Cali,Doors left open too long,21,1593694,33467574,1560,Glacia
+11,2022-01-11,Refrigerated truck,Bogotá-Barranquilla,Route delay,7,2280437,15963059,564,AndesMed
+874,2024-05-23,Refrigerated van,Medellín-Bucaramanga,Route delay,27,3256268,87919236,759,AndesMed
+698,2023-11-29,Small refrigerated van,Bogotá-Cali,Route delay,16,2583369,41333904,1499,Glacia
+529,2023-06-13,Refrigerated van,Medellín-Bogotá,Electrical failure,21,2139239,44924019,672,AndesMed
+310,2022-11-06,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,14,919238,12869332,283,AndesMed
+996,2024-09-22,Refrigerated truck,Medellín-Bogotá,Operational error,7,2210867,15476069,375,AndesMed
+1404,2025-11-04,Refrigerated truck,Cali-Pereira,Doors left open too long,16,2740924,43854784,1600,Glacia
+897,2024-06-15,Refrigerated van,Medellín-Bogotá,Doors left open too long,11,1996814,21964954,1082,Glacia
+1233,2025-05-17,Refrigerated truck,Medellín-Bucaramanga,Route delay,20,2727121,54542420,523,AndesMed
+478,2023-04-23,Small refrigerated van,Medellín-Cali,Sensor failure,15,814685,12220275,288,AndesMed
+1111,2025-01-15,Small refrigerated van,Bogotá-Cali,Route delay,18,3056519,55017342,1647,Glacia
+480,2023-04-25,Refrigerated truck,Medellín-Bogotá,Doors left open too long,12,2220879,26650548,1486,Glacia
+1290,2025-07-13,Refrigerated van,Bogotá-Barranquilla,Sensor failure,10,1474350,14743500,278,AndesMed
+315,2022-11-11,Small refrigerated van,Medellín-Bogotá,Operational error,18,1885711,33942798,1533,Glacia
+878,2024-05-27,Refrigerated van,Bogotá-Cali,Route delay,27,1712052,46225404,673,AndesMed
+1309,2025-08-01,Refrigerated van,Medellín-Cali,Route delay,20,3653503,73070060,1711,Glacia
+1,2022-01-01,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,5,1176892,5884460,413,AndesMed
+998,2024-09-24,Refrigerated van,Cali-Pereira,Sensor failure,14,1312851,18379914,755,AndesMed
+480,2023-04-25,Refrigerated van,Cali-Pereira,Operational error,20,1352036,27040720,677,AndesMed
+796,2024-03-06,Refrigerated van,Medellín-Bucaramanga,Route delay,24,1676335,40232040,648,AndesMed
+36,2022-02-05,Small refrigerated van,Medellín-Bogotá,Doors left open too long,26,843600,21933600,424,AndesMed
+1099,2025-01-03,Small refrigerated van,Medellín-Bogotá,Route delay,18,3295369,59316642,1605,Glacia
+340,2022-12-06,Refrigerated van,Medellín-Bogotá,Route delay,11,2583512,28418632,1300,Glacia
+540,2023-06-24,Refrigerated truck,Cali-Pereira,Doors left open too long,23,1491839,34312297,474,AndesMed
+1493,2026-02-01,Refrigerated truck,Medellín-Bogotá,Doors left open too long,14,1514710,21205940,326,AndesMed
+1386,2025-10-17,Refrigerated truck,Medellín-Cali,Doors left open too long,20,2242237,44844740,621,AndesMed
+1339,2025-08-31,Refrigerated truck,Medellín-Bogotá,Electrical failure,21,2513510,52783710,324,AndesMed
+457,2023-04-02,Refrigerated truck,Medellín-Cali,Operational error,6,1612397,9674382,283,AndesMed
+351,2022-12-17,Refrigerated truck,Medellín-Bogotá,Route delay,14,1993346,27906844,441,AndesMed
+85,2022-03-26,Refrigerated truck,Bogotá-Barranquilla,Route delay,20,3588922,71778440,467,AndesMed
+352,2022-12-18,Refrigerated truck,Bogotá-Barranquilla,Operational error,12,3210588,38527056,303,AndesMed
+610,2023-09-02,Refrigerated truck,Bogotá-Barranquilla,Sensor failure,13,3213701,41778113,1038,Glacia
+940,2024-07-28,Refrigerated van,Cali-Pereira,Sensor failure,12,775035,9300420,272,AndesMed
+420,2023-02-24,Small refrigerated van,Medellín-Cali,Doors left open too long,10,1004322,10043220,1233,Glacia
+114,2022-04-24,Refrigerated truck,Bogotá-Cali,Sensor failure,6,2023199,12139194,295,AndesMed
+123,2022-05-03,Refrigerated truck,Medellín-Bogotá,Operational error,22,2434150,53551300,636,AndesMed
+1211,2025-04-25,Refrigerated truck,Medellín-Bogotá,Doors left open too long,22,1014493,22318846,789,AndesMed
+793,2024-03-03,Refrigerated van,Bogotá-Cali,Operational error,4,1597316,6389264,238,AndesMed
+1352,2025-09-13,Refrigerated truck,Bogotá-Cali,Route delay,24,2494578,59869872,506,AndesMed
+100,2022-04-10,Refrigerated truck,Medellín-Bucaramanga,Operational error,12,2295325,27543900,307,AndesMed
+1194,2025-04-08,Small refrigerated van,Bogotá-Cali,Doors left open too long,22,1970538,43351836,1697,Glacia
+880,2024-05-29,Refrigerated van,Bogotá-Cali,Sensor failure,16,1113835,17821360,798,AndesMed
+1262,2025-06-15,Small refrigerated van,Medellín-Bucaramanga,Operational error,17,912933,15519861,285,AndesMed
+170,2022-06-19,Refrigerated truck,Medellín-Bogotá,Electrical failure,6,4083118,24498708,244,AndesMed
+176,2022-06-25,Refrigerated truck,Medellín-Bucaramanga,Operational error,13,1449909,18848817,446,AndesMed
+1102,2025-01-06,Refrigerated truck,Bogotá-Barranquilla,Operational error,22,3277241,72099302,726,AndesMed
+771,2024-02-10,Refrigerated truck,Medellín-Bogotá,Electrical failure,17,3925684,66736628,453,AndesMed
+571,2023-07-25,Refrigerated truck,Medellín-Bogotá,Sensor failure,17,3528748,59988716,1346,Glacia
+905,2024-06-23,Refrigerated van,Bogotá-Cali,Route delay,28,1768594,49520632,328,AndesMed
+239,2022-08-27,Refrigerated truck,Cali-Pereira,Route delay,15,2287095,34306425,433,AndesMed
+389,2023-01-24,Refrigerated truck,Cali-Pereira,Operational error,23,2265601,52108823,724,AndesMed
+875,2024-05-24,Refrigerated van,Bogotá-Cali,Route delay,8,1074012,8592096,669,AndesMed
+1481,2026-01-20,Refrigerated van,Medellín-Bogotá,Operational error,24,1603815,38491560,754,AndesMed
+1016,2024-10-12,Refrigerated truck,Medellín-Cali,Operational error,11,2364525,26009775,552,AndesMed
+665,2023-10-27,Refrigerated truck,Cali-Pereira,Route delay,19,3066353,58260707,880,AndesMed
+309,2022-11-05,Refrigerated truck,Medellín-Bucaramanga,Operational error,18,1790868,32235624,522,AndesMed
+923,2024-07-11,Refrigerated van,Medellín-Bogotá,Doors left open too long,13,2582147,33567911,1357,Glacia
+1057,2024-11-22,Refrigerated van,Cali-Pereira,Route delay,14,3074150,43038100,1595,Glacia
+1248,2025-06-01,Refrigerated van,Medellín-Bucaramanga,Refrigeration failure,10,3182326,31823260,354,AndesMed
+1174,2025-03-19,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,20,3010752,60215040,1719,Glacia
+1153,2025-02-26,Refrigerated truck,Cali-Pereira,Doors left open too long,8,1178169,9425352,780,AndesMed
+294,2022-10-21,Refrigerated truck,Medellín-Bogotá,Electrical failure,24,3691599,88598376,650,AndesMed
+1185,2025-03-30,Refrigerated van,Medellín-Cali,Operational error,8,980920,7847360,341,AndesMed
+464,2023-04-09,Refrigerated van,Medellín-Cali,Route delay,19,1284259,24400921,264,AndesMed
+621,2023-09-13,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,22,1107874,24373228,706,AndesMed
+1122,2025-01-26,Refrigerated van,Medellín-Bogotá,Sensor failure,20,1181170,23623400,393,AndesMed
+1086,2024-12-21,Refrigerated van,Bogotá-Cali,Operational error,21,1192735,25047435,511,AndesMed
+558,2023-07-12,Refrigerated truck,Medellín-Bogotá,Operational error,23,1792489,41227247,691,AndesMed
+694,2023-11-25,Refrigerated truck,Cali-Pereira,Sensor failure,11,1515476,16670236,497,AndesMed
+148,2022-05-28,Refrigerated van,Medellín-Bogotá,Sensor failure,16,2010704,32171264,1161,Glacia
+860,2024-05-09,Refrigerated truck,Cali-Pereira,Operational error,20,2363155,47263100,750,AndesMed
+723,2023-12-24,Small refrigerated van,Bogotá-Cali,Electrical failure,15,1489171,22337565,287,AndesMed
+164,2022-06-13,Refrigerated van,Medellín-Bogotá,Doors left open too long,26,767318,19950268,729,AndesMed
+365,2022-12-31,Refrigerated van,Medellín-Bogotá,Doors left open too long,24,831165,19947960,489,AndesMed
+326,2022-11-22,Refrigerated truck,Medellín-Bogotá,Sensor failure,18,1965400,35377200,831,AndesMed
+1087,2024-12-22,Small refrigerated van,Bogotá-Barranquilla,Route delay,19,3341796,63494124,631,Glacia
+497,2023-05-12,Refrigerated van,Bogotá-Cali,Route delay,20,2115966,42319320,656,AndesMed
+39,2022-02-08,Refrigerated truck,Medellín-Bogotá,Operational error,15,2274525,34117875,683,AndesMed
+983,2024-09-09,Refrigerated van,Bogotá-Cali,Doors left open too long,23,1111542,25565466,765,AndesMed
+911,2024-06-29,Refrigerated truck,Medellín-Cali,Electrical failure,8,3621548,28972384,486,AndesMed
+331,2022-11-27,Refrigerated truck,Bogotá-Cali,Operational error,4,2371787,9487148,266,AndesMed
+360,2022-12-26,Refrigerated van,Medellín-Bogotá,Operational error,15,3544370,53165550,1576,Glacia
+321,2022-11-17,Refrigerated truck,Medellín-Cali,Route delay,25,2172097,54302425,778,AndesMed
+13,2022-01-13,Refrigerated van,Cali-Pereira,Route delay,26,2284928,59408128,637,AndesMed
+103,2022-04-13,Refrigerated van,Medellín-Bogotá,Operational error,28,1704725,47732300,680,AndesMed
+1176,2025-03-21,Refrigerated van,Medellín-Bogotá,Operational error,28,1552528,43470784,768,AndesMed
+1083,2024-12-18,Small refrigerated van,Medellín-Bogotá,Route delay,21,2955897,62073837,1564,Glacia
+86,2022-03-27,Refrigerated truck,Medellín-Cali,Operational error,4,1253174,5012696,253,AndesMed
+822,2024-04-01,Refrigerated van,Medellín-Bucaramanga,Sensor failure,16,2059461,32951376,1550,Glacia
+97,2022-04-07,Refrigerated van,Medellín-Bucaramanga,Route delay,28,2049031,57372868,690,AndesMed
+179,2022-06-28,Small refrigerated van,Cali-Pereira,Sensor failure,23,1431027,32913621,1364,Glacia
+53,2022-02-22,Refrigerated truck,Medellín-Bogotá,Electrical failure,20,3416716,68334320,646,AndesMed
+1458,2025-12-28,Refrigerated truck,Bogotá-Cali,Route delay,7,2458411,17208877,306,AndesMed
+488,2023-05-03,Refrigerated truck,Bogotá-Cali,Refrigeration failure,24,5294779,127074696,619,AndesMed
+324,2022-11-20,Refrigerated van,Medellín-Bogotá,Doors left open too long,12,1921169,23054028,596,Glacia
+857,2024-05-06,Refrigerated van,Medellín-Bogotá,Doors left open too long,25,833262,20831550,870,AndesMed
+347,2022-12-13,Refrigerated van,Medellín-Bogotá,Electrical failure,21,2673635,56146335,740,AndesMed
+1035,2024-10-31,Small refrigerated van,Bogotá-Cali,Route delay,11,1980357,21783927,1420,Glacia
+1120,2025-01-24,Refrigerated van,Cali-Pereira,Route delay,13,1408872,18315336,794,AndesMed
+566,2023-07-20,Small refrigerated van,Medellín-Bogotá,Route delay,20,2849139,56982780,1524,Glacia
+312,2022-11-08,Refrigerated truck,Medellín-Bogotá,Operational error,14,2464311,34500354,664,AndesMed
+478,2023-04-23,Small refrigerated van,Bogotá-Cali,Sensor failure,19,1929866,36667454,734,Glacia
+1072,2024-12-07,Refrigerated van,Bogotá-Cali,Operational error,14,2140555,29967770,1239,Glacia
+1255,2025-06-08,Small refrigerated van,Bogotá-Barranquilla,Electrical failure,11,2256759,24824349,716,Glacia
+1,2022-01-01,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,14,3299876,46198264,918,Glacia
+951,2024-08-08,Refrigerated truck,Bogotá-Cali,Electrical failure,23,3421616,78697168,785,AndesMed
+964,2024-08-21,Refrigerated truck,Medellín-Bogotá,Route delay,18,2144346,38598228,724,AndesMed
+765,2024-02-04,Refrigerated van,Medellín-Cali,Operational error,21,1612153,33855213,279,AndesMed
+355,2022-12-21,Refrigerated truck,Medellín-Bogotá,Operational error,14,2604860,36468040,691,AndesMed
+1301,2025-07-24,Refrigerated truck,Medellín-Cali,Route delay,24,2420878,58101072,679,AndesMed
+167,2022-06-16,Refrigerated truck,Bogotá-Cali,Doors left open too long,21,2745056,57646176,1293,Glacia
+605,2023-08-28,Refrigerated truck,Bogotá-Cali,Doors left open too long,12,3460774,41529288,1543,Glacia
+639,2023-10-01,Small refrigerated van,Bogotá-Barranquilla,Refrigeration failure,11,3679449,40473939,258,AndesMed
+275,2022-10-02,Small refrigerated van,Medellín-Bogotá,Electrical failure,11,1632119,17953309,285,AndesMed
+908,2024-06-26,Small refrigerated van,Bogotá-Cali,Route delay,20,2210013,44200260,1772,Glacia
+137,2022-05-17,Refrigerated truck,Medellín-Cali,Electrical failure,21,3980056,83581176,636,AndesMed
+1101,2025-01-05,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,11,747079,8217869,289,AndesMed
+685,2023-11-16,Refrigerated van,Bogotá-Cali,Sensor failure,27,1257036,33939972,748,AndesMed
+523,2023-06-07,Refrigerated van,Medellín-Bogotá,Refrigeration failure,21,4142914,87001194,764,AndesMed
+493,2023-05-08,Refrigerated van,Bogotá-Cali,Operational error,18,3870211,69663798,1439,Glacia
+645,2023-10-07,Refrigerated truck,Medellín-Bucaramanga,Operational error,16,2382628,38122048,523,AndesMed
+751,2024-01-21,Refrigerated truck,Medellín-Bogotá,Operational error,6,1579383,9476298,222,AndesMed
+1464,2026-01-03,Refrigerated van,Medellín-Bucaramanga,Operational error,23,2068386,47572878,525,AndesMed
+1207,2025-04-21,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,23,1779043,40917989,765,AndesMed
+79,2022-03-20,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,11,796536,8761896,236,AndesMed
+1356,2025-09-17,Small refrigerated van,Bogotá-Cali,Doors left open too long,18,2349406,42289308,1789,Glacia
+1091,2024-12-26,Refrigerated truck,Medellín-Bucaramanga,Refrigeration failure,23,4982853,114605619,661,AndesMed
+1079,2024-12-14,Small refrigerated van,Medellín-Bogotá,Route delay,22,1494889,32887558,638,AndesMed
+138,2022-05-18,Refrigerated truck,Bogotá-Barranquilla,Electrical failure,23,4197163,96534749,634,AndesMed
+88,2022-03-29,Refrigerated van,Medellín-Cali,Route delay,22,1518637,33410014,634,AndesMed
+630,2023-09-22,Small refrigerated van,Medellín-Cali,Doors left open too long,26,645975,16795350,740,AndesMed
+1206,2025-04-20,Refrigerated truck,Medellín-Bucaramanga,Operational error,8,2781937,22255496,333,AndesMed
+498,2023-05-13,Small refrigerated van,Medellín-Bogotá,Route delay,15,1877051,28155765,486,AndesMed
+1330,2025-08-22,Refrigerated truck,Medellín-Bucaramanga,Sensor failure,13,1714437,22287681,861,AndesMed
+1461,2025-12-31,Refrigerated van,Medellín-Cali,Operational error,20,1406047,28120940,749,AndesMed
+150,2022-05-30,Refrigerated van,Bogotá-Cali,Sensor failure,22,1064978,23429516,750,AndesMed
+366,2023-01-01,Small refrigerated van,Bogotá-Barranquilla,Operational error,24,1289348,30944352,281,AndesMed
+278,2022-10-05,Refrigerated truck,Bogotá-Barranquilla,Route delay,8,1981380,15851040,745,AndesMed
+1394,2025-10-25,Small refrigerated van,Cali-Pereira,Operational error,12,1519541,18234492,1264,Glacia
+887,2024-06-05,Refrigerated van,Bogotá-Cali,Doors left open too long,23,1031849,23732527,888,AndesMed
+714,2023-12-15,Small refrigerated van,Cali-Pereira,Route delay,19,1193556,22677564,810,AndesMed
+195,2022-07-14,Refrigerated van,Medellín-Bogotá,Operational error,26,1739362,45223412,787,AndesMed
+1067,2024-12-02,Refrigerated van,Cali-Pereira,Operational error,12,3454941,41459292,1613,Glacia
+261,2022-09-18,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,3,1925181,5775543,244,AndesMed
+243,2022-08-31,Refrigerated truck,Bogotá-Cali,Doors left open too long,18,2450656,44111808,1625,Glacia
+745,2024-01-15,Refrigerated van,Medellín-Cali,Doors left open too long,18,976515,17577270,728,AndesMed
+1298,2025-07-21,Refrigerated van,Bogotá-Barranquilla,Route delay,13,3477136,45202768,1519,Glacia
+109,2022-04-19,Refrigerated truck,Bogotá-Cali,Operational error,22,2543151,55949322,714,AndesMed
+703,2023-12-04,Refrigerated truck,Cali-Pereira,Electrical failure,13,2009674,26125762,739,AndesMed
+1340,2025-09-01,Refrigerated truck,Medellín-Bogotá,Operational error,28,2315838,64843464,932,AndesMed
+1492,2026-01-31,Refrigerated truck,Medellín-Bogotá,Operational error,19,1811804,34424276,519,AndesMed
+1450,2025-12-20,Small refrigerated van,Bogotá-Barranquilla,Operational error,28,1446808,40510624,533,AndesMed
+1494,2026-02-02,Small refrigerated van,Medellín-Bogotá,Operational error,15,1860483,27907245,1260,Glacia
+40,2022-02-09,Small refrigerated van,Medellín-Bucaramanga,Sensor failure,15,2017896,30268440,1311,Glacia
+1498,2026-02-06,Refrigerated van,Medellín-Bogotá,Doors left open too long,17,1883252,32015284,2158,Glacia
+1088,2024-12-23,Refrigerated truck,Medellín-Bogotá,Operational error,17,2386557,40571469,612,AndesMed
+891,2024-06-09,Refrigerated truck,Medellín-Bucaramanga,Operational error,5,2783537,13917685,284,AndesMed
+1396,2025-10-27,Refrigerated van,Bogotá-Barranquilla,Electrical failure,25,3628365,90709125,901,AndesMed
+26,2022-01-26,Refrigerated truck,Cali-Pereira,Refrigeration failure,20,4250349,85006980,655,AndesMed
+133,2022-05-13,Refrigerated van,Medellín-Bogotá,Route delay,18,1955005,35190090,689,AndesMed
+1244,2025-05-28,Refrigerated truck,Cali-Pereira,Doors left open too long,9,905935,8153415,771,AndesMed
+1428,2025-11-28,Refrigerated truck,Medellín-Cali,Electrical failure,13,2501961,32525493,768,AndesMed
+345,2022-12-11,Refrigerated truck,Medellín-Bogotá,Operational error,7,1891558,13240906,218,AndesMed
+240,2022-08-28,Refrigerated van,Bogotá-Cali,Operational error,12,941804,11301648,240,AndesMed
+147,2022-05-27,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,14,2302783,32238962,1521,Glacia
+237,2022-08-25,Small refrigerated van,Cali-Pereira,Doors left open too long,10,1160167,11601670,1606,Glacia
+784,2024-02-23,Refrigerated truck,Medellín-Bucaramanga,Route delay,27,2543926,68686002,586,AndesMed
+311,2022-11-07,Refrigerated truck,Medellín-Cali,Operational error,21,2106513,44236773,649,AndesMed
+624,2023-09-16,Refrigerated van,Bogotá-Barranquilla,Operational error,25,2287094,57177350,458,AndesMed
+318,2022-11-14,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,13,2725897,35436661,1318,Glacia
+236,2022-08-24,Refrigerated van,Cali-Pereira,Operational error,17,1083924,18426708,646,AndesMed
+568,2023-07-22,Refrigerated truck,Medellín-Bogotá,Operational error,15,1955965,29339475,472,AndesMed
+5,2022-01-05,Refrigerated truck,Bogotá-Cali,Doors left open too long,21,1368840,28745640,647,AndesMed
+604,2023-08-27,Refrigerated truck,Bogotá-Cali,Refrigeration failure,18,3587424,64573632,248,AndesMed
+512,2023-05-27,Refrigerated van,Medellín-Bogotá,Operational error,12,2119612,25435344,880,Glacia
+1299,2025-07-22,Refrigerated truck,Cali-Pereira,Operational error,17,2000896,34015232,785,AndesMed
+157,2022-06-06,Refrigerated van,Cali-Pereira,Electrical failure,17,3732514,63452738,1531,Glacia
+729,2023-12-30,Refrigerated truck,Medellín-Cali,Operational error,24,1900666,45615984,520,AndesMed
+1043,2024-11-08,Refrigerated van,Bogotá-Cali,Sensor failure,20,3048433,60968660,1641,Glacia
+122,2022-05-02,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,15,3759585,56393775,1458,Glacia
+1161,2025-03-06,Refrigerated van,Cali-Pereira,Doors left open too long,20,816440,16328800,680,AndesMed
+1210,2025-04-24,Small refrigerated van,Medellín-Cali,Route delay,14,1163622,16290708,870,AndesMed
+1400,2025-10-31,Refrigerated van,Bogotá-Barranquilla,Sensor failure,28,1618094,45306632,829,AndesMed
+1191,2025-04-05,Refrigerated truck,Medellín-Bogotá,Doors left open too long,15,2959604,44394060,1344,Glacia
+1106,2025-01-10,Refrigerated truck,Bogotá-Barranquilla,Sensor failure,29,1825360,52935440,822,AndesMed
+1335,2025-08-27,Refrigerated van,Medellín-Cali,Doors left open too long,12,2175631,26107572,1491,Glacia
+794,2024-03-04,Refrigerated van,Medellín-Bucaramanga,Route delay,16,2250496,36007936,932,AndesMed
+223,2022-08-11,Refrigerated van,Cali-Pereira,Operational error,21,1497968,31457328,779,AndesMed
+1485,2026-01-24,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,15,1649580,24743700,536,AndesMed
+443,2023-03-19,Small refrigerated van,Medellín-Bucaramanga,Sensor failure,12,892561,10710732,297,AndesMed
+317,2022-11-13,Refrigerated van,Bogotá-Cali,Doors left open too long,18,792285,14261130,314,AndesMed
+600,2023-08-23,Refrigerated truck,Medellín-Cali,Doors left open too long,21,2625559,55136739,1514,Glacia
+968,2024-08-25,Refrigerated truck,Cali-Pereira,Doors left open too long,4,724365,2897460,349,AndesMed
+1215,2025-04-29,Refrigerated truck,Medellín-Bogotá,Operational error,15,1615647,24234705,777,AndesMed
+893,2024-06-11,Refrigerated van,Cali-Pereira,Operational error,19,1231139,23391641,895,AndesMed
+1179,2025-03-24,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,15,2121653,31824795,1597,Glacia
+693,2023-11-24,Refrigerated van,Medellín-Bucaramanga,Sensor failure,11,2920000,32120000,1435,Glacia
+466,2023-04-11,Refrigerated van,Bogotá-Cali,Route delay,23,1589247,36552681,720,AndesMed
+84,2022-03-25,Refrigerated van,Medellín-Bogotá,Operational error,24,1505858,36140592,680,AndesMed
+1453,2025-12-23,Refrigerated truck,Bogotá-Cali,Doors left open too long,14,1071036,14994504,788,AndesMed
+974,2024-08-31,Refrigerated van,Cali-Pereira,Operational error,16,1238901,19822416,576,AndesMed
+776,2024-02-15,Refrigerated van,Bogotá-Cali,Operational error,28,1308472,36637216,778,AndesMed
+844,2024-04-23,Refrigerated van,Bogotá-Cali,Route delay,18,3291461,59246298,1475,Glacia
+664,2023-10-26,Refrigerated van,Medellín-Bogotá,Sensor failure,16,3107861,49725776,1716,Glacia
+1282,2025-07-05,Refrigerated truck,Medellín-Cali,Sensor failure,11,2395627,26351897,947,Glacia
+1351,2025-09-12,Refrigerated truck,Medellín-Bogotá,Doors left open too long,18,1381778,24872004,749,AndesMed
+849,2024-04-28,Refrigerated truck,Medellín-Bogotá,Doors left open too long,10,818188,8181880,304,AndesMed
+117,2022-04-27,Refrigerated van,Bogotá-Barranquilla,Operational error,25,1654522,41363050,675,AndesMed
+268,2022-09-25,Refrigerated truck,Medellín-Bogotá,Operational error,10,1977491,19774910,241,AndesMed
+549,2023-07-03,Refrigerated van,Bogotá-Cali,Sensor failure,18,2931626,52769268,1626,Glacia
+994,2024-09-20,Refrigerated van,Cali-Pereira,Refrigeration failure,22,3209260,70603720,758,AndesMed
+305,2022-11-01,Refrigerated truck,Medellín-Bogotá,Sensor failure,11,2656365,29220015,1563,Glacia
+1128,2025-02-01,Refrigerated van,Cali-Pereira,Doors left open too long,25,654601,16365025,442,AndesMed
+342,2022-12-08,Refrigerated truck,Medellín-Cali,Doors left open too long,20,1361182,27223640,686,AndesMed
+631,2023-09-23,Small refrigerated van,Medellín-Bogotá,Operational error,27,1021705,27586035,573,AndesMed
+163,2022-06-12,Refrigerated van,Medellín-Cali,Doors left open too long,8,821458,6571664,278,AndesMed
+950,2024-08-07,Refrigerated van,Cali-Pereira,Electrical failure,28,2284232,63958496,753,AndesMed
+362,2022-12-28,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,23,1288171,29627933,778,AndesMed
+1219,2025-05-03,Small refrigerated van,Bogotá-Cali,Sensor failure,15,2352643,35289645,1096,Glacia
+993,2024-09-19,Refrigerated truck,Bogotá-Barranquilla,Refrigeration failure,26,6157080,160084080,692,AndesMed
+61,2022-03-02,Refrigerated truck,Medellín-Bogotá,Sensor failure,24,1209707,29032968,665,AndesMed
+1038,2024-11-03,Refrigerated van,Medellín-Bogotá,Doors left open too long,11,1253414,13787554,355,AndesMed
+119,2022-04-29,Refrigerated truck,Medellín-Cali,Route delay,18,2358162,42446916,792,AndesMed
+1149,2025-02-22,Refrigerated van,Medellín-Cali,Doors left open too long,12,2201399,26416788,988,Glacia
+1099,2025-01-03,Refrigerated truck,Cali-Pereira,Route delay,10,1450835,14508350,688,AndesMed
+973,2024-08-30,Refrigerated truck,Medellín-Cali,Sensor failure,27,1542817,41656059,830,AndesMed
+933,2024-07-21,Refrigerated truck,Medellín-Bogotá,Refrigeration failure,9,4145051,37305459,270,AndesMed
+867,2024-05-16,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,21,1139869,23937249,812,AndesMed
+1414,2025-11-14,Refrigerated van,Bogotá-Cali,Doors left open too long,23,2565535,59007305,1642,Glacia
+385,2023-01-20,Refrigerated van,Medellín-Bogotá,Electrical failure,25,2063396,51584900,880,AndesMed
+1355,2025-09-16,Refrigerated truck,Medellín-Bucaramanga,Route delay,16,3785254,60564064,1700,Glacia
+242,2022-08-30,Refrigerated truck,Medellín-Bogotá,Doors left open too long,12,3108917,37307004,1549,Glacia
+1189,2025-04-03,Refrigerated van,Medellín-Cali,Refrigeration failure,20,3419122,68382440,909,AndesMed
+558,2023-07-12,Small refrigerated van,Cali-Pereira,Route delay,12,1931565,23178780,1486,Glacia
+350,2022-12-16,Refrigerated truck,Cali-Pereira,Sensor failure,17,1245372,21171324,670,AndesMed
+1401,2025-11-01,Refrigerated van,Bogotá-Cali,Operational error,19,1910606,36301514,616,AndesMed
+613,2023-09-05,Refrigerated truck,Medellín-Cali,Sensor failure,7,2148772,15041404,635,AndesMed
+180,2022-06-29,Small refrigerated van,Bogotá-Barranquilla,Operational error,26,1174886,30547036,705,AndesMed
+415,2023-02-19,Refrigerated truck,Medellín-Bogotá,Sensor failure,12,3203552,38442624,527,Glacia
+1073,2024-12-08,Small refrigerated van,Medellín-Bogotá,Doors left open too long,3,1744603,5233809,287,AndesMed
+448,2023-03-24,Small refrigerated van,Medellín-Cali,Sensor failure,13,935980,12167740,697,AndesMed
+734,2024-01-04,Refrigerated truck,Medellín-Bogotá,Electrical failure,20,4028675,80573500,716,AndesMed
+1304,2025-07-27,Small refrigerated van,Medellín-Bucaramanga,Route delay,15,1771963,26579445,376,AndesMed
+1240,2025-05-24,Refrigerated van,Medellín-Bogotá,Sensor failure,28,1163432,32576096,527,AndesMed
+106,2022-04-16,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,10,796850,7968500,385,AndesMed
+15,2022-01-15,Refrigerated van,Medellín-Bucaramanga,Route delay,21,2102842,44159682,440,AndesMed
+1098,2025-01-02,Refrigerated van,Medellín-Bogotá,Operational error,20,3624380,72487600,1974,Glacia
+1040,2024-11-05,Refrigerated truck,Medellín-Bogotá,Sensor failure,25,1240035,31000875,651,AndesMed
+929,2024-07-17,Refrigerated truck,Medellín-Bogotá,Operational error,20,2004899,40097980,851,AndesMed
+141,2022-05-21,Small refrigerated van,Medellín-Bucaramanga,Operational error,16,1239368,19829888,500,AndesMed
+107,2022-04-17,Refrigerated van,Medellín-Bogotá,Route delay,5,1779596,8897980,290,AndesMed
+888,2024-06-06,Refrigerated truck,Medellín-Cali,Refrigeration failure,23,4461741,102620043,678,AndesMed
+1377,2025-10-08,Refrigerated van,Medellín-Cali,Route delay,14,2767154,38740156,1361,Glacia
+843,2024-04-22,Refrigerated van,Medellín-Cali,Doors left open too long,28,904401,25323228,754,AndesMed
+673,2023-11-04,Refrigerated truck,Medellín-Cali,Doors left open too long,13,2602613,33833969,955,Glacia
+190,2022-07-09,Refrigerated truck,Medellín-Cali,Sensor failure,12,2640829,31689948,1006,Glacia
+514,2023-05-29,Refrigerated truck,Medellín-Bucaramanga,Sensor failure,16,2763102,44209632,668,AndesMed
+1335,2025-08-27,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,17,1088033,18496561,748,AndesMed
+359,2022-12-25,Refrigerated truck,Bogotá-Cali,Route delay,5,2791600,13958000,243,AndesMed
+548,2023-07-02,Refrigerated truck,Bogotá-Barranquilla,Sensor failure,7,1615950,11311650,259,AndesMed
+425,2023-03-01,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,20,1794423,35888460,673,AndesMed
+1343,2025-09-04,Refrigerated truck,Medellín-Bogotá,Route delay,15,2320219,34803285,888,AndesMed
+404,2023-02-08,Small refrigerated van,Medellín-Cali,Sensor failure,10,1669111,16691110,1557,Glacia
+894,2024-06-12,Refrigerated van,Bogotá-Cali,Doors left open too long,28,1016217,28454076,734,AndesMed
+1170,2025-03-15,Small refrigerated van,Bogotá-Barranquilla,Refrigeration failure,18,3632874,65391732,449,AndesMed
+450,2023-03-26,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,15,2063790,30956850,269,AndesMed
+1025,2024-10-21,Refrigerated van,Medellín-Bucaramanga,Operational error,25,1649278,41231950,737,AndesMed
+67,2022-03-08,Small refrigerated van,Medellín-Bogotá,Doors left open too long,13,1350147,17551911,1651,Glacia
+1317,2025-08-09,Small refrigerated van,Medellín-Bogotá,Operational error,12,2656809,31881708,1311,Glacia
+14,2022-01-14,Refrigerated van,Bogotá-Cali,Electrical failure,26,2985011,77610286,646,AndesMed
+1117,2025-01-21,Refrigerated van,Bogotá-Cali,Electrical failure,18,2646711,47640798,811,AndesMed
+358,2022-12-24,Small refrigerated van,Bogotá-Cali,Operational error,18,2158655,38855790,1171,Glacia
+447,2023-03-23,Refrigerated truck,Bogotá-Barranquilla,Route delay,26,3554217,92409642,696,AndesMed
+1109,2025-01-13,Small refrigerated van,Medellín-Bucaramanga,Operational error,20,1440469,28809380,795,AndesMed
+145,2022-05-25,Refrigerated truck,Bogotá-Cali,Doors left open too long,19,1244769,23650611,607,AndesMed
+184,2022-07-03,Refrigerated truck,Cali-Pereira,Doors left open too long,6,943709,5662254,223,AndesMed
+388,2023-01-23,Refrigerated van,Medellín-Bucaramanga,Operational error,28,1184597,33168716,705,AndesMed
+159,2022-06-08,Small refrigerated van,Bogotá-Cali,Sensor failure,23,858760,19751480,705,AndesMed
+148,2022-05-28,Refrigerated van,Medellín-Bogotá,Doors left open too long,9,737677,6639093,390,AndesMed
+910,2024-06-28,Refrigerated truck,Medellín-Cali,Route delay,7,3193919,22357433,636,AndesMed
+224,2022-08-12,Refrigerated truck,Medellín-Bogotá,Route delay,25,2307439,57685975,654,AndesMed
+405,2023-02-09,Refrigerated truck,Medellín-Cali,Electrical failure,19,3074103,58407957,730,AndesMed
+418,2023-02-22,Refrigerated van,Medellín-Cali,Refrigeration failure,18,2329361,41928498,743,AndesMed
+1011,2024-10-07,Refrigerated truck,Bogotá-Barranquilla,Electrical failure,17,4674304,79463168,710,AndesMed
+307,2022-11-03,Refrigerated truck,Bogotá-Barranquilla,Operational error,15,1924488,28867320,596,AndesMed
+1191,2025-04-05,Refrigerated van,Medellín-Bucaramanga,Operational error,4,1523800,6095200,380,AndesMed
+505,2023-05-20,Refrigerated van,Medellín-Cali,Sensor failure,29,1433253,41564337,531,AndesMed
+298,2022-10-25,Refrigerated truck,Medellín-Bogotá,Doors left open too long,16,1822716,29163456,765,AndesMed
+1150,2025-02-23,Refrigerated truck,Medellín-Cali,Doors left open too long,14,1230342,17224788,350,AndesMed
+1055,2024-11-20,Refrigerated van,Cali-Pereira,Doors left open too long,25,984426,24610650,858,AndesMed
+1221,2025-05-05,Refrigerated truck,Medellín-Bogotá,Operational error,27,1853934,50056218,861,AndesMed
+842,2024-04-21,Refrigerated van,Medellín-Bogotá,Refrigeration failure,9,4438344,39945096,275,AndesMed
+623,2023-09-15,Small refrigerated van,Bogotá-Cali,Sensor failure,18,1717022,30906396,1525,Glacia
+370,2023-01-05,Small refrigerated van,Bogotá-Cali,Operational error,26,1138512,29601312,643,AndesMed
+75,2022-03-16,Refrigerated truck,Medellín-Bucaramanga,Sensor failure,26,1695830,44091580,757,AndesMed
+132,2022-05-12,Refrigerated truck,Cali-Pereira,Doors left open too long,7,1430827,10015789,729,AndesMed
+1203,2025-04-17,Small refrigerated van,Bogotá-Cali,Doors left open too long,17,557085,9470445,666,AndesMed
+1388,2025-10-19,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,16,1745721,27931536,358,AndesMed
+935,2024-07-23,Refrigerated truck,Medellín-Bogotá,Sensor failure,20,3692086,73841720,1715,Glacia
+66,2022-03-07,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,23,1144915,26333045,607,AndesMed
+6,2022-01-06,Refrigerated van,Cali-Pereira,Refrigeration failure,17,2365237,40209029,653,AndesMed
+491,2023-05-06,Refrigerated truck,Medellín-Bogotá,Operational error,17,1796696,30543832,551,AndesMed
+178,2022-06-27,Refrigerated truck,Medellín-Cali,Operational error,8,3396222,27169776,772,AndesMed
+1060,2024-11-25,Refrigerated van,Medellín-Cali,Operational error,25,1711415,42785375,739,AndesMed
+386,2023-01-21,Refrigerated van,Cali-Pereira,Doors left open too long,13,801904,10424752,476,AndesMed
+232,2022-08-20,Refrigerated truck,Bogotá-Barranquilla,Sensor failure,19,2596751,49338269,448,AndesMed
+702,2023-12-03,Refrigerated truck,Medellín-Bogotá,Operational error,6,2227818,13366908,296,AndesMed
+908,2024-06-26,Refrigerated van,Bogotá-Barranquilla,Sensor failure,28,1569994,43959832,663,AndesMed
+1172,2025-03-17,Refrigerated truck,Medellín-Bucaramanga,Operational error,23,2037072,46852656,803,AndesMed
+674,2023-11-05,Small refrigerated van,Medellín-Bogotá,Doors left open too long,8,744680,5957440,262,AndesMed
+925,2024-07-13,Refrigerated truck,Medellín-Bucaramanga,Operational error,19,2052093,38989767,526,AndesMed
+1270,2025-06-23,Refrigerated truck,Cali-Pereira,Route delay,23,2476078,56949794,858,AndesMed
+619,2023-09-11,Small refrigerated van,Medellín-Cali,Sensor failure,17,1442509,24522653,1355,Glacia
+1465,2026-01-04,Refrigerated truck,Medellín-Bogotá,Operational error,17,1379710,23455070,358,AndesMed
+1154,2025-02-27,Refrigerated truck,Medellín-Bucaramanga,Operational error,21,1972240,41417040,808,AndesMed
+208,2022-07-27,Refrigerated van,Medellín-Cali,Operational error,21,1508705,31682805,613,AndesMed
+897,2024-06-15,Refrigerated truck,Medellín-Bucaramanga,Route delay,9,3214107,28926963,595,AndesMed
+57,2022-02-26,Refrigerated truck,Cali-Pereira,Route delay,10,1514689,15146890,540,AndesMed
+462,2023-04-07,Refrigerated van,Cali-Pereira,Sensor failure,10,2438369,24383690,1568,Glacia
+971,2024-08-28,Refrigerated van,Bogotá-Barranquilla,Electrical failure,15,3298673,49480095,702,AndesMed
+909,2024-06-27,Refrigerated van,Bogotá-Cali,Sensor failure,5,661607,3308035,590,AndesMed
+207,2022-07-26,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,22,1891705,41617510,547,AndesMed
+1357,2025-09-18,Refrigerated truck,Medellín-Cali,Operational error,15,3192527,47887905,1659,Glacia
+874,2024-05-23,Small refrigerated van,Bogotá-Barranquilla,Sensor failure,12,1983940,23807280,1470,Glacia
+63,2022-03-04,Small refrigerated van,Bogotá-Barranquilla,Doors left open too long,23,759195,17461485,573,AndesMed
+459,2023-04-04,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,14,2499642,34994988,724,AndesMed
+542,2023-06-26,Refrigerated truck,Medellín-Bogotá,Operational error,18,2105984,37907712,735,AndesMed
+1319,2025-08-11,Refrigerated truck,Medellín-Bucaramanga,Electrical failure,25,3493352,87333800,787,AndesMed
+532,2023-06-16,Refrigerated van,Bogotá-Barranquilla,Refrigeration failure,24,4379254,105102096,651,AndesMed
+609,2023-09-01,Refrigerated van,Bogotá-Cali,Sensor failure,15,3085503,46282545,1399,Glacia
+1138,2025-02-11,Refrigerated truck,Cali-Pereira,Doors left open too long,7,1098111,7686777,558,AndesMed
+1466,2026-01-05,Refrigerated truck,Medellín-Bogotá,Doors left open too long,28,1061986,29735608,767,AndesMed
+1116,2025-01-20,Refrigerated van,Cali-Pereira,Doors left open too long,23,911823,20971929,711,AndesMed
+144,2022-05-24,Refrigerated van,Bogotá-Barranquilla,Route delay,21,2086896,43824816,635,AndesMed
+123,2022-05-03,Small refrigerated van,Medellín-Bogotá,Doors left open too long,13,1998431,25979603,1609,Glacia
+923,2024-07-11,Refrigerated truck,Medellín-Bucaramanga,Operational error,24,1893890,45453360,865,AndesMed
+1427,2025-11-27,Refrigerated van,Bogotá-Cali,Doors left open too long,28,1535221,42986188,888,AndesMed
+1039,2024-11-04,Refrigerated truck,Medellín-Cali,Route delay,20,2364440,47288800,688,AndesMed
+1373,2025-10-04,Refrigerated truck,Medellín-Cali,Doors left open too long,12,982642,11791704,548,AndesMed
+1430,2025-11-30,Small refrigerated van,Cali-Pereira,Sensor failure,8,982636,7861088,351,AndesMed
+233,2022-08-21,Refrigerated van,Cali-Pereira,Operational error,13,1240235,16123055,306,AndesMed
+252,2022-09-09,Refrigerated van,Bogotá-Cali,Route delay,23,2453646,56433858,565,AndesMed
+649,2023-10-11,Refrigerated van,Medellín-Bogotá,Sensor failure,28,1254993,35139804,713,AndesMed
+44,2022-02-13,Refrigerated truck,Cali-Pereira,Route delay,2,1689047,3378094,256,AndesMed
+254,2022-09-11,Refrigerated truck,Medellín-Bogotá,Sensor failure,10,3006888,30068880,302,AndesMed
+490,2023-05-05,Refrigerated truck,Medellín-Bucaramanga,Operational error,19,2315649,43997331,799,AndesMed
+646,2023-10-08,Refrigerated truck,Medellín-Cali,Refrigeration failure,14,3908003,54712042,315,AndesMed
+1298,2025-07-21,Refrigerated truck,Medellín-Cali,Operational error,12,1896395,22756740,897,AndesMed
+1489,2026-01-28,Refrigerated truck,Medellín-Bucaramanga,Refrigeration failure,19,4590604,87221476,876,AndesMed
+394,2023-01-29,Small refrigerated van,Medellín-Bogotá,Sensor failure,5,883036,4415180,245,AndesMed
+1306,2025-07-29,Refrigerated van,Cali-Pereira,Sensor failure,22,2323154,51109388,1494,Glacia
+149,2022-05-29,Refrigerated truck,Bogotá-Cali,Operational error,7,2475356,17327492,242,AndesMed
+576,2023-07-30,Refrigerated van,Medellín-Cali,Electrical failure,16,2433669,38938704,279,AndesMed
+60,2022-03-01,Refrigerated van,Cali-Pereira,Doors left open too long,22,800863,17618986,669,AndesMed
+759,2024-01-29,Refrigerated truck,Cali-Pereira,Refrigeration failure,17,3993381,67887477,806,AndesMed
+323,2022-11-19,Small refrigerated van,Cali-Pereira,Doors left open too long,16,387068,6193088,452,AndesMed
+293,2022-10-20,Refrigerated truck,Medellín-Bogotá,Doors left open too long,22,1077254,23699588,611,AndesMed
+741,2024-01-11,Refrigerated van,Medellín-Cali,Route delay,14,1513284,21185976,716,AndesMed
+515,2023-05-30,Refrigerated van,Medellín-Bucaramanga,Sensor failure,22,1325952,29170944,736,AndesMed
+455,2023-03-31,Refrigerated truck,Medellín-Bucaramanga,Route delay,12,1743285,20919420,641,AndesMed
+329,2022-11-25,Refrigerated truck,Medellín-Bucaramanga,Route delay,15,2581546,38723190,614,AndesMed
+812,2024-03-22,Small refrigerated van,Medellín-Bogotá,Electrical failure,13,3228144,41965872,1592,Glacia
+43,2022-02-12,Small refrigerated van,Cali-Pereira,Operational error,8,833901,6671208,390,AndesMed
+281,2022-10-08,Refrigerated truck,Medellín-Cali,Route delay,15,2007483,30112245,474,AndesMed
+416,2023-02-20,Refrigerated truck,Medellín-Cali,Doors left open too long,23,2372441,54566143,1416,Glacia
+485,2023-04-30,Refrigerated van,Medellín-Bogotá,Electrical failure,7,2887786,20214502,292,AndesMed
+1471,2026-01-10,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,17,693986,11797762,597,AndesMed
+101,2022-04-11,Refrigerated van,Medellín-Bogotá,Sensor failure,17,977983,16625711,794,AndesMed
+1087,2024-12-22,Refrigerated van,Bogotá-Barranquilla,Sensor failure,10,2228149,22281490,293,AndesMed
+518,2023-06-02,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,27,1176590,31767930,735,AndesMed
+1065,2024-11-30,Refrigerated truck,Medellín-Bucaramanga,Sensor failure,6,948327,5689962,538,AndesMed
+851,2024-04-30,Refrigerated truck,Medellín-Bogotá,Sensor failure,14,1207046,16898644,586,AndesMed
+623,2023-09-15,Refrigerated van,Medellín-Cali,Electrical failure,26,5299786,137794436,612,AndesMed
+498,2023-05-13,Small refrigerated van,Bogotá-Cali,Operational error,14,2849684,39895576,1015,Glacia
+489,2023-05-04,Refrigerated van,Medellín-Bogotá,Route delay,16,1510252,24164032,639,AndesMed
+49,2022-02-18,Small refrigerated van,Medellín-Bogotá,Refrigeration failure,26,1966396,51126296,631,AndesMed
+1218,2025-05-02,Refrigerated van,Cali-Pereira,Operational error,20,1921995,38439900,734,AndesMed
+1445,2025-12-15,Refrigerated van,Bogotá-Cali,Operational error,17,1623827,27605059,805,AndesMed
+253,2022-09-10,Small refrigerated van,Medellín-Cali,Sensor failure,21,1009871,21207291,439,AndesMed
+969,2024-08-26,Refrigerated van,Medellín-Bogotá,Sensor failure,28,1199097,33574716,773,AndesMed
+543,2023-06-27,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,20,1189374,23787480,1896,Glacia
+1225,2025-05-09,Refrigerated van,Bogotá-Cali,Operational error,24,1276988,30647712,830,AndesMed
+1490,2026-01-29,Small refrigerated van,Bogotá-Cali,Operational error,9,1710876,15397884,841,AndesMed
+995,2024-09-21,Refrigerated truck,Medellín-Cali,Sensor failure,23,1549465,35637695,578,AndesMed
+689,2023-11-20,Refrigerated truck,Bogotá-Barranquilla,Route delay,28,2399593,67188604,642,AndesMed
+509,2023-05-24,Refrigerated van,Cali-Pereira,Refrigeration failure,27,2543740,68680980,698,AndesMed
+1294,2025-07-17,Refrigerated van,Medellín-Bucaramanga,Operational error,29,1786942,51821318,625,AndesMed
+691,2023-11-22,Small refrigerated van,Cali-Pereira,Doors left open too long,17,724120,12310040,803,AndesMed
+1015,2024-10-11,Small refrigerated van,Medellín-Bogotá,Operational error,25,1067631,26690775,657,AndesMed
+853,2024-05-02,Small refrigerated van,Bogotá-Cali,Route delay,14,1158779,16222906,691,AndesMed
+1080,2024-12-15,Refrigerated truck,Medellín-Bucaramanga,Operational error,7,3585973,25101811,291,AndesMed
+582,2023-08-05,Small refrigerated van,Medellín-Cali,Route delay,26,1211441,31497466,509,AndesMed
+175,2022-06-24,Small refrigerated van,Bogotá-Cali,Route delay,21,2822636,59275356,1206,Glacia
+1371,2025-10-02,Refrigerated truck,Bogotá-Cali,Route delay,16,2666247,42659952,957,AndesMed
+373,2023-01-08,Refrigerated van,Medellín-Bucaramanga,Route delay,11,2058546,22644006,252,AndesMed
+1297,2025-07-20,Refrigerated van,Medellín-Cali,Doors left open too long,14,793752,11112528,317,AndesMed
+1050,2024-11-15,Refrigerated truck,Medellín-Bogotá,Electrical failure,20,2276750,45535000,856,AndesMed
+2,2022-01-02,Refrigerated truck,Bogotá-Cali,Electrical failure,5,2717712,13588560,249,AndesMed
+863,2024-05-12,Refrigerated truck,Medellín-Bucaramanga,Operational error,10,3393487,33934870,230,AndesMed
+889,2024-06-07,Refrigerated van,Bogotá-Barranquilla,Refrigeration failure,25,5156135,128903375,648,AndesMed
+288,2022-10-15,Refrigerated van,Cali-Pereira,Sensor failure,7,1320559,9243913,441,AndesMed
+541,2023-06-25,Small refrigerated van,Medellín-Cali,Refrigeration failure,13,2096162,27250106,340,AndesMed
+130,2022-05-10,Refrigerated van,Medellín-Cali,Doors left open too long,17,2683973,45627541,1306,Glacia
+414,2023-02-18,Refrigerated truck,Bogotá-Cali,Sensor failure,12,2325816,27909792,1209,Glacia
+1049,2024-11-14,Small refrigerated van,Bogotá-Cali,Route delay,14,3327438,46584132,1745,Glacia
+1117,2025-01-21,Refrigerated van,Medellín-Bogotá,Operational error,18,3540484,63728712,1292,Glacia
+169,2022-06-18,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,13,1153964,15001532,511,AndesMed
+1276,2025-06-29,Refrigerated truck,Medellín-Cali,Refrigeration failure,11,6542562,71968182,305,AndesMed
+848,2024-04-27,Refrigerated truck,Bogotá-Barranquilla,Refrigeration failure,19,4565167,86738173,479,AndesMed
+460,2023-04-05,Refrigerated van,Medellín-Bucaramanga,Sensor failure,23,1121221,25788083,834,AndesMed
+641,2023-10-03,Refrigerated truck,Cali-Pereira,Route delay,18,2491281,44843058,686,AndesMed
+1119,2025-01-23,Small refrigerated van,Bogotá-Barranquilla,Route delay,12,3351894,40222728,1394,Glacia
+1500,2026-02-08,Refrigerated truck,Medellín-Bucaramanga,Sensor failure,17,1768667,30067339,372,AndesMed
+442,2023-03-18,Refrigerated truck,Medellín-Bucaramanga,Route delay,10,2336167,23361670,495,AndesMed
+1227,2025-05-11,Refrigerated truck,Bogotá-Barranquilla,Operational error,9,2199104,19791936,309,AndesMed
+1156,2025-03-01,Refrigerated truck,Bogotá-Barranquilla,Operational error,28,1981309,55476652,623,AndesMed
+1486,2026-01-25,Refrigerated van,Medellín-Cali,Electrical failure,20,1380207,27604140,311,AndesMed
+661,2023-10-23,Refrigerated van,Medellín-Bucaramanga,Operational error,18,2184380,39318840,657,AndesMed
+1409,2025-11-09,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,12,1039385,12472620,344,AndesMed
+1447,2025-12-17,Refrigerated van,Medellín-Bogotá,Operational error,18,3813302,68639436,1586,Glacia
+947,2024-08-04,Refrigerated van,Bogotá-Barranquilla,Refrigeration failure,22,3853217,84770774,303,AndesMed
+449,2023-03-25,Refrigerated truck,Medellín-Bogotá,Refrigeration failure,16,3310107,52961712,444,AndesMed
+635,2023-09-27,Refrigerated truck,Bogotá-Cali,Route delay,22,2784067,61249474,725,AndesMed
+904,2024-06-22,Refrigerated truck,Bogotá-Cali,Operational error,17,1801979,30633643,506,AndesMed
+657,2023-10-19,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,10,2515850,25158500,1901,Glacia
+453,2023-03-29,Refrigerated truck,Medellín-Cali,Route delay,17,2514784,42751328,757,AndesMed
+429,2023-03-05,Refrigerated van,Medellín-Bucaramanga,Route delay,6,1424732,8548392,249,AndesMed
+1205,2025-04-19,Refrigerated van,Cali-Pereira,Operational error,8,1013437,8107496,533,AndesMed
+1157,2025-03-02,Small refrigerated van,Bogotá-Barranquilla,Route delay,10,1185594,11855940,309,AndesMed
+1359,2025-09-20,Refrigerated truck,Medellín-Bogotá,Operational error,14,2157962,30211468,539,AndesMed
+477,2023-04-22,Small refrigerated van,Cali-Pereira,Operational error,16,1044319,16709104,535,AndesMed
+1205,2025-04-19,Refrigerated van,Cali-Pereira,Sensor failure,13,3216471,41814123,1068,Glacia
+1178,2025-03-23,Refrigerated truck,Bogotá-Cali,Route delay,8,3290287,26322296,262,AndesMed
+1258,2025-06-11,Refrigerated truck,Bogotá-Cali,Doors left open too long,15,3295974,49439610,1550,Glacia
+1255,2025-06-08,Refrigerated truck,Medellín-Bogotá,Route delay,5,2045483,10227415,312,AndesMed
+1048,2024-11-13,Refrigerated van,Bogotá-Barranquilla,Refrigeration failure,17,4027917,68474589,659,AndesMed
+155,2022-06-04,Small refrigerated van,Bogotá-Cali,Route delay,16,3668996,58703936,1009,Glacia
+243,2022-08-31,Small refrigerated van,Cali-Pereira,Doors left open too long,18,688190,12387420,625,AndesMed
+122,2022-05-02,Refrigerated van,Cali-Pereira,Route delay,3,914733,2744199,507,AndesMed
+422,2023-02-26,Small refrigerated van,Bogotá-Barranquilla,Doors left open too long,22,684977,15069494,244,AndesMed
+858,2024-05-07,Refrigerated truck,Medellín-Cali,Route delay,23,1915683,44060709,796,AndesMed
+493,2023-05-08,Refrigerated truck,Medellín-Bogotá,Operational error,27,2206495,59575365,682,AndesMed
+1439,2025-12-09,Refrigerated truck,Medellín-Bogotá,Operational error,13,1251970,16275610,715,AndesMed
+580,2023-08-03,Small refrigerated van,Medellín-Cali,Doors left open too long,16,1524417,24390672,1170,Glacia
+461,2023-04-06,Refrigerated truck,Cali-Pereira,Route delay,7,1235636,8649452,618,AndesMed
+934,2024-07-22,Refrigerated van,Cali-Pereira,Route delay,19,3418517,64951823,1710,Glacia
+290,2022-10-17,Small refrigerated van,Cali-Pereira,Doors left open too long,28,493287,13812036,799,AndesMed
+204,2022-07-23,Refrigerated van,Bogotá-Barranquilla,Route delay,22,1797860,39552920,512,AndesMed
+75,2022-03-16,Refrigerated van,Medellín-Cali,Doors left open too long,12,1628250,19539000,1187,Glacia
+70,2022-03-11,Refrigerated van,Cali-Pereira,Operational error,11,1703420,18737620,692,AndesMed
+1249,2025-06-02,Refrigerated truck,Cali-Pereira,Electrical failure,9,2601155,23410395,608,AndesMed
+516,2023-05-31,Small refrigerated van,Medellín-Cali,Operational error,20,2193386,43867720,1570,Glacia
+873,2024-05-22,Refrigerated truck,Bogotá-Cali,Doors left open too long,13,3429724,44586412,1352,Glacia
+1221,2025-05-05,Refrigerated van,Cali-Pereira,Route delay,18,3388728,60997104,1506,Glacia
+653,2023-10-15,Refrigerated van,Bogotá-Cali,Operational error,9,1602832,14425488,302,AndesMed
+283,2022-10-10,Refrigerated van,Medellín-Cali,Operational error,12,1482649,17791788,730,AndesMed
+1245,2025-05-29,Refrigerated van,Bogotá-Cali,Doors left open too long,11,2039969,22439659,1650,Glacia
+817,2024-03-27,Refrigerated truck,Bogotá-Barranquilla,Refrigeration failure,17,5337607,90739319,552,AndesMed
+1282,2025-07-05,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,13,1148398,14929174,520,AndesMed
+358,2022-12-24,Refrigerated van,Bogotá-Barranquilla,Operational error,21,1797727,37752267,449,AndesMed
+1159,2025-03-04,Refrigerated truck,Cali-Pereira,Route delay,12,3257971,39095652,706,AndesMed
+9,2022-01-09,Refrigerated van,Cali-Pereira,Route delay,6,1851770,11110620,265,AndesMed
+1217,2025-05-01,Small refrigerated van,Medellín-Bucaramanga,Refrigeration failure,28,2539927,71117956,859,AndesMed
+1061,2024-11-26,Small refrigerated van,Bogotá-Barranquilla,Sensor failure,13,1413971,18381623,1570,Glacia
+903,2024-06-21,Refrigerated truck,Bogotá-Cali,Sensor failure,17,3757635,63879795,1828,Glacia
+251,2022-09-08,Refrigerated van,Medellín-Bogotá,Refrigeration failure,20,2686127,53722540,692,AndesMed
+861,2024-05-10,Refrigerated van,Bogotá-Cali,Doors left open too long,25,961842,24046050,952,AndesMed
+747,2024-01-17,Refrigerated truck,Medellín-Cali,Doors left open too long,11,879223,9671453,765,AndesMed
+1350,2025-09-11,Refrigerated van,Bogotá-Barranquilla,Sensor failure,22,1354284,29794248,731,AndesMed
+1141,2025-02-14,Refrigerated truck,Medellín-Bucaramanga,Route delay,21,2114745,44409645,688,AndesMed
+165,2022-06-14,Refrigerated van,Bogotá-Barranquilla,Route delay,11,2234493,24579423,688,AndesMed
+731,2024-01-01,Refrigerated truck,Medellín-Cali,Operational error,24,2029232,48701568,695,AndesMed
+183,2022-07-02,Refrigerated truck,Cali-Pereira,Route delay,20,1648310,32966200,412,AndesMed
+1160,2025-03-05,Refrigerated truck,Cali-Pereira,Refrigeration failure,19,3008009,57152171,724,AndesMed
+1345,2025-09-06,Refrigerated truck,Medellín-Bucaramanga,Operational error,16,2308798,36940768,636,AndesMed
+469,2023-04-14,Small refrigerated van,Medellín-Bogotá,Doors left open too long,20,594778,11895560,740,AndesMed
+101,2022-04-11,Refrigerated van,Medellín-Bogotá,Sensor failure,15,1870162,28052430,1485,Glacia
+841,2024-04-20,Refrigerated van,Bogotá-Barranquilla,Sensor failure,7,1330412,9312884,542,AndesMed
+673,2023-11-04,Refrigerated van,Bogotá-Barranquilla,Operational error,18,1630144,29342592,521,AndesMed
+708,2023-12-09,Refrigerated truck,Medellín-Cali,Operational error,14,1744150,24418100,595,AndesMed
+228,2022-08-16,Refrigerated truck,Cali-Pereira,Doors left open too long,6,1398108,8388648,671,AndesMed
+941,2024-07-29,Refrigerated truck,Cali-Pereira,Route delay,28,2477553,69371484,835,AndesMed
+719,2023-12-20,Refrigerated van,Bogotá-Cali,Electrical failure,28,3116126,87251528,649,AndesMed
+383,2023-01-18,Refrigerated truck,Medellín-Bogotá,Doors left open too long,23,1514802,34840446,699,AndesMed
+381,2023-01-16,Small refrigerated van,Bogotá-Cali,Operational error,11,1448436,15932796,1433,Glacia
+456,2023-04-01,Small refrigerated van,Medellín-Bogotá,Route delay,15,1536945,23054175,1042,Glacia
+865,2024-05-14,Refrigerated truck,Bogotá-Cali,Doors left open too long,27,1599479,43185933,621,AndesMed
+792,2024-03-02,Refrigerated van,Medellín-Cali,Sensor failure,14,1125537,15757518,506,AndesMed
+1246,2025-05-30,Small refrigerated van,Medellín-Bucaramanga,Operational error,62,1366150,84701300,891,AndesMed
+742,2024-01-12,Small refrigerated van,Medellín-Bogotá,Refrigeration failure,75,2272890,170466750,637,AndesMed
+753,2024-01-23,Small refrigerated van,Medellín-Bucaramanga,Route delay,62,1354439,83975218,782,AndesMed
+978,2024-09-04,Small refrigerated van,Cali-Pereira,Route delay,81,2129832,172516392,713,AndesMed
+292,2022-10-19,Small refrigerated van,Bogotá-Barranquilla,Doors left open too long,77,817445,62943265,721,AndesMed
+1314,2025-08-06,Small refrigerated van,Medellín-Cali,Operational error,76,992423,75424148,815,AndesMed
+777,2024-02-16,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,70,743470,52042900,677,AndesMed
+1468,2026-01-07,Refrigerated van,Bogotá-Barranquilla,Sensor failure,63,1444056,90975528,745,AndesMed
+1407,2025-11-07,Small refrigerated van,Bogotá-Barranquilla,Operational error,82,1391640,114114480,780,AndesMed
+825,2024-04-04,Refrigerated van,Bogotá-Barranquilla,Refrigeration failure,62,4182382,259307684,847,AndesMed
+815,2024-03-25,Refrigerated truck,Bogotá-Barranquilla,Refrigeration failure,62,5645849,350042638,790,AndesMed
+1074,2024-12-09,Small refrigerated van,Medellín-Bucaramanga,Electrical failure,85,2017764,171509940,860,AndesMed
+334,2022-11-30,Refrigerated van,Medellín-Bogotá,Route delay,63,1942713,122390919,816,AndesMed
+585,2023-08-08,Small refrigerated van,Bogotá-Cali,Sensor failure,85,884654,75195590,731,AndesMed
+586,2023-08-09,Refrigerated van,Medellín-Bogotá,Operational error,66,1321236,87201576,781,AndesMed
+740,2024-01-10,Small refrigerated van,Bogotá-Cali,Electrical failure,133,1809244,240629452,874,AndesMed
+936,2024-07-24,Refrigerated van,Medellín-Bogotá,Operational error,62,1592713,98748206,767,AndesMed
+1494,2026-02-02,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,65,1465407,95251455,810,AndesMed
+733,2024-01-03,Refrigerated truck,Bogotá-Barranquilla,Operational error,69,2530379,174596151,835,AndesMed
+1392,2025-10-23,Small refrigerated van,Bogotá-Cali,Refrigeration failure,78,2234612,174299736,801,AndesMed
+956,2024-08-13,Small refrigerated van,Medellín-Bogotá,Doors left open too long,91,541804,49304164,871,AndesMed
+1284,2025-07-07,Small refrigerated van,Bogotá-Cali,Route delay,63,1495384,94209192,898,AndesMed
+1369,2025-09-30,Small refrigerated van,Medellín-Cali,Doors left open too long,79,755662,59697298,735,AndesMed
+980,2024-09-06,Refrigerated van,Bogotá-Cali,Route delay,64,3409017,218177088,776,AndesMed
+1089,2024-12-24,Small refrigerated van,Medellín-Bucaramanga,Route delay,90,1268075,114126750,892,AndesMed
+179,2022-06-28,Small refrigerated van,Medellín-Bogotá,Operational error,73,1200978,87671394,676,AndesMed
+376,2023-01-11,Refrigerated van,Bogotá-Barranquilla,Sensor failure,71,1388153,98558863,646,AndesMed
+1022,2024-10-18,Small refrigerated van,Medellín-Bucaramanga,Operational error,86,1235135,106221610,746,AndesMed
+987,2024-09-13,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,71,699313,49651223,859,AndesMed
+728,2023-12-29,Refrigerated van,Bogotá-Barranquilla,Route delay,89,2180359,194051951,875,AndesMed
+1130,2025-02-03,Small refrigerated van,Medellín-Bogotá,Sensor failure,82,855319,70136158,879,AndesMed
+1362,2025-09-23,Small refrigerated van,Bogotá-Cali,Operational error,65,885165,57535725,770,AndesMed
+829,2024-04-08,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,71,1069802,75955942,768,AndesMed
+24,2022-01-24,Refrigerated van,Medellín-Bucaramanga,Operational error,80,1825617,146049360,660,AndesMed
+854,2024-05-03,Refrigerated van,Medellín-Bogotá,Sensor failure,67,1354683,90763761,803,AndesMed
+938,2024-07-26,Small refrigerated van,Bogotá-Barranquilla,Doors left open too long,77,849385,65402645,769,AndesMed
+1474,2026-01-13,Small refrigerated van,Medellín-Bogotá,Electrical failure,57,1850869,105499533,766,AndesMed
+3,2022-01-03,Small refrigerated van,Medellín-Bucaramanga,Sensor failure,46,875536,40274656,767,AndesMed
+1463,2026-01-02,Small refrigerated van,Cali-Pereira,Operational error,45,923160,41542200,914,AndesMed
+636,2023-09-28,Small refrigerated van,Bogotá-Barranquilla,Doors left open too long,50,975504,48775200,645,AndesMed
+566,2023-07-20,Small refrigerated van,Medellín-Bogotá,Sensor failure,59,843754,49781486,678,AndesMed
+1208,2025-04-22,Small refrigerated van,Medellín-Cali,Route delay,54,1316214,71075556,843,AndesMed
+679,2023-11-10,Refrigerated van,Medellín-Bogotá,Sensor failure,48,1633472,78406656,745,AndesMed
+1398,2025-10-29,Refrigerated van,Medellín-Bucaramanga,Operational error,54,1837789,99240606,909,AndesMed
+1431,2025-12-01,Small refrigerated van,Medellín-Cali,Sensor failure,50,930799,46539950,918,AndesMed
+1342,2025-09-03,Refrigerated truck,Bogotá-Cali,Operational error,50,2365234,118261700,924,AndesMed
+705,2023-12-06,Refrigerated truck,Medellín-Bucaramanga,Sensor failure,51,1693133,86349783,722,AndesMed
+850,2024-04-29,Refrigerated van,Medellín-Bucaramanga,Operational error,47,1602287,75307489,723,AndesMed
+1202,2025-04-16,Small refrigerated van,Medellín-Bogotá,Route delay,48,1296019,62208912,911,AndesMed
+1188,2025-04-02,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,61,1054460,64322060,859,AndesMed
+901,2024-06-19,Refrigerated van,Bogotá-Barranquilla,Route delay,58,2441479,141605782,705,AndesMed
+1295,2025-07-18,Refrigerated truck,Medellín-Cali,Operational error,50,2063248,103162400,849,AndesMed
+986,2024-09-12,Small refrigerated van,Medellín-Bogotá,Operational error,45,921219,41454855,782,AndesMed
+433,2023-03-09,Refrigerated truck,Medellín-Bogotá,Doors left open too long,48,1670050,80162400,966,AndesMed
+790,2024-02-29,Refrigerated truck,Medellín-Cali,Sensor failure,50,1297170,64858500,742,AndesMed
+1410,2025-11-10,Small refrigerated van,Medellín-Bucaramanga,Electrical failure,57,1766956,100716492,766,AndesMed
+551,2023-07-05,Refrigerated van,Medellín-Bogotá,Doors left open too long,58,1000241,58013978,715,AndesMed
+716,2023-12-17,Small refrigerated van,Medellín-Bogotá,Route delay,45,1199244,53965980,286,AndesMed
+1488,2026-01-27,Refrigerated van,Bogotá-Barranquilla,Route delay,49,1948469,95474981,733,AndesMed
+29,2022-01-29,Small refrigerated van,Bogotá-Barranquilla,Electrical failure,47,1923309,90395523,381,AndesMed
+1467,2026-01-06,Small refrigerated van,Bogotá-Cali,Operational error,52,1158773,60256196,890,AndesMed
+615,2023-09-07,Refrigerated truck,Bogotá-Barranquilla,Operational error,47,2576490,121095030,741,AndesMed
+1076,2024-12-11,Small refrigerated van,Medellín-Bogotá,Doors left open too long,59,595992,35163528,1006,AndesMed
+1077,2024-12-12,Refrigerated van,Medellín-Cali,Operational error,51,1616599,82446549,934,AndesMed
+698,2023-11-29,Refrigerated truck,Bogotá-Cali,Doors left open too long,57,1438249,81980193,708,AndesMed
+1119,2025-01-23,Refrigerated van,Medellín-Bucaramanga,Sensor failure,46,1211251,55717546,862,AndesMed
+374,2023-01-09,Refrigerated van,Bogotá-Cali,Operational error,46,1546794,71152524,633,AndesMed
+754,2024-01-24,Small refrigerated van,Medellín-Bogotá,Operational error,57,1183541,67461837,710,AndesMed
+238,2022-08-26,Small refrigerated van,Bogotá-Barranquilla,Operational error,54,1383462,74706948,642,AndesMed
+1008,2024-10-04,Small refrigerated van,Medellín-Cali,Doors left open too long,58,600629,34836482,737,AndesMed
+1446,2025-12-16,Small refrigerated van,Medellín-Bucaramanga,Operational error,52,939211,48838972,807,AndesMed
+1323,2025-08-15,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,54,1128607,60944778,793,AndesMed
+682,2023-11-13,Refrigerated van,Medellín-Bogotá,Route delay,49,1694123,83012027,737,AndesMed
+957,2024-08-14,Refrigerated van,Medellín-Bucaramanga,Operational error,52,1788581,93006212,722,AndesMed
+928,2024-07-16,Refrigerated van,Medellín-Bucaramanga,Sensor failure,56,1414338,79202928,831,AndesMed
+1071,2024-12-06,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,58,1072944,62230752,886,AndesMed
+1245,2025-05-29,Refrigerated van,Bogotá-Barranquilla,Route delay,58,2440278,141536124,893,AndesMed
+139,2022-05-19,Refrigerated truck,Medellín-Bucaramanga,Operational error,55,2262409,124432495,641,AndesMed
+1063,2024-11-28,Small refrigerated van,Medellín-Cali,Refrigeration failure,58,2569802,149048516,815,AndesMed
+712,2023-12-13,Refrigerated truck,Medellín-Bogotá,Refrigeration failure,56,5013904,280778624,816,AndesMed
+262,2022-09-19,Small refrigerated van,Medellín-Bucaramanga,Route delay,48,1169861,56153328,688,AndesMed
+1075,2024-12-10,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,57,2000077,114004389,1546,Glacia
+396,2023-01-31,Refrigerated van,Medellín-Bucaramanga,Route delay,48,1602918,76940064,670,AndesMed
+38,2022-02-07,Small refrigerated van,Bogotá-Barranquilla,Operational error,45,1147244,51625980,518,AndesMed
+549,2023-07-03,Refrigerated van,Medellín-Bogotá,Operational error,53,1535978,81406834,730,AndesMed
+678,2023-11-09,Refrigerated van,Bogotá-Cali,Operational error,50,1545596,77279800,708,AndesMed
+596,2023-08-19,Small refrigerated van,Medellín-Bogotá,Route delay,49,1046509,51278941,462,AndesMed
+427,2023-03-03,Small refrigerated van,Medellín-Cali,Doors left open too long,61,575747,35120567,739,AndesMed
+726,2023-12-27,Refrigerated van,Bogotá-Barranquilla,Route delay,61,2262779,138029519,659,AndesMed
+1415,2025-11-15,Small refrigerated van,Medellín-Bucaramanga,Operational error,54,1031441,55697814,625,AndesMed
+1418,2025-11-18,Small refrigerated van,Cali-Pereira,Electrical failure,51,1494774,76233474,722,AndesMed
+1004,2024-09-30,Small refrigerated van,Medellín-Bogotá,Sensor failure,52,823266,42809832,918,AndesMed
+554,2023-07-08,Refrigerated truck,Bogotá-Barranquilla,Operational error,51,2245333,114511983,473,AndesMed
+1447,2025-12-17,Refrigerated truck,Bogotá-Barranquilla,Route delay,59,2871445,169415255,825,AndesMed
+536,2023-06-20,Refrigerated van,Medellín-Cali,Operational error,51,1559365,79527615,719,AndesMed
+1279,2025-07-02,Refrigerated van,Medellín-Bogotá,Operational error,46,1641956,75529976,804,AndesMed
+769,2024-02-08,Refrigerated van,Bogotá-Cali,Sensor failure,50,1583236,79161800,674,AndesMed
+21,2022-01-21,Small refrigerated van,Medellín-Bogotá,Route delay,53,1184080,62756240,805,AndesMed
+1026,2024-10-22,Small refrigerated van,Medellín-Bogotá,Doors left open too long,45,794198,35738910,876,AndesMed
+628,2023-09-20,Refrigerated truck,Medellín-Cali,Route delay,54,2011775,108635850,697,AndesMed
+1391,2025-10-22,Small refrigerated van,Bogotá-Cali,Electrical failure,50,1864380,93219000,904,AndesMed
+952,2024-08-09,Refrigerated truck,Medellín-Bogotá,Doors left open too long,45,1098820,49446900,834,AndesMed
+31,2022-01-31,Refrigerated van,Medellín-Bucaramanga,Route delay,49,2050379,100468571,693,AndesMed
+1316,2025-08-08,Refrigerated van,Medellín-Bucaramanga,Operational error,54,2216526,119692404,959,AndesMed
+1336,2025-08-28,Refrigerated van,Bogotá-Barranquilla,Refrigeration failure,52,4101071,213255692,812,AndesMed
+827,2024-04-06,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,49,750376,36768424,567,AndesMed
+1103,2025-01-07,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,54,1272537,68716998,792,AndesMed
+10,2022-01-10,Refrigerated van,Medellín-Bucaramanga,Operational error,50,1423862,71193100,486,AndesMed
+225,2022-08-13,Small refrigerated van,Bogotá-Barranquilla,Route delay,58,1442553,83668074,486,AndesMed
+187,2022-07-06,Refrigerated truck,Bogotá-Barranquilla,Operational error,47,2582143,121360721,738,AndesMed
+916,2024-07-04,Small refrigerated van,Medellín-Cali,Sensor failure,53,719425,38129525,828,AndesMed
+717,2023-12-18,Refrigerated truck,Medellín-Cali,Doors left open too long,52,1195019,62140988,841,AndesMed
+578,2023-08-01,Refrigerated truck,Medellín-Cali,Operational error,46,1876771,86331466,851,AndesMed
+96,2022-04-06,Refrigerated truck,Medellín-Cali,Sensor failure,48,1690639,81150672,722,AndesMed
+1448,2025-12-18,Small refrigerated van,Medellín-Bogotá,Refrigeration failure,55,2072815,114004825,886,AndesMed
+77,2022-03-18,Refrigerated truck,Medellín-Bogotá,Sensor failure,56,1271998,71231888,784,AndesMed
+503,2023-05-18,Refrigerated van,Bogotá-Cali,Operational error,47,1464520,68832440,771,AndesMed
+608,2023-08-31,Small refrigerated van,Medellín-Bogotá,Operational error,57,1037997,59165829,606,AndesMed
+42,2022-02-11,Refrigerated van,Medellín-Bucaramanga,Sensor failure,51,1381670,70465170,661,AndesMed
+556,2023-07-10,Small refrigerated van,Bogotá-Cali,Operational error,53,1357723,71959319,665,AndesMed
+479,2023-04-24,Refrigerated truck,Medellín-Bucaramanga,Sensor failure,31,1605618,49774158,652,AndesMed
+871,2024-05-20,Small refrigerated van,Medellín-Cali,Sensor failure,43,951706,40923358,696,AndesMed
+1355,2025-09-16,Refrigerated truck,Medellín-Cali,Sensor failure,32,1499995,47999840,1027,AndesMed
+565,2023-07-19,Refrigerated van,Cali-Pereira,Refrigeration failure,28,3526082,98730296,597,AndesMed
+1440,2025-12-10,Refrigerated truck,Bogotá-Cali,Operational error,35,2428942,85012970,866,AndesMed
+718,2023-12-19,Refrigerated truck,Medellín-Bucaramanga,Operational error,35,2397412,83909420,628,AndesMed
+377,2023-01-12,Refrigerated truck,Medellín-Bucaramanga,Route delay,30,2830099,84902970,547,AndesMed
+1158,2025-03-03,Refrigerated van,Medellín-Bucaramanga,Route delay,41,1616248,66266168,699,AndesMed
+892,2024-06-10,Small refrigerated van,Bogotá-Cali,Operational error,33,2735685,90277605,1710,Glacia
+1414,2025-11-14,Refrigerated truck,Medellín-Bogotá,Sensor failure,29,2002406,58069774,811,AndesMed
+1376,2025-10-07,Refrigerated van,Medellín-Bucaramanga,Sensor failure,45,1443700,64966500,827,AndesMed
+276,2022-10-03,Refrigerated truck,Medellín-Cali,Doors left open too long,36,1008344,36300384,785,AndesMed
+1454,2025-12-24,Refrigerated van,Cali-Pereira,Operational error,38,1389271,52792298,702,AndesMed
+705,2023-12-06,Small refrigerated van,Medellín-Bogotá,Route delay,35,2279348,79777180,1459,Glacia
+364,2022-12-30,Refrigerated van,Medellín-Bucaramanga,Operational error,32,1499068,47970176,670,AndesMed
+626,2023-09-18,Refrigerated van,Medellín-Bucaramanga,Operational error,43,1920969,82601667,791,AndesMed
+267,2022-09-24,Small refrigerated van,Medellín-Cali,Refrigeration failure,34,3530634,120041556,465,AndesMed
+1097,2025-01-01,Refrigerated van,Bogotá-Cali,Operational error,31,1549112,48022472,778,AndesMed
+80,2022-03-21,Refrigerated van,Bogotá-Cali,Operational error,33,2042567,67404711,660,AndesMed
+595,2023-08-18,Small refrigerated van,Bogotá-Barranquilla,Operational error,35,4352201,152327035,1581,Glacia
+1084,2024-12-19,Refrigerated van,Bogotá-Barranquilla,Route delay,43,2432106,104580558,799,AndesMed
+1300,2025-07-23,Refrigerated truck,Cali-Pereira,Refrigeration failure,36,5131670,184740120,798,AndesMed
+735,2024-01-05,Refrigerated van,Medellín-Bogotá,Operational error,38,1523746,57902348,681,AndesMed
+768,2024-02-07,Refrigerated truck,Cali-Pereira,Doors left open too long,34,776983,26417422,759,AndesMed
+1375,2025-10-06,Small refrigerated van,Cali-Pereira,Route delay,44,1359869,59834236,880,AndesMed
+439,2023-03-15,Refrigerated truck,Medellín-Bogotá,Electrical failure,29,3050174,88455046,701,AndesMed
+210,2022-07-29,Refrigerated truck,Medellín-Bucaramanga,Route delay,33,3262791,107672103,681,AndesMed
+1137,2025-02-10,Refrigerated truck,Bogotá-Barranquilla,Refrigeration failure,28,4758188,133229264,827,AndesMed
+1322,2025-08-14,Small refrigerated van,Bogotá-Cali,Operational error,44,942040,41449760,648,AndesMed
+1219,2025-05-03,Small refrigerated van,Medellín-Bucaramanga,Operational error,40,1075729,43029160,551,AndesMed
+530,2023-06-14,Refrigerated van,Bogotá-Cali,Operational error,39,1746840,68126760,712,AndesMed
+259,2022-09-16,Refrigerated truck,Bogotá-Barranquilla,Refrigeration failure,37,6159592,227904904,741,AndesMed
+1344,2025-09-05,Refrigerated van,Medellín-Cali,Route delay,30,1996530,59895900,809,AndesMed
+1443,2025-12-13,Small refrigerated van,Medellín-Bucaramanga,Operational error,44,1188854,52309576,615,AndesMed
+618,2023-09-10,Refrigerated truck,Medellín-Bucaramanga,Route delay,33,2119077,69929541,296,AndesMed
+1309,2025-08-01,Refrigerated van,Bogotá-Barranquilla,Electrical failure,45,3488726,156992670,860,AndesMed
+1146,2025-02-19,Refrigerated truck,Medellín-Cali,Operational error,32,2063830,66042560,966,AndesMed
+284,2022-10-11,Small refrigerated van,Medellín-Cali,Operational error,33,1240363,40931979,793,AndesMed
+1067,2024-12-02,Refrigerated van,Bogotá-Cali,Route delay,35,2474832,86619120,855,AndesMed
+112,2022-04-22,Small refrigerated van,Bogotá-Cali,Operational error,41,1133403,46469523,601,AndesMed
+676,2023-11-07,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,37,1257297,46519989,794,AndesMed
+988,2024-09-14,Refrigerated truck,Medellín-Bucaramanga,Operational error,42,2654987,111509454,618,AndesMed
+809,2024-03-19,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,30,1245442,37363260,716,AndesMed
+1278,2025-07-01,Refrigerated van,Medellín-Bogotá,Doors left open too long,37,1266177,46848549,777,AndesMed
+721,2023-12-22,Refrigerated truck,Bogotá-Barranquilla,Electrical failure,47,4373064,205534008,710,AndesMed
+196,2022-07-15,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,34,1121795,38141030,499,AndesMed
+943,2024-07-31,Refrigerated van,Bogotá-Cali,Refrigeration failure,30,4224133,126723990,663,AndesMed
+1258,2025-06-11,Refrigerated van,Medellín-Bogotá,Doors left open too long,31,901393,27943183,769,AndesMed
+667,2023-10-29,Small refrigerated van,Medellín-Bogotá,Refrigeration failure,34,9052598,307788332,270,AndesMed
+27,2022-01-27,Refrigerated van,Cali-Pereira,Route delay,36,1841922,66309192,600,AndesMed
+799,2024-03-09,Refrigerated truck,Medellín-Bogotá,Doors left open too long,35,1308480,45796800,528,AndesMed
+920,2024-07-08,Refrigerated van,Bogotá-Barranquilla,Electrical failure,39,2723150,106202850,764,AndesMed
+266,2022-09-23,Refrigerated truck,Bogotá-Barranquilla,Refrigeration failure,27,6243835,168583545,721,AndesMed
+813,2024-03-23,Refrigerated truck,Bogotá-Barranquilla,Electrical failure,26,8790970,228565220,731,AndesMed
+709,2023-12-10,Small refrigerated van,Medellín-Bucaramanga,Electrical failure,30,1890099,56702970,354,AndesMed
+1232,2025-05-16,Refrigerated truck,Medellín-Bogotá,Doors left open too long,31,1125509,34890779,813,AndesMed
+847,2024-04-26,Refrigerated truck,Medellín-Bogotá,Sensor failure,36,2242016,80712576,783,AndesMed
+1364,2025-09-25,Refrigerated van,Bogotá-Barranquilla,Route delay,38,2113356,80307528,804,AndesMed
+354,2022-12-20,Refrigerated van,Medellín-Bucaramanga,Route delay,44,1847711,81299284,677,AndesMed
+816,2024-03-26,Refrigerated van,Bogotá-Cali,Route delay,43,2084172,89619396,831,AndesMed
+397,2023-02-01,Refrigerated truck,Bogotá-Cali,Electrical failure,43,2977592,128036456,874,AndesMed
+959,2024-08-16,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,41,805846,33039686,668,AndesMed
+1265,2025-06-18,Refrigerated truck,Medellín-Cali,Operational error,41,2398885,98354285,932,AndesMed
+583,2023-08-06,Refrigerated van,Bogotá-Cali,Operational error,41,1391651,57057691,291,AndesMed
+1179,2025-03-24,Refrigerated van,Medellín-Cali,Doors left open too long,33,742300,24495900,729,AndesMed
+1007,2024-10-03,Refrigerated van,Medellín-Bogotá,Route delay,30,1944007,58320210,734,AndesMed
+907,2024-06-25,Refrigerated truck,Medellín-Bogotá,Refrigeration failure,28,4236116,118611248,700,AndesMed
+1166,2025-03-11,Small refrigerated van,Bogotá-Barranquilla,Route delay,42,3558110,149440620,1597,Glacia
+818,2024-03-28,Refrigerated van,Bogotá-Barranquilla,Route delay,39,2126035,82915365,784,AndesMed
+1479,2026-01-18,Small refrigerated van,Bogotá-Cali,Route delay,40,1426956,57078240,390,AndesMed
+580,2023-08-03,Refrigerated van,Medellín-Cali,Operational error,36,1587306,57143016,818,AndesMed
+642,2023-10-04,Refrigerated truck,Medellín-Cali,Refrigeration failure,40,4556317,182252680,751,AndesMed
+531,2023-06-15,Refrigerated truck,Medellín-Bucaramanga,Operational error,31,2342787,72626397,806,AndesMed
+221,2022-08-09,Refrigerated truck,Medellín-Cali,Doors left open too long,31,1141574,35388794,601,AndesMed
+591,2023-08-14,Refrigerated truck,Cali-Pereira,Doors left open too long,45,1354946,60972570,721,AndesMed
+838,2024-04-17,Refrigerated truck,Medellín-Cali,Route delay,34,2217378,75390852,800,AndesMed
+1473,2026-01-12,Refrigerated van,Bogotá-Cali,Electrical failure,29,2320945,67307405,714,AndesMed
+869,2024-05-18,Refrigerated van,Medellín-Bogotá,Doors left open too long,31,967968,30007008,486,AndesMed
+1075,2024-12-10,Refrigerated truck,Bogotá-Cali,Doors left open too long,30,1136942,34108260,875,AndesMed
+1169,2025-03-14,Refrigerated truck,Bogotá-Cali,Doors left open too long,39,1542315,60150285,735,AndesMed
+1288,2025-07-11,Refrigerated van,Medellín-Bogotá,Refrigeration failure,32,3511481,112367392,794,AndesMed
+738,2024-01-08,Refrigerated van,Bogotá-Barranquilla,Operational error,45,1398354,62925930,734,AndesMed
+664,2023-10-26,Refrigerated van,Medellín-Cali,Operational error,45,1781339,80160255,812,AndesMed
+83,2022-03-24,Refrigerated van,Medellín-Bucaramanga,Operational error,32,1432311,45833952,593,AndesMed
+927,2024-07-15,Refrigerated van,Medellín-Bucaramanga,Operational error,41,1628291,66759931,601,AndesMed
+647,2023-10-09,Refrigerated van,Medellín-Bogotá,Route delay,34,1829043,62187462,649,AndesMed
+402,2023-02-06,Refrigerated van,Medellín-Bogotá,Refrigeration failure,29,3975346,115285034,800,AndesMed
+917,2024-07-05,Refrigerated van,Medellín-Bucaramanga,Route delay,38,2120282,80570716,835,AndesMed
+470,2023-04-15,Refrigerated van,Medellín-Bucaramanga,Route delay,44,2136842,94021048,617,AndesMed
+686,2023-11-17,Refrigerated truck,Medellín-Bogotá,Operational error,29,1951063,56580827,809,AndesMed
+570,2023-07-24,Refrigerated truck,Cali-Pereira,Route delay,43,1921968,82644624,813,AndesMed
+1419,2025-11-19,Refrigerated van,Bogotá-Barranquilla,Electrical failure,34,3308925,112503450,902,AndesMed
+592,2023-08-15,Refrigerated van,Bogotá-Cali,Operational error,39,1676850,65397150,722,AndesMed
+1144,2025-02-17,Refrigerated truck,Medellín-Cali,Route delay,32,2684416,85901312,728,AndesMed
+589,2023-08-12,Refrigerated van,Medellín-Cali,Operational error,44,1544363,67951972,587,AndesMed
+1032,2024-10-28,Small refrigerated van,Medellín-Cali,Operational error,37,1202762,44502194,850,AndesMed
+20,2022-01-20,Refrigerated van,Bogotá-Barranquilla,Refrigeration failure,33,4343668,143341044,627,AndesMed
+949,2024-08-06,Refrigerated truck,Medellín-Bogotá,Doors left open too long,31,1726608,53524848,901,AndesMed
+409,2023-02-13,Refrigerated truck,Bogotá-Barranquilla,Electrical failure,33,4221259,139301547,545,AndesMed
+220,2022-08-08,Refrigerated truck,Bogotá-Barranquilla,Operational error,43,2197138,94476934,730,AndesMed
+525,2023-06-09,Refrigerated van,Medellín-Bucaramanga,Operational error,41,1765284,72376644,631,AndesMed
+782,2024-02-21,Refrigerated van,Medellín-Cali,Route delay,34,1873399,63695566,631,AndesMed
+1413,2025-11-13,Refrigerated truck,Medellín-Bucaramanga,Operational error,31,2280606,70698786,942,AndesMed
+1277,2025-06-30,Small refrigerated van,Medellín-Bogotá,Operational error,40,1182170,47286800,861,AndesMed
+1263,2025-06-16,Refrigerated truck,Medellín-Bucaramanga,Refrigeration failure,30,4710204,141306120,896,AndesMed
+896,2024-06-14,Refrigerated truck,Bogotá-Cali,Route delay,32,2695724,86263168,707,AndesMed
+922,2024-07-10,Refrigerated truck,Bogotá-Cali,Electrical failure,37,3108072,114998664,827,AndesMed
+834,2024-04-13,Small refrigerated van,Medellín-Bogotá,Electrical failure,36,1687518,60750648,576,AndesMed
+32,2022-02-01,Refrigerated truck,Bogotá-Barranquilla,Sensor failure,36,2217946,79846056,730,AndesMed
+234,2022-08-22,Small refrigerated van,Medellín-Bogotá,Route delay,34,1236065,42026210,647,AndesMed
+602,2023-08-25,Refrigerated truck,Bogotá-Barranquilla,Operational error,32,2756659,88213088,819,AndesMed
+495,2023-05-10,Small refrigerated van,Medellín-Cali,Route delay,39,1341544,52320216,558,AndesMed
+780,2024-02-19,Small refrigerated van,Bogotá-Cali,Refrigeration failure,37,4409951,163168187,838,AndesMed
+1459,2025-12-29,Refrigerated truck,Bogotá-Barranquilla,Route delay,37,2680886,99192782,676,AndesMed
+620,2023-09-12,Refrigerated van,Cali-Pereira,Electrical failure,32,2621628,83892096,713,AndesMed
+1107,2025-01-11,Small refrigerated van,Medellín-Bogotá,Operational error,38,1330582,50562116,612,AndesMed
+971,2024-08-28,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,40,2576619,103064760,1598,Glacia
+886,2024-06-04,Refrigerated van,Medellín-Bucaramanga,Electrical failure,37,2866360,106055320,770,AndesMed
+1030,2024-10-26,Small refrigerated van,Bogotá-Barranquilla,Electrical failure,30,1951908,58557240,566,AndesMed
+979,2024-09-05,Refrigerated truck,Medellín-Bucaramanga,Route delay,40,5286511,211460440,733,AndesMed
+671,2023-11-02,Small refrigerated van,Medellín-Bucaramanga,Electrical failure,40,1932770,77310800,644,AndesMed
+802,2024-03-12,Small refrigerated van,Medellín-Cali,Operational error,44,821393,36141292,689,AndesMed
+1019,2024-10-15,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,30,1091271,32738130,808,AndesMed
+651,2023-10-13,Refrigerated truck,Cali-Pereira,Doors left open too long,34,1541219,52401446,809,AndesMed
+683,2023-11-14,Refrigerated truck,Medellín-Bogotá,Refrigeration failure,29,5213421,151189209,626,AndesMed
+840,2024-04-19,Refrigerated van,Medellín-Bogotá,Route delay,46,2250671,103530866,614,AndesMed
+1379,2025-10-10,Refrigerated van,Bogotá-Barranquilla,Route delay,37,1832627,67807199,804,AndesMed
+1195,2025-04-09,Small refrigerated van,Medellín-Cali,Operational error,30,985321,29559630,696,AndesMed
+543,2023-06-27,Refrigerated truck,Medellín-Cali,Operational error,42,1957058,82196436,744,AndesMed
+516,2023-05-31,Refrigerated truck,Bogotá-Cali,Operational error,36,2400219,86407884,699,AndesMed
+1456,2025-12-26,Refrigerated van,Medellín-Bucaramanga,Operational error,40,1790316,71612640,717,AndesMed
+421,2023-02-25,Small refrigerated van,Medellín-Bogotá,Operational error,43,1160668,49908724,536,AndesMed
+632,2023-09-24,Small refrigerated van,Medellín-Cali,Operational error,41,1157127,47442207,271,AndesMed
+1131,2025-02-04,Refrigerated van,Bogotá-Barranquilla,Electrical failure,29,3006373,87184817,844,AndesMed
+1001,2024-09-27,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,39,666238,25983282,819,AndesMed
+403,2023-02-07,Refrigerated van,Medellín-Bogotá,Operational error,31,1464486,45399066,753,AndesMed
+1127,2025-01-31,Small refrigerated van,Medellín-Bucaramanga,Operational error,33,937718,30944694,769,AndesMed
+475,2023-04-20,Refrigerated van,Medellín-Bogotá,Route delay,34,1814103,61679502,706,AndesMed
+1491,2026-01-30,Small refrigerated van,Bogotá-Cali,Operational error,43,1272270,54707610,853,AndesMed
+1433,2025-12-03,Refrigerated van,Medellín-Bogotá,Sensor failure,43,1090149,46876407,863,AndesMed
+965,2024-08-22,Refrigerated van,Medellín-Cali,Operational error,43,1548582,66589026,668,AndesMed
+593,2023-08-16,Small refrigerated van,Cali-Pereira,Operational error,37,836666,30956642,778,AndesMed
+256,2022-09-13,Refrigerated truck,Bogotá-Cali,Route delay,29,3570218,103536322,759,AndesMed
+424,2023-02-28,Refrigerated van,Medellín-Bogotá,Route delay,40,1813906,72556240,617,AndesMed
+607,2023-08-30,Refrigerated van,Medellín-Bogotá,Electrical failure,32,1879847,60155104,629,AndesMed
+508,2023-05-23,Refrigerated truck,Medellín-Bucaramanga,Operational error,35,2155059,75427065,706,AndesMed
+707,2023-12-08,Refrigerated van,Medellín-Bogotá,Electrical failure,36,4331232,155924352,703,AndesMed
+398,2023-02-02,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,37,1282215,47441955,676,AndesMed
+740,2024-01-10,Refrigerated van,Bogotá-Cali,Doors left open too long,35,2861246,100143610,1703,Glacia
+28,2022-01-28,Small refrigerated van,Medellín-Bucaramanga,Sensor failure,37,752798,27853526,577,AndesMed
+991,2024-09-17,Refrigerated truck,Medellín-Bogotá,Doors left open too long,32,1069919,34237408,817,AndesMed
+295,2022-10-22,Refrigerated van,Medellín-Bogotá,Sensor failure,34,1415266,48119044,557,AndesMed
+588,2023-08-11,Refrigerated truck,Medellín-Bogotá,Route delay,44,2114144,93022336,773,AndesMed
+118,2022-04-28,Small refrigerated van,Bogotá-Barranquilla,Operational error,45,1239211,55764495,740,AndesMed
+158,2022-06-07,Refrigerated van,Medellín-Cali,Route delay,34,2147203,73004902,699,AndesMed
+601,2023-08-24,Refrigerated van,Medellín-Bucaramanga,Operational error,35,1526165,53415775,795,AndesMed
+840,2024-04-19,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,36,1774982,63899352,1694,Glacia
+1235,2025-05-19,Small refrigerated van,Medellín-Cali,Sensor failure,33,1031944,34054152,750,AndesMed
+1470,2026-01-09,Refrigerated truck,Medellín-Bucaramanga,Refrigeration failure,40,5028983,201159320,1088,AndesMed
+1417,2025-11-17,Refrigerated truck,Bogotá-Cali,Sensor failure,42,1974495,82928790,787,AndesMed
+595,2023-08-18,Refrigerated van,Medellín-Bogotá,Operational error,32,2087359,66795488,771,AndesMed
+881,2024-05-30,Small refrigerated van,Medellín-Cali,Sensor failure,41,803648,32949568,882,AndesMed
+902,2024-06-20,Refrigerated van,Bogotá-Barranquilla,Sensor failure,30,1483732,44511960,756,AndesMed
+823,2024-04-02,Refrigerated van,Bogotá-Cali,Operational error,38,1296467,49265746,740,AndesMed
+1285,2025-07-08,Refrigerated van,Cali-Pereira,Doors left open too long,41,853405,34989605,767,AndesMed
+1190,2025-04-04,Small refrigerated van,Medellín-Bucaramanga,Sensor failure,38,935146,35535548,851,AndesMed
+152,2022-06-01,Small refrigerated van,Medellín-Bogotá,Doors left open too long,39,829079,32334081,651,AndesMed
+552,2023-07-06,Refrigerated truck,Cali-Pereira,Operational error,41,1834122,75199002,803,AndesMed
+900,2024-06-18,Refrigerated van,Bogotá-Cali,Operational error,31,1455269,45113339,771,AndesMed
+777,2024-02-16,Small refrigerated van,Medellín-Cali,Operational error,40,2508343,100333720,1649,Glacia
+192,2022-07-11,Refrigerated van,Medellín-Bucaramanga,Operational error,31,1704816,52849296,706,AndesMed
+774,2024-02-13,Small refrigerated van,Medellín-Bucaramanga,Operational error,37,1266970,46877890,509,AndesMed
+789,2024-02-28,Small refrigerated van,Medellín-Bogotá,Route delay,34,2319671,78868814,1515,Glacia
+206,2022-07-25,Refrigerated truck,Bogotá-Barranquilla,Doors left open too long,41,1342095,55025895,664,AndesMed
+1013,2024-10-09,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,32,613586,19634752,761,AndesMed
+349,2022-12-15,Small refrigerated van,Medellín-Bogotá,Doors left open too long,34,545722,18554548,676,AndesMed
+348,2022-12-14,Refrigerated truck,Medellín-Bucaramanga,Operational error,29,2083388,60418252,665,AndesMed
+619,2023-09-11,Small refrigerated van,Medellín-Cali,Operational error,32,1020158,32645056,788,AndesMed
+1441,2025-12-11,Refrigerated van,Medellín-Cali,Doors left open too long,34,790857,26889138,723,AndesMed
+291,2022-10-18,Refrigerated truck,Medellín-Bucaramanga,Operational error,33,2480339,81851187,677,AndesMed
+175,2022-06-24,Refrigerated van,Bogotá-Cali,Doors left open too long,41,872780,35783980,577,AndesMed
+1162,2025-03-07,Refrigerated van,Bogotá-Barranquilla,Sensor failure,35,3321021,116235735,1962,Glacia
+743,2024-01-13,Refrigerated truck,Bogotá-Cali,Refrigeration failure,34,4613827,156870118,637,AndesMed
+458,2023-04-03,Refrigerated truck,Bogotá-Barranquilla,Operational error,35,2445075,85577625,737,AndesMed
+934,2024-07-22,Refrigerated truck,Cali-Pereira,Doors left open too long,30,1217988,36539640,848,AndesMed
+610,2023-09-02,Refrigerated van,Cali-Pereira,Electrical failure,37,2695848,99746376,552,AndesMed
+767,2024-02-06,Refrigerated truck,Cali-Pereira,Operational error,34,1721305,58524370,856,AndesMed
+625,2023-09-17,Refrigerated van,Bogotá-Barranquilla,Route delay,33,2289010,75537330,315,AndesMed
+272,2022-09-29,Refrigerated van,Medellín-Bogotá,Electrical failure,33,2168311,71554263,904,AndesMed
+757,2024-01-27,Refrigerated truck,Cali-Pereira,Refrigeration failure,31,5517301,171036331,603,AndesMed
+571,2023-07-25,Refrigerated truck,Medellín-Cali,Refrigeration failure,41,5064974,207663934,840,AndesMed
+1267,2025-06-20,Refrigerated van,Bogotá-Cali,Electrical failure,40,3135108,125404320,1003,AndesMed
+507,2023-05-22,Refrigerated van,Bogotá-Cali,Electrical failure,31,2637625,81766375,796,AndesMed
+1449,2025-12-19,Refrigerated van,Medellín-Bucaramanga,Route delay,39,1850395,72165405,903,AndesMed
+1476,2026-01-15,Refrigerated van,Medellín-Bogotá,Operational error,30,1342239,40267170,862,AndesMed
+935,2024-07-23,Refrigerated van,Bogotá-Barranquilla,Route delay,46,2331349,107242054,724,AndesMed
+810,2024-03-20,Refrigerated van,Medellín-Bogotá,Operational error,33,1403561,46317513,667,AndesMed
+1220,2025-05-04,Small refrigerated van,Bogotá-Barranquilla,Operational error,36,1223325,44039700,325,AndesMed
+474,2023-04-19,Refrigerated truck,Bogotá-Cali,Refrigeration failure,30,4122150,123664500,620,AndesMed
+1393,2025-10-24,Refrigerated van,Bogotá-Barranquilla,Operational error,39,1607549,62694411,789,AndesMed
+1438,2025-12-08,Refrigerated truck,Bogotá-Barranquilla,Operational error,37,2320109,85844033,875,AndesMed
+976,2024-09-02,Refrigerated truck,Medellín-Bogotá,Route delay,40,3318533,132741320,734,AndesMed
+94,2022-04-04,Small refrigerated van,Bogotá-Cali,Electrical failure,33,1768575,58362975,689,AndesMed
+1280,2025-07-03,Small refrigerated van,Medellín-Cali,Route delay,41,1379107,56543387,732,AndesMed
+1432,2025-12-02,Refrigerated truck,Medellín-Bucaramanga,Route delay,30,2434572,73037160,808,AndesMed
+129,2022-05-09,Refrigerated van,Medellín-Cali,Operational error,32,1614275,51656800,693,AndesMed
+1243,2025-05-27,Refrigerated van,Medellín-Bucaramanga,Sensor failure,39,1314153,51251967,622,AndesMed
+263,2022-09-20,Refrigerated van,Bogotá-Barranquilla,Operational error,32,1747228,55911296,672,AndesMed
+627,2023-09-19,Refrigerated truck,Bogotá-Cali,Doors left open too long,37,1225758,45353046,656,AndesMed
+1412,2025-11-12,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,34,1212378,41220852,720,AndesMed
+314,2022-11-10,Refrigerated truck,Bogotá-Barranquilla,Operational error,32,2471635,79092320,600,AndesMed
+1148,2025-02-21,Refrigerated van,Medellín-Bogotá,Route delay,30,2284166,68524980,768,AndesMed
+111,2022-04-21,Small refrigerated van,Bogotá-Cali,Route delay,43,1250832,53785776,671,AndesMed
+214,2022-08-02,Refrigerated van,Medellín-Bogotá,Operational error,30,1466196,43985880,747,AndesMed
+1114,2025-01-18,Small refrigerated van,Medellín-Bucaramanga,Operational error,38,1264828,48063464,641,AndesMed
+1356,2025-09-17,Refrigerated van,Bogotá-Barranquilla,Refrigeration failure,32,5119779,163832928,721,AndesMed
+1082,2024-12-17,Refrigerated truck,Medellín-Bucaramanga,Route delay,35,3529070,123517450,840,AndesMed
+105,2022-04-15,Refrigerated van,Medellín-Bogotá,Electrical failure,30,2965387,88961610,755,AndesMed
+1434,2025-12-04,Refrigerated van,Medellín-Bogotá,Doors left open too long,39,989052,38573028,928,AndesMed
+4,2022-01-04,Refrigerated van,Bogotá-Barranquilla,Operational error,31,1673472,51877632,710,AndesMed
+452,2023-03-28,Small refrigerated van,Medellín-Cali,Route delay,31,1081108,33514348,672,AndesMed
+1173,2025-03-18,Refrigerated van,Bogotá-Cali,Sensor failure,37,1480849,54791413,978,AndesMed
+1477,2026-01-16,Refrigerated truck,Medellín-Cali,Sensor failure,36,1416280,50986080,872,AndesMed
+386,2023-01-21,Small refrigerated van,Medellín-Bogotá,Sensor failure,34,1966508,66861272,1245,Glacia
+521,2023-06-05,Small refrigerated van,Medellín-Bogotá,Doors left open too long,34,670052,22781768,795,AndesMed
+343,2022-12-09,Refrigerated van,Medellín-Bogotá,Refrigeration failure,36,3509201,126331236,776,AndesMed
+1228,2025-05-12,Refrigerated van,Bogotá-Cali,Route delay,29,1961931,56895999,870,AndesMed
+279,2022-10-06,Refrigerated truck,Medellín-Bucaramanga,Sensor failure,35,1943301,68015535,706,AndesMed
+340,2022-12-06,Refrigerated van,Bogotá-Barranquilla,Doors left open too long,31,1359134,42133154,797,AndesMed
+1147,2025-02-20,Refrigerated van,Cali-Pereira,Refrigeration failure,45,2784749,125313705,859,AndesMed
+336,2022-12-02,Refrigerated truck,Bogotá-Cali,Operational error,30,1762616,52878480,593,AndesMed
+680,2023-11-11,Small refrigerated van,Medellín-Bucaramanga,Electrical failure,37,2502460,92591020,491,AndesMed
+1056,2024-11-21,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,43,957309,41164287,804,AndesMed
+102,2022-04-12,Refrigerated truck,Bogotá-Cali,Operational error,35,2633169,92160915,667,AndesMed
+670,2023-11-01,Refrigerated van,Medellín-Bogotá,Operational error,38,1691014,64258532,734,AndesMed
+945,2024-08-02,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,33,1374841,45369753,699,AndesMed
+1390,2025-10-21,Small refrigerated van,Bogotá-Cali,Doors left open too long,42,718425,30173850,797,AndesMed
+819,2024-03-29,Refrigerated truck,Medellín-Cali,Route delay,37,3301304,122148248,718,AndesMed
+1399,2025-10-30,Refrigerated truck,Medellín-Bogotá,Refrigeration failure,35,3679379,128778265,813,AndesMed
+1406,2025-11-06,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,40,930337,37213480,673,AndesMed
+255,2022-09-12,Refrigerated truck,Medellín-Bogotá,Operational error,30,2646097,79382910,670,AndesMed
+1291,2025-07-14,Refrigerated van,Medellín-Bucaramanga,Route delay,31,1980191,61385921,1024,AndesMed
+174,2022-06-23,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,37,955230,35343510,774,AndesMed
+584,2023-08-07,Refrigerated van,Medellín-Cali,Operational error,35,1525009,53375315,572,AndesMed
+1268,2025-06-21,Refrigerated van,Medellín-Bucaramanga,Doors left open too long,32,723922,23165504,657,AndesMed
+1363,2025-09-24,Small refrigerated van,Medellín-Cali,Operational error,32,1029757,32952224,798,AndesMed
+1483,2026-01-22,Refrigerated truck,Cali-Pereira,Route delay,32,2185228,69927296,824,AndesMed
+315,2022-11-11,Small refrigerated van,Medellín-Bucaramanga,Route delay,36,1485819,53489484,722,AndesMed
+205,2022-07-24,Small refrigerated van,Bogotá-Cali,Operational error,33,1252574,41334942,338,AndesMed
+760,2024-01-30,Refrigerated truck,Medellín-Bucaramanga,Route delay,29,2032235,58934815,632,AndesMed
+1349,2025-09-10,Refrigerated van,Medellín-Bogotá,Sensor failure,38,1482974,56353012,706,AndesMed
+219,2022-08-07,Small refrigerated van,Bogotá-Barranquilla,Operational error,41,1207581,49510821,255,AndesMed
+844,2024-04-23,Refrigerated van,Bogotá-Cali,Doors left open too long,34,1184163,40261542,718,AndesMed
+783,2024-02-22,Refrigerated van,Medellín-Bucaramanga,Operational error,36,1384105,49827780,911,AndesMed
+873,2024-05-22,Small refrigerated van,Bogotá-Cali,Sensor failure,32,830876,26588032,755,AndesMed
+770,2024-02-09,Refrigerated truck,Medellín-Bogotá,Operational error,32,2170681,69461792,767,AndesMed
+487,2023-05-02,Refrigerated truck,Bogotá-Cali,Operational error,30,2441050,73231500,828,AndesMed
+181,2022-06-30,Refrigerated van,Bogotá-Barranquilla,Electrical failure,39,3457100,134826900,626,AndesMed
+517,2023-06-01,Small refrigerated van,Medellín-Bucaramanga,Doors left open too long,38,851072,32340736,709,AndesMed
+937,2024-07-25,Small refrigerated van,Medellín-Bogotá,Operational error,44,880974,38762856,979,AndesMed
+445,2023-03-21,Refrigerated truck,Bogotá-Barranquilla,Sensor failure,34,1460711,49664174,811,AndesMed
+320,2022-11-16,Small refrigerated van,Medellín-Bogotá,Doors left open too long,42,670660,28167720,797,AndesMed
+1142,2025-02-15,Small refrigerated van,Bogotá-Barranquilla,Operational error,41,1497133,61382453,634,AndesMed
+1145,2025-02-18,Refrigerated van,Bogotá-Barranquilla,Route delay,37,2233364,82634468,961,AndesMed
+538,2023-06-22,Refrigerated van,Medellín-Bucaramanga,Electrical failure,30,8064253,241927590,811,AndesMed
+785,2024-02-24,Refrigerated truck,Medellín-Bogotá,Operational error,32,2386473,76367136,517,AndesMed
+864,2024-05-13,Refrigerated truck,Medellín-Cali,Electrical failure,37,3405454,126001798,669,AndesMed
+614,2023-09-06,Refrigerated truck,Medellín-Cali,Doors left open too long,35,1174993,41124755,710,AndesMed
+46,2022-02-15,Refrigerated van,Medellín-Bucaramanga,Sensor failure,34,973102,33085468,639,AndesMed
+1095,2024-12-30,Refrigerated truck,Bogotá-Cali,Operational error,43,2188238,94094234,823,AndesMed
+363,2022-12-29,Refrigerated truck,Medellín-Bogotá,Route delay,33,3443894,113648502,758,AndesMed
+1242,2025-05-26,Refrigerated truck,Medellín-Bucaramanga,Doors left open too long,30,1623050,48691500,767,AndesMed
+1010,2024-10-06,Small refrigerated van,Medellín-Bogotá,Electrical failure,30,2181014,65430420,349,AndesMed
+1020,2024-10-16,Refrigerated van,Bogotá-Cali,Route delay,34,1660567,56459278,860,AndesMed
