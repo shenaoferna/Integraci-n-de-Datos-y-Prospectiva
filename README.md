@@ -98,4 +98,4 @@ At level 1.5, the Medium strategy captures **802 million COP in net benefit and 
 ---
 
 **Author:** Sara Henao Fernández · Final project, Data Integration & Strategic Foresight, Universidad EAFIT
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [Portfolio](https://github.com/shenaoferna)
+[LinkedIn](https://www.linkedin.com/in/sara-henao-fern%C3%A1ndez-0736752a6/) · [Portfolio](https://github.com/shenaoferna)
